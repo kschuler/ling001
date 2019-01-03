@@ -1,12 +1,13 @@
 ---
 layout: page
-title: Home
+title: Spring 2018
 ---
 
-Course description goes here
-## Syllabus
 
-### About
+Course description goes here
+## Course 
+
+## About
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque maximus turpis at imperdiet viverra. Etiam ornare mattis ipsum at rhoncus. Aenean eu vehicula massa. Etiam sit amet lacinia risus, vel vehicula nunc. Vivamus velit ex, feugiat non metus ac, blandit tempor tortor. In et commodo dolor. Donec pharetra neque lectus, quis vestibulum dui porttitor eu. Aliquam non ipsum sed risus tincidunt semper at sed lorem. Donec quis accumsan erat, nec congue leo.
 
