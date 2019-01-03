@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Syllabus
+title: Home
 ---
 
 Course description goes here
