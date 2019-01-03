@@ -21,7 +21,8 @@ dark_theme: false            # enables dark mode
 navigation:                  # (optional) site navigation in the header
   - index.md
   - index.md#schedule
-  - archive.md
+  - title: "test"
+    url: index.md#policies
   - about.md
 
 icons:                       # (optional) icons in the header, see http://fontawesome.com/icons
