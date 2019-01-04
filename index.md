@@ -17,11 +17,13 @@ Linguistics Department, Conference Room
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque maximus turpis at imperdiet viverra. Etiam ornare mattis ipsum at rhoncus. Aenean eu vehicula massa. Etiam sit amet lacinia risus, vel vehicula nunc. Vivamus velit ex, feugiat non metus ac, blandit tempor tortor. In et commodo dolor. Donec pharetra neque lectus, quis vestibulum dui porttitor eu. Aliquam non ipsum sed risus tincidunt semper at sed lorem. Donec quis accumsan erat, nec congue leo.
 
 ### Requirements
-Students are expected to play an active role in class discussion. In each class, for each assigned paper, one student will serve as the primary discussant of the paper.  On the designated class, this student will lead the discussion, facilitate communication, and be primarily responsible for the assigned material.  However, all students are required to read the assigned material and contribute to the class discussion.
+All students - including those auditing - are expected to play an active role in class discussion. In each class, one student will be assigned to be the primary discussant of each paper.  The primary discussant leads the discussion, facilitates communication, and is primarily responsible for the assigned material.  However, everyone is required to read the assigned material and contribute to the class discussion.
+
+If you are taking the course for credit, your final project will be a research proposal.  Your proposal will be reviewed in an in-class mock study section, and you'll be required to write a formal response to the reviews you receive.
 
 ### Evaluation
 
-* **20% Discussion questions and participation in class discussion**: Before each class, you'll post 5-8 discussion questions that reflect your understanding and thoughts on the assigned readings.  These questions will serve as the basis for our in-class discussion.  These posting are meant to be very informal – a simple list of questions would suffice, but a narrative style is fine if you prefer that.  There are no formatting restrictions.
+* **20% Discussion questions and participation in class discussion**: Before each class, you'll post 5-8 discussion questions that reflect your understanding and thoughts on the assigned readings.  These questions will serve as the basis for our in-class discussion.  
 
 * **40% Research proposal**: You'll write a research proposal in which you propose a single experiment to test a theory of syntax acquisition.  The proposal will follow the format of an NIH R03 application - 1 page for specific aims and 6 pages for the research plan.  More details about the proposal, including format, grading criteria, and samples, are available [here](spring2019/research-proposal).
 
@@ -56,7 +58,7 @@ W | Date | Topic | Readings & **Deadlines**
 
 ### Discussion question instructions
 
-* Please post on [Canvas](https://canvas.upenn.edu/) by midnight on Monday before class.
+* Please post 5-8 discussion questions on [Canvas](https://canvas.upenn.edu/) by midnight on Monday before class. Your questions should reflect your understanding and thoughts on the assigned readings and will serve as the basis for our in-class discussion. These posting are meant to be very informal – a simple list of questions will suffice, but a narrative style is fine, too, if you prefer that.  There are no formatting restrictions.
 
 ### Research proposal instructions
 
