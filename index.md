@@ -34,46 +34,25 @@ If you are taking the course for credit, your final project will be a research p
 
 ## Schedule
 
-W | Date | Topic | Readings & **Deadlines**
---- | --- | --- | ---
-1 | 16-Jan |  |
-2 | 23-Jan |  |
-3 | 30-Jan |  | 
-4 | 06-Feb |  |
-5 | 13-Feb |  |
-6 | 20-Feb |  | **Specific Aims due**
-7 | 27-Feb |  |
-8 | 06-Mar | No class, Spring break |
-9 | 13-Mar |  |
-10 | 20-Mar |  |
-11 | 27-Mar |  | **Deadline to submit [proposal draft](spring2018/research-proposal.html) for feedback from Katie (optional)**
-12 | 03-Apr |  |
-13 | 10-Apr |  | **[Proposals](spring2018/research-proposal.html) due by midnight**
-14 | 17-Apr |  |
-15 | 24-Apr |  | **[Written critiques](spring2018/research-proposal.html#in-class-peer-review) due on April 23 by midnight**
-16 | 01-May |  |
-17 | 08-May |  | **[Response to reviewers' critiques](spring2018/research-proposal.html#written-response-to-reviews) due**
-
-
-Week (Date)| Topic | Readings & **Deadlines**
---- | --- | --- | ---
-1 (16-Jan) |  |
-2 23-Jan |  |
-3 30-Jan |  | 
-4 06-Feb |  |
-5 13-Feb |  |
-6 20-Feb |  | **Specific Aims due**
-7 27-Feb |  |
-8 06-Mar | No class, Spring break |
-9 13-Mar |  |
-10 20-Mar |  |
-11 27-Mar |  | **Deadline to submit [proposal draft](spring2018/research-proposal.html) for feedback from Katie (optional)**
-12 03-Apr |  |
-13 10-Apr |  | **[Proposals](spring2018/research-proposal.html) due by midnight**
-14 17-Apr |  |
-15 24-Apr |  | **[Written critiques](spring2018/research-proposal.html#in-class-peer-review) due on April 23 by midnight**
-16 01-May |  |
-17 08-May |  | **[Response to reviewers' critiques](spring2018/research-proposal.html#written-response-to-reviews) due**
+Date | Topic | Readings & **Deadlines**
+ --- | --- | ---
+16-Jan | Prosodic bootstrapping |
+23-Jan | Evidence of prosodic bootstrapping |
+30-Jan | Evidence of prosodic bootstrapping in other languages| 
+06-Feb |  Theory 2 |
+ 13-Feb | Evidence for theory 2 |
+20-Feb | Evidence for theory 2 cross language | **Specific Aims due**
+ 27-Feb | Critique specific aims |
+06-Mar | No class, Spring break |
+ 13-Mar | Theory 3 |
+ 20-Mar | Evidence for theory 3 |
+ 27-Mar | Evidence for theory cross languages | **Deadline to submit [proposal draft](spring2018/research-proposal.html) for feedback from Katie (optional)**
+ 03-Apr | Theory 4 |
+ 10-Apr | Evidence for theory 4 | **[Proposals](spring2018/research-proposal.html) due by midnight**
+17-Apr | Evidence for theory 4 cross-linguistic|
+24-Apr | Mock study section | **[Written critiques](spring2018/research-proposal.html#in-class-peer-review) due on April 23 by midnight**
+ 01-May | Final class |
+ 08-May |  | **[Response to reviewers' critiques](spring2018/research-proposal.html#written-response-to-reviews) due**
 
 ## Resources
 
