@@ -19,9 +19,10 @@ dark_nav: false              # keep header and footer dark (applies only when st
 dark_theme: false            # enables dark mode
 
 navigation:                  # (optional) site navigation in the header
-  About: "index.md"
+  About: index.md
   Schedule: index.html#schedule
   Policies: index.html#policies
+  Resources: index.html#resources
 
 icons:                       # (optional) icons in the header, see http://fontawesome.com/icons
   envelope: "mailto:"
