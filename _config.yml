@@ -26,10 +26,10 @@ navigation:                  # (optional) site navigation in the header
   Resources: index.html#resources
   Readings: index.html#readings
 
-icons:                       # (optional) icons in the header, see http://fontawesome.com/icons
-  envelope: "mailto:"
-  github: "https://github.com"
-  rss: "/feed.xml"
+icons:                       # show icons in the header, for all possible icons see http://fontawesome.io/icons/
+  github: "https://github.com/kschuler"
+  twitter: "https://twitter.com/KathrynSchuler"
+  flask: "http://kschuler.github.io/childlanglabwiki"
 
 
 comments:                    # embed disqus or isso comments
