@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research Proposal
-permalink: "/spring2019/"
+permalink: "/spring2019/research-proposal"
 ---
 
 ## Research Proposal
