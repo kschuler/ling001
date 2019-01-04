@@ -23,8 +23,9 @@ dark_theme: false            # enables dark mode
 navigation:                  # (optional) site navigation in the header
   About: index.md
   Schedule: index.html#schedule
-  Policies: index.html#policies
-  Resources: index.html#resources
+  Proposal: index.html#proposal
+  Readings: index.html#readings
+  Past: index.html#past-ling607s
 
 icons:                       # (optional) icons in the header, see http://fontawesome.com/icons
   envelope: "mailto:"
