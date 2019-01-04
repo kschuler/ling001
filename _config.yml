@@ -21,11 +21,11 @@ dark_nav: false              # keep header and footer dark (applies only when st
 dark_theme: false            # enables dark mode
 
 navigation:                  # (optional) site navigation in the header
-  Course Description: index.md
+  Description: index.md
   Schedule: index.html#schedule
   Research Proposal: index.html#research-proposal
   Readings: index.html#readings
-  Past Semesters: index.html#past-semesters
+  Past: index.html#past-semesters
 
 icons:                       # (optional) icons in the header, see http://fontawesome.com/icons
   envelope: "mailto:"
