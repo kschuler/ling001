@@ -67,5 +67,5 @@ Vivamus in risus ac quam tempor bibendum vitae et tortor. Aliquam dictum ante eu
 
 ### Previous LING607s
 
-* [Spring 2018)(https://docs.google.com/document/d/1lMNIWQpSMLSOWaGZtx0e11BpTDLiNQ-aHwmNuEhFw-4/edit?usp=sharing)
+* [Spring 2018](https://docs.google.com/document/d/1lMNIWQpSMLSOWaGZtx0e11BpTDLiNQ-aHwmNuEhFw-4/edit?usp=sharing)
 
