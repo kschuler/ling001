@@ -26,6 +26,7 @@ navigation:                  # (optional) site navigation in the header
   Research Proposal: index.html#proposal
   Readings: index.html#readings
   Past ling607s: index.html#past-ling607s
+  Canvas: https://canvas.upenn.edu/
 
 icons:                       # (optional) icons in the header, see http://fontawesome.com/icons
   envelope: "mailto:"
