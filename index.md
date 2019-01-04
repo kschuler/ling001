@@ -52,19 +52,21 @@ W | Date | Topic | Readings & **Deadlines**
 16 | 01 May |  |
 17 | 08 May |  | **[Response to reviewers' critiques](spring2018/research-proposal.html#written-response-to-reviews) due**
 
-## Research Proposal 
+## Resources
+
+### Research proposal 
 
 * [Research proposal](spring2019/research-proposal.html)
 * [In-class peer review](spring2019/research-proposal.html#in-class-peer-review)
 * [Written response to reviews](spring2019/research-proposal.html#written-response-to-reviews)
 
+### Past ling607s
+
+* [Spring 2018](https://docs.google.com/document/d/1lMNIWQpSMLSOWaGZtx0e11BpTDLiNQ-aHwmNuEhFw-4/edit?usp=sharing)
+
 
 ## Readings
 
 * List of readings here
-
-## Past ling607s
-
-* [Spring 2018](https://docs.google.com/document/d/1lMNIWQpSMLSOWaGZtx0e11BpTDLiNQ-aHwmNuEhFw-4/edit?usp=sharing)
 
 
