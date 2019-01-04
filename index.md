@@ -3,7 +3,7 @@ layout: page
 title: Spring 2019
 ---
 
-<h2 align="center">Spring 2019 Topic: Acquisition of Syntax</h2>
+<h2 align="center">Spring 2019 Topic: Testing theories of syntax acquisition</h2>
 
 **Instructor**: [Kathryn Schuler](http://kathrynschuler.com)  
 3401-C Walnut Street, Office 314
@@ -24,7 +24,7 @@ Phasellus tristique, lectus pretium accumsan venenatis, lectus justo aliquam tel
 
 * **50% Research proposal**: Vivamus in risus ac quam tempor bibendum vitae et tortor. Aliquam dictum ante eu ante ornare, a fermentum massa scelerisque. Fusce ultrices arcu eget cursus molestie. Fusce orci mi, dignissim nec posuere non, consectetur vitae magna. Pellentesque non nibh at ex imperdiet pharetra a eget magna. Curabitur non dapibus arcu, eu consectetur orci. Vivamus suscipit elit vitae erat convallis, non ornare neque malesuada.
 
-* **30% In-class peer review and written response to proposal**: Vivamus in risus ac quam tempor bibendum vitae et tortor. Aliquam dictum ante eu ante ornare, a fermentum massa scelerisque. Fusce ultrices arcu eget cursus molestie. Fusce orci mi, dignissim nec posuere non, consectetur vitae magna. Pellentesque non nibh at ex imperdiet pharetra a eget magna. Curabitur non dapibus arcu, eu consectetur orci. Vivamus suscipit elit vitae erat convallis, non ornare neque malesuada.
+* **30% In-class peer review and written response to reviews**: Vivamus in risus ac quam tempor bibendum vitae et tortor. Aliquam dictum ante eu ante ornare, a fermentum massa scelerisque. Fusce ultrices arcu eget cursus molestie. Fusce orci mi, dignissim nec posuere non, consectetur vitae magna. Pellentesque non nibh at ex imperdiet pharetra a eget magna. Curabitur non dapibus arcu, eu consectetur orci. Vivamus suscipit elit vitae erat convallis, non ornare neque malesuada.
 
 ## Schedule
 
@@ -61,9 +61,9 @@ Vivamus in risus ac quam tempor bibendum vitae et tortor. Aliquam dictum ante eu
 
 ### Assignments
 
-* Research proposal
-* Critiques
-* Response to critiques
+* [Research proposal](spring2019/research-proposal.html)
+* [In-class peer review](spring2019/research-proposal.html#in-class-peer-review)
+* [Written response to reviews](spring2019/research-proposal.html#written-response-to-reviews)
 
 ### Previous LING607s
 
