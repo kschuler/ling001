@@ -54,7 +54,11 @@ W | Date | Topic | Readings & **Deadlines**
 
 ## Resources
 
-### Research proposal 
+### Discussion question instructions
+
+* Please post on [Canvas](https://canvas.upenn.edu/) by midnight on Monday before class.
+
+### Research proposal instructions
 
 * [Research proposal](spring2019/research-proposal.html)
 * [In-class peer review](spring2019/research-proposal.html#in-class-peer-review)
