@@ -52,16 +52,19 @@ W | Date | Topic | Readings & **Deadlines**
 16 | 01 May |  |
 17 | 08 May |  | **[Response to reviewers' critiques](spring2018/research-proposal.html#written-response-to-reviews) due**
 
-## Resources
-
-### Research proposal instructions
+## Research Proposal 
 
 * [Research proposal](spring2019/research-proposal.html)
 * [In-class peer review](spring2019/research-proposal.html#in-class-peer-review)
 * [Written response to reviews](spring2019/research-proposal.html#written-response-to-reviews)
 
-### Previous LING607s
+
+## Readings
+
+* List of readings here
+
+## Past LING607s
 
 * [Spring 2018](https://docs.google.com/document/d/1lMNIWQpSMLSOWaGZtx0e11BpTDLiNQ-aHwmNuEhFw-4/edit?usp=sharing)
 
-## References
+
