@@ -23,9 +23,8 @@ dark_theme: false            # enables dark mode
 navigation:                  # (optional) site navigation in the header
   Description: index.md
   Schedule: index.html#schedule
-  Research Proposal: index.html#research-proposal
+  Resources: index.html#research-proposal
   Readings: index.html#readings
-  Past: index.html#past-semesters
 
 icons:                       # (optional) icons in the header, see http://fontawesome.com/icons
   envelope: "mailto:"
