@@ -5,7 +5,7 @@ title: Spring 2019
 
 <h2 align="center">Spring 2019 Topic: Acquisition of Syntax</h2>
 
-**Instructor**: [Kathryn Schuler](www.kathrynschuler.com)  
+**Instructor**: [Kathryn Schuler](http://kathrynschuler.com)  
 3401-C Walnut Street, Office 314
 
 **Time and place**: Tuesdays, 1:30-3:30pm   
@@ -67,5 +67,5 @@ Vivamus in risus ac quam tempor bibendum vitae et tortor. Aliquam dictum ante eu
 
 ### Previous LING607s
 
-* Spring 2018
+* [Spring 2018)(https://docs.google.com/document/d/1lMNIWQpSMLSOWaGZtx0e11BpTDLiNQ-aHwmNuEhFw-4/edit?usp=sharing)
 
