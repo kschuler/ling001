@@ -21,7 +21,6 @@
 <header>
   {% unless site.hide_title %}<h1><a href="{{ "/" | relative_url }}">{{ site.title | escape }}</a></h1>{% endunless %}
   {% if site.navigation %}<nav>{% for link in site.navigation %}<a href="{{ link[1] | relative_url }}">{{ link[0] }}</a>{% endfor %}</nav>{% endif %}
-  {% if site.icons %}<nav>{% for link in site.icons %}<a class="icon" href="{{ link[1] }}"><svg><use xlink:href="{{ "/assets/fontawesome/icons.svg" | relative_url }}#{{ link[0] }}"></use></svg></a>{% endfor %}</nav>{% endif %}
 </header>
 
 {{ content }}
