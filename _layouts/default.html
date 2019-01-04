@@ -24,3 +24,16 @@
 </header>
 
 {{ content }}
+
+<footer>
+  
+  <div align="center">
+   <p>University of Pennsylvania<br>3401-C Walnut Street, Office 314 <br>Philadelphia, PA 19119</p>
+   <p><a href="mailto:kschuler@sas.upenn.edu">kschuler@sas.upenn.edu</a></strong></p>
+  {% if site.icons %}<nav>{% for link in site.icons %}<a class="icon" href="{{ link[1] }}"><svg><use xlink:href="{{ "/assets/fontawesome/icons.svg" | relative_url }}#{{ link[0] }}"></use></svg></a>{% endfor %}</nav>{% endif %}
+
+  </div>
+
+
+
+</footer>
