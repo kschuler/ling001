@@ -54,6 +54,27 @@ W | Date | Topic | Readings & **Deadlines**
 16 | 01-May |  |
 17 | 08-May |  | **[Response to reviewers' critiques](spring2018/research-proposal.html#written-response-to-reviews) due**
 
+
+Week (Date)| Topic | Readings & **Deadlines**
+--- | --- | --- | ---
+1 (16-Jan) |  |
+2 23-Jan |  |
+3 30-Jan |  | 
+4 06-Feb |  |
+5 13-Feb |  |
+6 20-Feb |  | **Specific Aims due**
+7 27-Feb |  |
+8 06-Mar | No class, Spring break |
+9 13-Mar |  |
+10 20-Mar |  |
+11 27-Mar |  | **Deadline to submit [proposal draft](spring2018/research-proposal.html) for feedback from Katie (optional)**
+12 03-Apr |  |
+13 10-Apr |  | **[Proposals](spring2018/research-proposal.html) due by midnight**
+14 17-Apr |  |
+15 24-Apr |  | **[Written critiques](spring2018/research-proposal.html#in-class-peer-review) due on April 23 by midnight**
+16 01-May |  |
+17 08-May |  | **[Response to reviewers' critiques](spring2018/research-proposal.html#written-response-to-reviews) due**
+
 ## Resources
 
 ### Discussion question instructions
