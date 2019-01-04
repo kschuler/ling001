@@ -20,13 +20,13 @@ Students are expected to play an active role in class discussion. In each class,
 
 **Evaluation**
 
-* **20% Discussion questions and participation in class discussion**: Before each class, you'll post 5-8 discussion questions that reflect your understanding and thoughts on the assigned readings.  These questions will serve as the basis for our in-class discussion.  These posting are meant to be very informal – a simple list of questions would suffice, but a narrative style is fine if you prefer that.  There are no formatting restrictions.
+**20% Discussion questions and participation in class discussion**: Before each class, you'll post 5-8 discussion questions that reflect your understanding and thoughts on the assigned readings.  These questions will serve as the basis for our in-class discussion.  These posting are meant to be very informal – a simple list of questions would suffice, but a narrative style is fine if you prefer that.  There are no formatting restrictions.
 
-* **40% Research proposal**: You'll write a research proposal in which you propose a single experiment to test a theory of syntax acquisition.  The proposal will follow the format of an NIH R03 application - 1 page for specific aims and 6 pages for the research plan.  More details about the proposal, including format, grading criteria, and samples, are available [here](spring2019/research-proposal).
+**40% Research proposal**: You'll write a research proposal in which you propose a single experiment to test a theory of syntax acquisition.  The proposal will follow the format of an NIH R03 application - 1 page for specific aims and 6 pages for the research plan.  More details about the proposal, including format, grading criteria, and samples, are available [here](spring2019/research-proposal).
 
-* **20% In-class peer review**: On the final day of class, we'll conduct a mock study section - an NIH-style peer review panel - to evaluate the research proposals.   Each student will be asked to be the primary reviewer for one proposal and the secondary reviewer for another.  Primary and secondary reviewers will turn in written critiques of their assigned proposals and lead the discussion in the mock study section.  More details about the mock study section are available [here](spring2019/research-proposal#in-class-peer-review).
+**20% In-class peer review**: On the final day of class, we'll conduct a mock study section - an NIH-style peer review panel - to evaluate the research proposals.   Each student will be asked to be the primary reviewer for one proposal and the secondary reviewer for another.  Primary and secondary reviewers will turn in written critiques of their assigned proposals and lead the discussion in the mock study section.  More details about the mock study section are available [here](spring2019/research-proposal#in-class-peer-review).
 
-* **20% Written response to reviews**: After the in-class peer review, you'll recieve the written reviews of your proposal and  be asked to write a formal response to the reviews’ critiques. More details about the response to reviews are available [here](spring2019/research-proposal#written-response-to-reviews).
+**20% Written response to reviews**: After the in-class peer review, you'll recieve the written reviews of your proposal and  be asked to write a formal response to the reviews’ critiques. More details about the response to reviews are available [here](spring2019/research-proposal#written-response-to-reviews).
 
 ## Schedule
 
