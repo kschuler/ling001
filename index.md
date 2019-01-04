@@ -63,7 +63,7 @@ W | Date | Topic | Readings & **Deadlines**
 
 * List of readings here
 
-## Past LING607s
+## Past ling607s
 
 * [Spring 2018](https://docs.google.com/document/d/1lMNIWQpSMLSOWaGZtx0e11BpTDLiNQ-aHwmNuEhFw-4/edit?usp=sharing)
 
