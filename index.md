@@ -3,7 +3,7 @@ layout: page
 title: Spring 2019
 ---
 
-<h2 align="center">Spring 2019 Topic: Testing theories of syntax acquisition</h2>
+<h2 align="center">Spring 2019 Topic: Acquisition of Syntax</h2>
 
 **Instructor**: [Kathryn Schuler](http://kathrynschuler.com)  
 3401-C Walnut Street, Office 314
@@ -16,15 +16,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque maximus tu
 
 
 **Requirements**  
-Phasellus tristique, lectus pretium accumsan venenatis, lectus justo aliquam tellus, ac laoreet arcu nisl quis erat. Suspendisse et eros id nibh tincidunt viverra. Praesent tristique arcu vitae libero sagittis, vel iaculis massa lacinia. Nullam feugiat eros dolor, non aliquet urna luctus id. Aenean tincidunt, nisl vitae cursus vulputate, libero diam mollis arcu, non volutpat libero lectus id tortor. Sed quis mauris risus. Donec mattis orci turpis, sit amet fringilla ipsum faucibus at. Quisque fringilla, quam sit amet lobortis eleifend, leo turpis fermentum lacus, et rhoncus massa sapien quis arcu. Praesent viverra iaculis metus non efficitur. Suspendisse placerat leo libero, semper hendrerit ligula gravida eu. Nam fermentum rhoncus magna id dapibus.
+Students are expected to play an active role in class discussion. In each class, for each assigned paper, one student will serve as the primary discussant of the paper.  On the designated class, this student will lead the discussion, facilitate communication, and be primarily responsible for the assigned material.  However, all students are required to read the assigned material and contribute to the class discussion.
 
 **Evaluation**
 
-* **20% Discussion questions about assigned readings and participation in class discussion**: Vivamus in risus ac quam tempor bibendum vitae et tortor. Aliquam dictum ante eu ante ornare, a fermentum massa scelerisque. Fusce ultrices arcu eget cursus molestie. Fusce orci mi, dignissim nec posuere non, consectetur vitae magna. Pellentesque non nibh at ex imperdiet pharetra a eget magna. Curabitur non dapibus arcu, eu consectetur orci. Vivamus suscipit elit vitae erat convallis, non ornare neque malesuada.
+* **20% Discussion questions and participation in class discussion**: Before each class, you will be asked to post 5-8 discussion questions on the assigned readings that reflect your understanding and thoughts on the readings.  These questions will serve as the basis for our in-class discussion.  These posting are meant to be very informal – a simple list of questions would suffice, but a narrative style is fine if you prefer that.  There are no formatting restrictions.
 
-* **50% Research proposal**: Vivamus in risus ac quam tempor bibendum vitae et tortor. Aliquam dictum ante eu ante ornare, a fermentum massa scelerisque. Fusce ultrices arcu eget cursus molestie. Fusce orci mi, dignissim nec posuere non, consectetur vitae magna. Pellentesque non nibh at ex imperdiet pharetra a eget magna. Curabitur non dapibus arcu, eu consectetur orci. Vivamus suscipit elit vitae erat convallis, non ornare neque malesuada.
+* **50% Research proposal**: You will write a research proposal that investigates a question of your choosing using an artificial grammar learning paradigm.  The proposal will follow the format of an NIH R03 application (1 page for specific aims and 6 pages for the research plan).  More details about the proposal, including format, grading criteria, and samples, are available here.
 
-* **30% In-class peer review and written response to reviews**: Vivamus in risus ac quam tempor bibendum vitae et tortor. Aliquam dictum ante eu ante ornare, a fermentum massa scelerisque. Fusce ultrices arcu eget cursus molestie. Fusce orci mi, dignissim nec posuere non, consectetur vitae magna. Pellentesque non nibh at ex imperdiet pharetra a eget magna. Curabitur non dapibus arcu, eu consectetur orci. Vivamus suscipit elit vitae erat convallis, non ornare neque malesuada.
+* **30% In-class peer review and written response to reviews**: On the final day of class, we will conduct a mock study section (an NIH-style peer review panel) that will evaluate the research proposals.   Each student will be asked to be the primary reviewer for one proposal and the secondary reviewer for another.  Primary and secondary reviewers will turn in written critiques of their assigned proposals.  Each student will then be required to write a response to the reviews’ critiques. More details about the mock study section are available here.
 
 ## Schedule
 
