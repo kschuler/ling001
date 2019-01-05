@@ -3,7 +3,8 @@ layout: page
 title: Spring 2019
 ---
 
-<h2 align="center">Spring 2019 Topic: Acquisition of Syntax</h2>
+<h2 align="center">Spring 2019 Syllabus</h2>
+<h3 align="center">Topic: Acquisition of Syntax
 
 **Instructor**: [Kathryn Schuler](http://kathrynschuler.com)  
 3401-C Walnut Street, Office 314
