@@ -31,7 +31,7 @@ If you are taking the course for credit, your final project will be a research p
 * **20% In-class peer review**: On the final day of class, we'll conduct a mock study section - an NIH-style peer review panel - to evaluate the research proposals.   Each student will be asked to be the primary reviewer for one proposal and the secondary reviewer for another.  Primary and secondary reviewers will turn in written critiques of their assigned proposals and lead the discussion in the mock study section.  More details about the mock study section are available [here](spring2019/research-proposal#in-class-peer-review).
 
 
-* **20% Written response to reviews**: After the in-class peer review, you'll recieve the written reviews of your proposal and  be asked to write a formal response to the reviews’ critiques. More details about the response to reviews are available [here](spring2019/research-proposal#written-response-to-reviews).
+* **20% Written response to reviews**: After the in-class peer review, you'll receive the written reviews of your proposal and  be asked to write a formal response to the reviews’ critiques. More details about the response to reviews are available [here](spring2019/research-proposal#written-response-to-reviews).
 
 ## Schedule
 
@@ -74,5 +74,5 @@ Date | Topic | Readings & **Deadlines**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc5MTI0NDddfQ==
+eyJoaXN0b3J5IjpbLTIwMjMzMzUwNDldfQ==
 -->
