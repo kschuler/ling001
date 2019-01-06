@@ -24,7 +24,7 @@ If you are taking the course for credit, your final project will be a research p
 
 ### Evaluation
 
-* **20% Discussion questions and participation in class discussion**: Before each class, you'll be asked to post 5-8 discussion questions on the assigned readings.  During class, you're expected to participate in class discussion, even when not you are the primary discussant.   
+* **20% Participation in class discussion**: Before each class, you'll post 5-8 discussion questions on the assigned readings.  During class, you're expected to participate in class discussion, even when not you are the primary discussant.   
 
 * **40% Research proposal**: You'll write a research proposal in which you propose a single experiment to test a theory of syntax acquisition.  The proposal will follow the format of an NIH R03 application - 1 page for specific aims and 6 pages for the research plan.  More details about the proposal, including format, grading criteria, and samples, are available [here](spring2019/research-proposal).
 
@@ -73,3 +73,6 @@ Date | Topic | Readings & **Deadlines**
 * List of readings here
 
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbODc5MTI0NDddfQ==
+-->
