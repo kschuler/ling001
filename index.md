@@ -43,7 +43,7 @@ Date | Topic | Readings & **Deadlines**
 06-Feb |  Theory 2 |
  13-Feb | Evidence for theory 2 |
 20-Feb |  | **Specific Aims** due on Friday
- 27-Feb | Critique specific aims |
+ 27-Feb | Specific Aims workshop |
 06-Mar | No class, Spring break |
  13-Mar | Theory 3 |
  20-Mar | Evidence for theory 3 |
@@ -74,6 +74,6 @@ Date | Topic | Readings & **Deadlines**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4OTYxMzc4OCwtMjQyNTYzNjEzLC0xMz
+eyJoaXN0b3J5IjpbLTE0NTE3ODUyOSwtMjQyNTYzNjEzLC0xMz
 g3NzQ1OTksLTQwNjgzOTk3NSwtMjAyMzMzNTA0OV19
 -->
