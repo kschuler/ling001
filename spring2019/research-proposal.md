@@ -45,7 +45,9 @@ Finally, there are no restrictions on the type of research project you propose â
 
 ## In-class peer review
 
-> **Deadline: April 26, 2019**
+### Written Critique
+
+> **Deadline : April 26, 2019**
 
 After handing in your completed proposal, your name will be removed (to keep it anonymous) and your proposal will be distributed to the other members of the class.  For each proposal, one person will be assigned to be primary reviewer and another to be secondary reviewer.  Primary and secondary reviewers will prepare written critiques that include:
 *  **a brief summary of the proposal** (1-2 paragraphs)
@@ -56,13 +58,15 @@ Primary and secondary reviewers should also use the NIH 9-point scale to assign 
 
 * [Sample critique](https://www.niaid.nih.gov/sites/default/files/1r03ai111015-01_rappleye_ss.pdf)
 
+### Mock-study section
+
 In our last class, we will use these critiques to conduct a mock-study section.
 
 ## Written response to reviews
 
 > **Deadline: May 7,2019**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MzgyMjE0NCwxMDM4NTY2ODIwLC0xND
-k3MjI0ODM3LC01NTczODU5NDIsMTA1MzM5MjYwMCwtODIzOTEz
-NjYsLTIxMzk5MTUxNiwxNzIxMjk5MTZdfQ==
+eyJoaXN0b3J5IjpbNDIwMjQxMTgyLDEwMzg1NjY4MjAsLTE0OT
+cyMjQ4MzcsLTU1NzM4NTk0MiwxMDUzMzkyNjAwLC04MjM5MTM2
+NiwtMjEzOTkxNTE2LDE3MjEyOTkxNl19
 -->
