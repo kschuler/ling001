@@ -54,7 +54,7 @@ After handing in your completed proposal, your name will be removed (to keep it 
 
 Primary and secondary reviewers should also use the NIH 9-point scale to assign scores to the **Overall Impact**, **Significance, Innovation,** and **Approach** of the proposal (with 1 being the highest score and 9 being the lowest).  To illustrate, the following is a sample critique (of sample R03 #2, above) provide by the NIH:
 
-<![if !supportLists]>- <![endif]>[Sample critique](https://www.niaid.nih.gov/sites/default/files/1r03ai111015-01_rappleye_ss.pdf)
+* [Sample critique](https://www.niaid.nih.gov/sites/default/files/1r03ai111015-01_rappleye_ss.pdf)
 
 In our last class, we will use these critiques to conduct a mock-study section.
 
@@ -62,7 +62,7 @@ In our last class, we will use these critiques to conduct a mock-study section.
 
 > **Deadline: May 7,2019**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDUyMjgzMTUsMTAzODU2NjgyMCwtMT
-Q5NzIyNDgzNywtNTU3Mzg1OTQyLDEwNTMzOTI2MDAsLTgyMzkx
-MzY2LC0yMTM5OTE1MTYsMTcyMTI5OTE2XX0=
+eyJoaXN0b3J5IjpbMjA5MzgyMjE0NCwxMDM4NTY2ODIwLC0xND
+k3MjI0ODM3LC01NTczODU5NDIsMTA1MzM5MjYwMCwtODIzOTEz
+NjYsLTIxMzk5MTUxNiwxNzIxMjk5MTZdfQ==
 -->
