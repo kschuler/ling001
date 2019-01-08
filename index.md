@@ -6,7 +6,7 @@ title: Spring 2019
 <h2 align="center">Spring 2019 Syllabus</h2>
 <h3 align="center">Theories of the acquisition process</h3>
 
-**Instructor**: [Kathryn Schuler](http://kathrynschuler.com)  
+**Instructor**: [Kathryn Schuler](http://www.kathrynschuler.com)  
 3401-C Walnut Street, Office 314
 
 **Time and place**: Tuesdays, 1:30-3:30pm   
@@ -26,7 +26,7 @@ If you are taking the course for credit, your final project will be a research p
 
 * **20% Participation in class discussion**: Before each class, you'll post 5-8 discussion questions on the assigned readings.  During class, you're expected to participate in class discussion, even if you are not the primary reader.   
 
-* **40% Research proposal**: You'll write a research proposal in which you propose a single experiment to test a theory of syntax acquisition.  The proposal will follow the format of an NIH R03 application - 1 page for specific aims and 6 pages for the research plan.  More details about the proposal, including format, grading criteria, and samples, are available [here](spring2019/research-proposal).
+* **40% Research proposal**: You'll write a research proposal in which you propose a single experiment to test a theory of the acquisition process.  The proposal will follow the format of an NIH R03 application - 1 page for specific aims and 6 pages for the research plan.  More details about the proposal, including format, grading criteria, and samples, are available [here](spring2019/research-proposal).
 
 * **20% In-class peer review**: On the final day of class, we'll conduct a mock study section - an NIH-style peer review panel - to evaluate the research proposals.   Each student will be asked to be the primary reviewer for one proposal and the secondary reviewer for another.  Primary and secondary reviewers will turn in written critiques of their assigned proposals and lead the discussion in the mock study section.  More details about the mock study section are available [here](spring2019/research-proposal#in-class-peer-review).
 
@@ -74,6 +74,6 @@ Date | Topic | Readings & **Deadlines**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODc3NDU5OSwtNDA2ODM5OTc1LC0yMD
-IzMzM1MDQ5XX0=
+eyJoaXN0b3J5IjpbLTE3MDQyMzkwNjEsLTEzODc3NDU5OSwtND
+A2ODM5OTc1LC0yMDIzMzM1MDQ5XX0=
 -->
