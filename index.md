@@ -4,7 +4,7 @@ title: Spring 2019
 ---
 
 <h2 align="center">Spring 2019 Syllabus</h2>
-<h3 align="center">Topic: Theories of syntax and acquisition</h3>
+<h3 align="center">Topic: Theories of the acquisition process</h3>
 
 **Instructor**: [Kathryn Schuler](http://www.kathrynschuler.com)  
 3401-C Walnut Street, Office 314
@@ -74,7 +74,7 @@ Date | Topic | Readings & **Deadlines**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMzM3OTc0LC0xNDUxNzg1MjksLTI0Mj
-U2MzYxMywtMTM4Nzc0NTk5LC00MDY4Mzk5NzUsLTIwMjMzMzUw
-NDldfQ==
+eyJoaXN0b3J5IjpbLTE0NTE3ODUyOSwxNDIzMzc5NzQsLTE0NT
+E3ODUyOSwtMjQyNTYzNjEzLC0xMzg3NzQ1OTksLTQwNjgzOTk3
+NSwtMjAyMzMzNTA0OV19
 -->
