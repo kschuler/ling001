@@ -6,16 +6,15 @@ permalink: "/spring2019/research-proposal"
 
 ## Research Proposal
 
-> Specific aims due: 19 Feb 2019 (Friday)
-> Final proposal due: 16 Apr 2019
+> Deadline: April 16, 2019 (Specific Aims due Feb 19, 2019)
 
 ## In-class peer review
 
-> Written critiques due 26 Apr 2019 (Friday)
+> Deadline: April 26, 2019 
 
 ## Written response to reviews
 
-> Due 7 May 2019
+> Deadline: May 7,2019
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYzNTI3Njk1XX0=
+eyJoaXN0b3J5IjpbMTcyMTI5OTE2XX0=
 -->
