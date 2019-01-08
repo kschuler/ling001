@@ -16,6 +16,7 @@ Below are examples of real R03 grants provided by the NIH.  These examples are f
 * [Sample R03 #2](https://www.niaid.nih.gov/sites/default/files/1r03ai111015-01_rappleye_full.pdf) (pages numbered 21-30)
 
 To clarify, you do not need to copy the format of a real R03 exactly.  For example, it is not necessary to provide a bio-sketch or a complete project budget.  Instead, we will focus on the research portion of the R03.  **Your proposal should include only the following elements**:
+
 Element | Limit | Details
 --- | --- | ---
 **Title Page** | 1 page | title of proposal, your name, and an abstract
@@ -41,6 +42,6 @@ Finally, there are no restrictions on the type of research project you propose â
 
 > **Deadline: May 7,2019**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MzM5MjYwMCwtODIzOTEzNjYsLTIxMz
-k5MTUxNiwxNzIxMjk5MTZdfQ==
+eyJoaXN0b3J5IjpbLTU1NzM4NTk0MiwxMDUzMzkyNjAwLC04Mj
+M5MTM2NiwtMjEzOTkxNTE2LDE3MjEyOTkxNl19
 -->
