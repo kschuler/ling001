@@ -42,7 +42,7 @@ Date | Topic | Readings & **Deadlines**
 30-Jan | Evidence of prosodic bootstrapping in other languages| 
 06-Feb |  Theory 2 |
  13-Feb | Evidence for theory 2 |
-20-Feb | Evidence for theory 2 cross language | **Specific Aims due**
+20-Feb |  | **Specific Aims** due 
  27-Feb | Critique specific aims |
 06-Mar | No class, Spring break |
  13-Mar | Theory 3 |
@@ -74,5 +74,6 @@ Date | Topic | Readings & **Deadlines**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNjgzOTk3NSwtMjAyMzMzNTA0OV19
+eyJoaXN0b3J5IjpbMTEzOTM0Mjk0MiwtNDA2ODM5OTc1LC0yMD
+IzMzM1MDQ5XX0=
 -->
