@@ -27,10 +27,10 @@ To clarify, you do not need to copy the format of a real R03 exactly.  For examp
 The title of your proposal, your name, and an abstract. 
 
 #### Specific Aims
-[source: adapted from [official NIH instructions](https://grants.nih.gov/grants/how-to-apply-application-guide/forms-d/research-forms-d.pdf)] State concisely the goals of the proposed research and summarize the expected outcome(s), including the impact that the results of the proposed research will have on the research field(s) involved. List succinctly the specific objectives of the research proposed (e.g., to test a stated hypothesis, create a novel design, solve a specific problem, challenge an existing paradigm or clinical practice, address a critical barrier to progress in the field, or develop new technology).  
+State concisely the goals of the proposed research and summarize the expected outcome(s), including the impact that the results of the proposed research will have on the research field(s) involved. List succinctly the specific objectives of the research proposed (e.g., to test a stated hypothesis, create a novel design, solve a specific problem, challenge an existing paradigm or clinical practice, address a critical barrier to progress in the field, or develop new technology).  [source: adapted from [official NIH instructions](https://grants.nih.gov/grants/how-to-apply-application-guide/forms-d/research-forms-d.pdf)] 
 
 #### Research Strategy
-[source: adapted from [official NIH instructions](https://grants.nih.gov/grants/how-to-apply-application-guide/forms-d/research-forms-d.pdf)] Organize the Research Strategy in the specified order and use the instructions provided below. Start each section with the appropriate heading – Significance, Innovation, Approach.    
+Organize the Research Strategy in the specified order and use the instructions provided below. Start each section with the appropriate heading – Significance, Innovation, Approach. [source: adapted from [official NIH instructions](https://grants.nih.gov/grants/how-to-apply-application-guide/forms-d/research-forms-d.pdf)]     
 * **Significance:** Explain the importance of the problem or critical barrier to progress that the proposed project addresses. l Describe the scientific premise for the proposed project, including consideration of the strengths and weaknesses of published research or preliminary data crucial to the support of your application. l Explain how the proposed project will improve scientific knowledge, technical capability, and/or clinical practice in one or more broad fields.
 * **Innovation:** Explain how the application challenges and seeks to shift current research or clinical practice paradigms. l Describe any novel theoretical concepts, approaches or methodologies, instrumentation or interventions to be developed or used, and any advantage over existing methodologies, instrumentation, or interventions. l Explain any refinements, improvements, or new applications of theoretical concepts, approaches or methodologies, instrumentation, or interventions.
 * **Approach:** Describe the overall strategy, methodology, and analyses to be used to accomplish the specific aims of the project. Describe the experimental design and methods proposed  and how they will achieve robust and unbiased results. …include how the data will be collected, analyzed, and interpreted, as well as any resource sharing plans as appropriate.  Discuss potential problems, alternative strategies, and benchmarks for success anticipated to achieve the aims.  If the project is in the early stages of development, describe any strategy to establish feasibility, and address the management of any high-risk aspects of the proposed work. Explain how relevant biological variables, such as sex, are factored into research designs and analyses for studies in vertebrate animals and humans. For example, strong justification from the scientific literature, preliminary data, or other relevant considerations, must be provided for applications proposing to study only one sex.
@@ -68,7 +68,7 @@ In our last class, we will use these critiques to conduct a mock-study section.
 
 Instructions forthcoming.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NzQzMzExLDEwMzg1NjY4MjAsLTE0OT
-cyMjQ4MzcsLTU1NzM4NTk0MiwxMDUzMzkyNjAwLC04MjM5MTM2
-NiwtMjEzOTkxNTE2LDE3MjEyOTkxNl19
+eyJoaXN0b3J5IjpbMTcxMzk0NzE3MSwxMDM4NTY2ODIwLC0xND
+k3MjI0ODM3LC01NTczODU5NDIsMTA1MzM5MjYwMCwtODIzOTEz
+NjYsLTIxMzk5MTUxNiwxNzIxMjk5MTZdfQ==
 -->
