@@ -25,7 +25,7 @@ To clarify, you do not need to copy the format of a real R03 exactly.  For examp
 
 **References** ( no limit )
 
-Include the following sections in your Research Strategy:
+Include the following sections in your **Research Strategy**:
 
 * **Significance:** Explain the importance of the problem or critical barrier to progress that the proposed project addresses. l Describe the scientific premise for the proposed project, including consideration of the strengths and weaknesses of published research or preliminary data crucial to the support of your application. l Explain how the proposed project will improve scientific knowledge, technical capability, and/or clinical practice in one or more broad fields.
 * **Innovation:** Explain how the application challenges and seeks to shift current research or clinical practice paradigms. l Describe any novel theoretical concepts, approaches or methodologies, instrumentation or interventions to be developed or used, and any advantage over existing methodologies, instrumentation, or interventions. l Explain any refinements, improvements, or new applications of theoretical concepts, approaches or methodologies, instrumentation, or interventions.
@@ -43,7 +43,7 @@ Finally, there are no restrictions on the type of research project you propose â
 
 > **Deadline: May 7,2019**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzU5OTk1MSwtNTU3Mzg1OTQyLDEwNT
-MzOTI2MDAsLTgyMzkxMzY2LC0yMTM5OTE1MTYsMTcyMTI5OTE2
-XX0=
+eyJoaXN0b3J5IjpbNDYxNDk4Mjg5LC01NTczODU5NDIsMTA1Mz
+M5MjYwMCwtODIzOTEzNjYsLTIxMzk5MTUxNiwxNzIxMjk5MTZd
+fQ==
 -->
