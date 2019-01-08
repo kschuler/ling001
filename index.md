@@ -49,10 +49,10 @@ Date | Topic | Readings & **Deadlines**
  20-Mar | Evidence for theory 3 |
  27-Mar | Evidence for theory cross languages | **Deadline to submit [proposal draft](spring2018/research-proposal.html) for feedback from Katie (optional)**
  03-Apr | Theory 4 |
- 10-Apr | Evidence for theory 4 | **[Proposals](spring2018/research-proposal.html) due by midnight**
-17-Apr | Evidence for theory 4 cross-linguistic|
-24-Apr | Mock study section | **[Written critiques](spring2018/research-proposal.html#in-class-peer-review) due on April 23 by midnight**
- 01-May | Final class |
+ 10-Apr | Evidence for theory 4 |
+17-Apr | Evidence for theory 4 cross-linguistic |  **[Proposals](spring2018/research-proposal.html) due by midnight**
+24-Apr | No class |**[Written critiques](spring2018/research-proposal.html#in-class-peer-review) due on April 23 by midnight**
+ 01-May | Mock study section |  
  08-May |  | **[Response to reviewers' critiques](spring2018/research-proposal.html#written-response-to-reviews) due**
 
 ## Resources
@@ -74,6 +74,6 @@ Date | Topic | Readings & **Deadlines**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzOTM0Mjk0MiwtNDA2ODM5OTc1LC0yMD
-IzMzM1MDQ5XX0=
+eyJoaXN0b3J5IjpbLTEwOTU4MjAyMTksLTQwNjgzOTk3NSwtMj
+AyMzMzNTA0OV19
 -->
