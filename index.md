@@ -35,8 +35,8 @@ If you are taking the course for credit, your final project will be a research p
 
 ## Schedule
 
-Date | Topic | Readings  **Deadlines**
- --- | --- | ---
+Date | Topic | Readings | **Deadlines**
+ --- | --- | --- | ---
 16-Jan | Prosodic bootstrapping | |
 23-Jan | Evidence of prosodic bootstrapping | |
 30-Jan | Evidence of prosodic bootstrapping in other languages|  |
@@ -50,10 +50,10 @@ Date | Topic | Readings  **Deadlines**
  27-Mar | Evidence for theory cross languages | | **Deadline to submit [proposal draft](spring2018/research-proposal.html) for feedback from Katie (optional)**
  03-Apr | Theory 4 | |
  10-Apr | Evidence for theory 4 | |
-17-Apr | Evidence for theory 4 cross-linguistic | **[Proposals](spring2018/research-proposal.html) due by midnight**
+17-Apr | Evidence for theory 4 cross-linguistic | | **[Proposals](spring2018/research-proposal.html) due by midnight**
 24-Apr | No class |
- 01-May | Mock study section | **[Written critiques](spring2018/research-proposal.html#in-class-peer-review) due on April 23 by midnight**
- 08-May |  | **[Response to reviewers' critiques](spring2018/research-proposal.html#written-response-to-reviews) due**
+ 01-May | Mock study section | | **[Written critiques](spring2018/research-proposal.html#in-class-peer-review) due on April 23 by midnight**
+ 08-May |  |  | **[Response to reviewers' critiques](spring2018/research-proposal.html#written-response-to-reviews) due**
 
 ## Resources
 
@@ -74,7 +74,7 @@ Date | Topic | Readings  **Deadlines**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTEyMjMzNDg5LC0xNDUxNzg1MjksMTQyMz
-M3OTc0LC0yNDI1NjM2MTMsLTEzODc3NDU5OSwtNDA2ODM5OTc1
-LC0yMDIzMzM1MDQ5XX0=
+eyJoaXN0b3J5IjpbMTc3MTEzOTEwNiwtMTQ1MTc4NTI5LDE0Mj
+MzNzk3NCwtMjQyNTYzNjEzLC0xMzg3NzQ1OTksLTQwNjgzOTk3
+NSwtMjAyMzMzNTA0OV19
 -->
