@@ -40,7 +40,7 @@ Organize the Research Strategy in the specified order and use the instructions p
 ###  Formatting and topic restrictions
 Your proposal must be **single-spaced** with at least **½-inch margins** and at least **11-pt font**.
 
-Finally, there are no restrictions on the type of research project you propose – choose whatever topic interests you! - but you should keep in mind the feasibility constraints of the R03 mechanism.  R03’s support project periods of **no more than two years** with total budgets of **no more than $100,000**.
+Finally, there are no restrictions on the type of research project you propose – choose whatever topic interests you! - but you should keep in mind the feasibility constraints of the R03 mechanism.  R03’s support projects of **no more than two years** with total budgets of **no more than $100,000**.
 
 ## In-class peer review
 
@@ -67,7 +67,7 @@ In our last class, we will use these critiques to conduct a mock-study section.
 
 Instructions forthcoming.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3Mzc5ODQyLDE3MTM5NDcxNzEsMTAzOD
-U2NjgyMCwtMTQ5NzIyNDgzNywtNTU3Mzg1OTQyLDEwNTMzOTI2
-MDAsLTgyMzkxMzY2LC0yMTM5OTE1MTYsMTcyMTI5OTE2XX0=
+eyJoaXN0b3J5IjpbLTc5MjgxNDkzMSwxNzEzOTQ3MTcxLDEwMz
+g1NjY4MjAsLTE0OTcyMjQ4MzcsLTU1NzM4NTk0MiwxMDUzMzky
+NjAwLC04MjM5MTM2NiwtMjEzOTkxNTE2LDE3MjEyOTkxNl19
 -->
