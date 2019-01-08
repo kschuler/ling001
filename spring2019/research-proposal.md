@@ -18,8 +18,11 @@ Below are examples of real R03 grants provided by the NIH.  These examples are f
 To clarify, you do not need to copy the format of a real R03 exactly.  For example, it is not necessary to provide a bio-sketch or a complete project budget.  Instead, we will focus on the research portion of the R03.  **Your proposal should include only the following elements**:
 
 **Title Page**:  (1 page) title of proposal, your name, and an abstract  
+
 **Specific Aims**:  (1 page) [adapted from [official NIH instructions](https://grants.nih.gov/grants/how-to-apply-application-guide/forms-d/research-forms-d.pdf)] State concisely the goals of the proposed research and summarize the expected outcome(s), including the impact that the results of the proposed research will have on the research field(s) involved. List succinctly the specific objectives of the research proposed (e.g., to test a stated hypothesis, create a novel design, solve a specific problem, challenge an existing paradigm or clinical practice, address a critical barrier to progress in the field, or develop new technology).  
+
 **Research Strategy**: (6 pages ) [source: adapted from [official NIH instructions](https://grants.nih.gov/grants/how-to-apply-application-guide/forms-d/research-forms-d.pdf)] Organize the Research Strategy in the specified order and use the instructions provided below. Start each section with the appropriate heading â€“ Significance, Innovation, Approach.    
+
 **References** ( no limit )
 
 Include the following sections in your Research Strategy:
@@ -40,7 +43,7 @@ Finally, there are no restrictions on the type of research project you propose â
 
 > **Deadline: May 7,2019**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NDEwNDI1MSwtNTU3Mzg1OTQyLDEwNT
+eyJoaXN0b3J5IjpbLTEwNzU5OTk1MSwtNTU3Mzg1OTQyLDEwNT
 MzOTI2MDAsLTgyMzkxMzY2LC0yMTM5OTE1MTYsMTcyMTI5OTE2
 XX0=
 -->
