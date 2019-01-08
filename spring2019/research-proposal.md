@@ -34,8 +34,8 @@ The title of your proposal, your name, and an abstract.
 * **Innovation:** Explain how the application challenges and seeks to shift current research or clinical practice paradigms. l Describe any novel theoretical concepts, approaches or methodologies, instrumentation or interventions to be developed or used, and any advantage over existing methodologies, instrumentation, or interventions. l Explain any refinements, improvements, or new applications of theoretical concepts, approaches or methodologies, instrumentation, or interventions.
 * **Approach:** Describe the overall strategy, methodology, and analyses to be used to accomplish the specific aims of the project. Describe the experimental design and methods proposed  and how they will achieve robust and unbiased results. â€¦include how the data will be collected, analyzed, and interpreted, as well as any resource sharing plans as appropriate.  Discuss potential problems, alternative strategies, and benchmarks for success anticipated to achieve the aims.  If the project is in the early stages of development, describe any strategy to establish feasibility, and address the management of any high-risk aspects of the proposed work. Explain how relevant biological variables, such as sex, are factored into research designs and analyses for studies in vertebrate animals and humans. For example, strong justification from the scientific literature, preliminary data, or other relevant considerations, must be provided for applications proposing to study only one sex.
 
-**References** (no limit)
-
+### References
+APA forma
 Include the following sections in your **Research Strategy**:
 
 
@@ -52,7 +52,7 @@ Finally, there are no restrictions on the type of research project you propose â
 
 > **Deadline: May 7,2019**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTA3NDg1NDksLTE0OTcyMjQ4MzcsLT
-U1NzM4NTk0MiwxMDUzMzkyNjAwLC04MjM5MTM2NiwtMjEzOTkx
-NTE2LDE3MjEyOTkxNl19
+eyJoaXN0b3J5IjpbLTk5NTEzMjM2NiwtMTQ5NzIyNDgzNywtNT
+U3Mzg1OTQyLDEwNTMzOTI2MDAsLTgyMzkxMzY2LC0yMTM5OTE1
+MTYsMTcyMTI5OTE2XX0=
 -->
