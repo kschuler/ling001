@@ -65,8 +65,10 @@ In our last class, we will use these critiques to conduct a mock-study section.
 ## Written response to reviews
 
 > **Deadline: May 7,2019**
+
+Instructions forthcoming.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIwMjQxMTgyLDEwMzg1NjY4MjAsLTE0OT
+eyJoaXN0b3J5IjpbMTM0NzQzMzExLDEwMzg1NjY4MjAsLTE0OT
 cyMjQ4MzcsLTU1NzM4NTk0MiwxMDUzMzkyNjAwLC04MjM5MTM2
 NiwtMjEzOTkxNTE2LDE3MjEyOTkxNl19
 -->
