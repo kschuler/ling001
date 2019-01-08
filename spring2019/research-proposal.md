@@ -7,7 +7,6 @@ permalink: "/spring2019/research-proposal"
 ## Research Proposal
 
 > **Deadline: April 16, 2019 (Specific Aims due Feb 19, 2019)**
-> <![endif]-->
 
 For your end of semester project, you will write a research proposal following the guidelines of an NIH R03 application. From the NICHD website ([https://nichd.nih.gov](https://nichd.nih.gov)): “The small grant (R03) supports new research projects that can be carried out in a short period of time with limited resources.  They are awarded for up to two years and are not renewable.”  For more information about what an R03 is, I recommend [reading this article](https://www.niaid.nih.gov/grants-contracts/research-project-grants) from the NIAID, which compares the R03 to a few other grant mechanisms.
 
@@ -38,6 +37,6 @@ Finally, there are no restrictions on the type of research project you propose �
 
 > **Deadline: May 7,2019**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxODAwNDM4OCwtODIzOTEzNjYsLTIxMz
-k5MTUxNiwxNzIxMjk5MTZdfQ==
+eyJoaXN0b3J5IjpbLTEwNDAxNjg5NzksLTgyMzkxMzY2LC0yMT
+M5OTE1MTYsMTcyMTI5OTE2XX0=
 -->
