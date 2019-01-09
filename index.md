@@ -15,7 +15,7 @@ Linguistics Department, Conference Room
 ## Course description
 
 ### Overview
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque maximus turpis at imperdiet viverra. Etiam ornare mattis ipsum at rhoncus. Aenean eu vehicula massa. Etiam sit amet lacinia risus, vel vehicula nunc. Vivamus velit ex, feugiat non metus ac, blandit tempor tortor. In et commodo dolor. Donec pharetra neque lectus, quis vestibulum dui porttitor eu. Aliquam non ipsum sed risus tincidunt semper at sed lorem. Donec quis accumsan erat, nec congue leo.
+In this seminar, we'll read and discuss classic and contemporary theories of the language acquisition process
 
 ### Requirements
 All students - including those auditing - are expected to play an active role in class discussion. In each class, one student will be assigned to be the primary reader of each paper.  The primary reader summarizes the reading, leads the discussion, and is primarily responsible for the assigned material.  However, everyone is required to read the assigned material and contribute to the class discussion.
@@ -74,7 +74,8 @@ Date | Topic | Readings | **Deadlines**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NDE1MjI1NywxNzcxMTM5MTA2LC0xND
-UxNzg1MjksMTQyMzM3OTc0LC0yNDI1NjM2MTMsLTEzODc3NDU5
-OSwtNDA2ODM5OTc1LC0yMDIzMzM1MDQ5XX0=
+eyJoaXN0b3J5IjpbLTEwODA0MjMxOTcsMTM2NDE1MjI1NywxNz
+cxMTM5MTA2LC0xNDUxNzg1MjksMTQyMzM3OTc0LC0yNDI1NjM2
+MTMsLTEzODc3NDU5OSwtNDA2ODM5OTc1LC0yMDIzMzM1MDQ5XX
+0=
 -->
