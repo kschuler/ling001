@@ -15,7 +15,7 @@ Linguistics Department, Conference Room
 ## Overview
 
 ### Course description
-In this seminar, we'll read and discuss classic and contemporary theories of the language acquisition process.  Topics include: prosodic, semantic, and syntactic bootstrapping theories, usage-based approaches, formal generative approaches, neural network models and more.  Each week we'll read a paper outlining a theoretical approach paired with either (1) an empirical study investigating the approach, (2) a paper expressing opposition to the approach, or (3) both. We'll discuss the strengths and weakness of both the theories and the empirical studies that investigate them. We'll also consider how one might design future experiments to test these theories.
+In this seminar, we'll read and discuss classic and contemporary theories of the language acquisition process.  Topics include: prosodic, semantic, and syntactic bootstrapping theories, usage-based approaches, formal generative approaches, neural network models and more.  Each week we'll read a paper outlining a theoretical approach paired with either (1) an empirical investigation of the approach, (2) a paper expressing opposition to the approach, or (3) both. We'll discuss the strengths and weakness of both the theories and the empirical studies that investigate them. We'll also consider how one might design future experiments to test these theories.
 
 ### Requirements
 All students - including those auditing - are expected to play an active role in class discussion. In each class, one student will be assigned to be the primary reader of each paper.  The primary reader summarizes the reading, leads the discussion, and is primarily responsible for the assigned material.  However, everyone is required to read the assigned material and contribute to the class discussion.
@@ -72,11 +72,11 @@ Apr 23 | No class | None
 * Full list of readings coming soon.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkxNDM2NTg4LDE5MDQyNDU3NTMsLTMwOT
-g0MTY0MiwtNDkxODA1NDYxLDQxNzY5ODExNiwtNDM3NDI1MTgy
-LC0xNzI3Nzc1NjM3LDE5MTE1OTAyMTUsNTIxMTU1MTk1LDE2ND
-A1MTE1OTEsOTA1ODAyNDEzLC0zMDIwNTQ0MjIsLTQwMTA4NTg0
-MCw0NTMzMjQ4NCwtMTAwMDI4ODk0MywtMTg3NjA3NzM5NSwxNz
-Y5MTY3MDA1LC00ODExMjEzNDMsLTEwNjA5MzMyNzcsLTEwODA0
-MjMxOTddfQ==
+eyJoaXN0b3J5IjpbLTEwNDUwOTA5NjYsMjkxNDM2NTg4LDE5MD
+QyNDU3NTMsLTMwOTg0MTY0MiwtNDkxODA1NDYxLDQxNzY5ODEx
+NiwtNDM3NDI1MTgyLC0xNzI3Nzc1NjM3LDE5MTE1OTAyMTUsNT
+IxMTU1MTk1LDE2NDA1MTE1OTEsOTA1ODAyNDEzLC0zMDIwNTQ0
+MjIsLTQwMTA4NTg0MCw0NTMzMjQ4NCwtMTAwMDI4ODk0MywtMT
+g3NjA3NzM5NSwxNzY5MTY3MDA1LC00ODExMjEzNDMsLTEwNjA5
+MzMyNzddfQ==
 -->
