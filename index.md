@@ -52,7 +52,7 @@ Mar 5 | No class, Spring break | None
 Apr 16 | Bayesian approaches |  [Perfors et al 2011]()<br>[Yang 2017]()<br><br>**Research Proposals due by midnight**
 Apr 23 | No class | None
  Apr 30 | Mock study section |  **Written critiques due on April 23 by midnight**
- May 7 |  |   **Response to reviewers' critiques due by Midnight**
+ May 7 | No class, final exam week |   **Response to reviewers' critiques due by Midnight**
 
 ## Resources
 
@@ -73,7 +73,7 @@ Apr 23 | No class | None
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjA1OTg5OSw1MjExNTUxOTUsMTY0MD
+eyJoaXN0b3J5IjpbMTkxMTU5MDIxNSw1MjExNTUxOTUsMTY0MD
 UxMTU5MSw5MDU4MDI0MTMsLTMwMjA1NDQyMiwtNDAxMDg1ODQw
 LDQ1MzMyNDg0LC0xMDAwMjg4OTQzLC0xODc2MDc3Mzk1LDE3Nj
 kxNjcwMDUsLTQ4MTEyMTM0MywtMTA2MDkzMzI3NywtMTA4MDQy
