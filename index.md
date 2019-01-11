@@ -39,7 +39,7 @@ Date | Topic | Readings & **Deadlines**
  --- | --- | ---
 16-Jan | Organizational meeting | 
 23-Jan | Logical problem and learnability | [Wexler, 1980](https://drive.google.com/open?id=1uIYvQtzQaRpmVOTXcWi1tQJ8AguqnWdX)<br> [Berwick, 1986](https://drive.google.com/open?id=1uAg5fDmrroko24claU0nGSbQRlq95ua1) <br> [Reali & Christiansen 2005](https://drive.google.com/open?id=1talM3Celuop6hoXUtAFYzSjBJrJ1Z8YN)
-30-Jan | Evidence of prosodic bootstrapping in other languages|  
+30-Jan | Prosodic bootstrapping |  
 06-Feb |  Theory 2 | 
  13-Feb | Evidence for theory 2 |  
 20-Feb |  |  **Specific Aims** due on Friday
@@ -74,9 +74,9 @@ Date | Topic | Readings & **Deadlines**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2OTE4MTE5NCwxNzY5MTY3MDA1LC00OD
-ExMjEzNDMsLTEwNjA5MzMyNzcsLTEwODA0MjMxOTcsMTM2NDE1
-MjI1NywxNzcxMTM5MTA2LC0xNDUxNzg1MjksMTQyMzM3OTc0LC
-0yNDI1NjM2MTMsLTEzODc3NDU5OSwtNDA2ODM5OTc1LC0yMDIz
-MzM1MDQ5XX0=
+eyJoaXN0b3J5IjpbNDAxNzQwMDM4LDE3NjkxNjcwMDUsLTQ4MT
+EyMTM0MywtMTA2MDkzMzI3NywtMTA4MDQyMzE5NywxMzY0MTUy
+MjU3LDE3NzExMzkxMDYsLTE0NTE3ODUyOSwxNDIzMzc5NzQsLT
+I0MjU2MzYxMywtMTM4Nzc0NTk5LC00MDY4Mzk5NzUsLTIwMjMz
+MzUwNDldfQ==
 -->
