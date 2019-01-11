@@ -45,7 +45,7 @@ Feb 19 | Syntactic bootstrapping |  [Gleitman et al 2005]()<br>[Pozzan et al 201
  Feb 26 | Usage-based approaches |  [Tomasello 2000]()<br>[Fisher 2002]()<br><br>**Specific Aims due on Friday**
 Mar 5 | No class, Spring break | None
  Mar 12 | Parameter setting | 
- Mar 19 | OT | 
+ Mar 19 | OT | Prince & Smolensky 1997<br>Legendre 2006
  Mar 26 | TBD |  **Deadline to submit proposal draft for feedback from Katie (optional)**
  Apr 2 | Neural network models | 
  Apr 9 | Distributional learning | 
@@ -73,7 +73,7 @@ Apr 23 | No class |
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMTc3OTkyMCwxNjQwNTExNTkxLDkwNT
+eyJoaXN0b3J5IjpbLTQzMjA3MDc5NiwxNjQwNTExNTkxLDkwNT
 gwMjQxMywtMzAyMDU0NDIyLC00MDEwODU4NDAsNDUzMzI0ODQs
 LTEwMDAyODg5NDMsLTE4NzYwNzczOTUsMTc2OTE2NzAwNSwtND
 gxMTIxMzQzLC0xMDYwOTMzMjc3LC0xMDgwNDIzMTk3LDEzNjQx
