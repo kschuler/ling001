@@ -39,14 +39,14 @@ Date | Topic | Readings & **Deadlines**
  --- | --- | ---
 Jan 22 | Organizational meeting | **Complete [this form]() by Friday**
 Jan 29 | Logical problem and learnability | [Wexler 1980](https://drive.google.com/open?id=1uIYvQtzQaRpmVOTXcWi1tQJ8AguqnWdX)<br> [Berwick 1986](https://drive.google.com/open?id=1uAg5fDmrroko24claU0nGSbQRlq95ua1) <br> [Reali & Christiansen 2005](https://drive.google.com/open?id=1talM3Celuop6hoXUtAFYzSjBJrJ1Z8YN)
-30-Jan | Prosodic bootstrapping |  [Gleitman & Wanner 1982]()<br>[Soderstrom et al 2003]()<br>[Hawthorne & Gerken 2014]()
-06-Feb |  Semantic bootstrapping | Wexler & Culicover 1980<br>Berwick 1985
-20-Feb | Syntactic bootstrapping |  [Gleitman et al 2005]()<br>[Pozzan et al 2015]()
- 13-Feb | Usage-based approaches |  [Tomasello 2000]()<br>[Fisher 2002]()<br>**Specific Aims due on Friday**
-06-Mar | No class, Spring break | None
- 13-Mar | Theory 3 | 
- 20-Mar | Evidence for theory 3 | 
- 27-Mar | Evidence for theory cross languages |  **Deadline to submit [proposal draft](spring2018/research-proposal.html) for feedback from Katie (optional)**
+Feb 5 | Prosodic bootstrapping |  [Gleitman & Wanner 1982]()<br>[Soderstrom et al 2003]()<br>[Hawthorne & Gerken 2014]()
+Feb 12 |  Semantic bootstrapping | Wexler & Culicover 1980<br>Berwick 1985
+Feb 19 | Syntactic bootstrapping |  [Gleitman et al 2005]()<br>[Pozzan et al 2015]()
+ Feb 26 | Usage-based approaches |  [Tomasello 2000]()<br>[Fisher 2002]()<br>**Specific Aims due on Friday**
+Mar 5 | No class, Spring break | None
+ Mar 12 | Parameter setting | 
+ Mar 19 | OT | 
+ Mar | Evidence for theory cross languages |  **Deadline to submit [proposal draft](spring2018/research-proposal.html) for feedback from Katie (optional)**
  03-Apr | Theory 4 | 
  10-Apr | Evidence for theory 4 | 
 17-Apr | Evidence for theory 4 cross-linguistic |  **[Research Proposals](spring2018/research-proposal.html) due by midnight**
@@ -73,11 +73,11 @@ Jan 29 | Logical problem and learnability | [Wexler 1980](https://drive.google.c
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MDUxMTU5MSw5MDU4MDI0MTMsLTMwMj
-A1NDQyMiwtNDAxMDg1ODQwLDQ1MzMyNDg0LC0xMDAwMjg4OTQz
-LC0xODc2MDc3Mzk1LDE3NjkxNjcwMDUsLTQ4MTEyMTM0MywtMT
-A2MDkzMzI3NywtMTA4MDQyMzE5NywxMzY0MTUyMjU3LDE3NzEx
-MzkxMDYsLTE0NTE3ODUyOSwxNDIzMzc5NzQsLTI0MjU2MzYxMy
-wtMTM4Nzc0NTk5LC00MDY4Mzk5NzUsLTIwMjMzMzUwNDldfQ==
-
+eyJoaXN0b3J5IjpbLTM4NTU5NDQxNSwxNjQwNTExNTkxLDkwNT
+gwMjQxMywtMzAyMDU0NDIyLC00MDEwODU4NDAsNDUzMzI0ODQs
+LTEwMDAyODg5NDMsLTE4NzYwNzczOTUsMTc2OTE2NzAwNSwtND
+gxMTIxMzQzLC0xMDYwOTMzMjc3LC0xMDgwNDIzMTk3LDEzNjQx
+NTIyNTcsMTc3MTEzOTEwNiwtMTQ1MTc4NTI5LDE0MjMzNzk3NC
+wtMjQyNTYzNjEzLC0xMzg3NzQ1OTksLTQwNjgzOTk3NSwtMjAy
+MzMzNTA0OV19
 -->
