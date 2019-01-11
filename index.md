@@ -40,7 +40,7 @@ Date | Topic | Readings & **Deadlines**
 Jan 22 | Organizational meeting | **Complete [this form]() by Friday**
 Jan 29 | Logical problem and learnability | [Wexler 1980](https://drive.google.com/open?id=1uIYvQtzQaRpmVOTXcWi1tQJ8AguqnWdX)<br> [Berwick 1986](https://drive.google.com/open?id=1uAg5fDmrroko24claU0nGSbQRlq95ua1) <br> [Reali & Christiansen 2005](https://drive.google.com/open?id=1talM3Celuop6hoXUtAFYzSjBJrJ1Z8YN)
 30-Jan | Prosodic bootstrapping |  [Gleitman & Wanner 1982]()<br>[Soderstrom et al 2003]()<br>[Hawthorne & Gerken 2014]()
-06-Feb |  Semantic bootstrapping | Wel
+06-Feb |  Semantic bootstrapping | Wexler & Culicover 1980<br>Berwick 1985
 20-Feb | Syntactic bootstrapping |  [Gleitman et al 2005]()<br>[Pozzan et al 2015]()
  13-Feb | Usage-based approaches |  [Tomasello 2000]()<br>[Fisher 2002]()<br>**Specific Aims due on Friday**
 06-Mar | No class, Spring break | 
@@ -73,7 +73,7 @@ Jan 29 | Logical problem and learnability | [Wexler 1980](https://drive.google.c
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyOTE4MzEwMiwtMzAyMDU0NDIyLC00MD
+eyJoaXN0b3J5IjpbMTg0MzM4OTUyNSwtMzAyMDU0NDIyLC00MD
 EwODU4NDAsNDUzMzI0ODQsLTEwMDAyODg5NDMsLTE4NzYwNzcz
 OTUsMTc2OTE2NzAwNSwtNDgxMTIxMzQzLC0xMDYwOTMzMjc3LC
 0xMDgwNDIzMTk3LDEzNjQxNTIyNTcsMTc3MTEzOTEwNiwtMTQ1
