@@ -43,7 +43,7 @@ Jan 29 | Logical problem and learnability | [Wexler 1980](https://drive.google.c
 06-Feb |  Semantic bootstrapping | Wexler & Culicover 1980<br>Berwick 1985
 20-Feb | Syntactic bootstrapping |  [Gleitman et al 2005]()<br>[Pozzan et al 2015]()
  13-Feb | Usage-based approaches |  [Tomasello 2000]()<br>[Fisher 2002]()<br>**Specific Aims due on Friday**
-06-Mar | No class, Spring break | 
+06-Mar | No class, Spring break | None
  13-Mar | Theory 3 | 
  20-Mar | Evidence for theory 3 | 
  27-Mar | Evidence for theory cross languages |  **Deadline to submit [proposal draft](spring2018/research-proposal.html) for feedback from Katie (optional)**
@@ -73,10 +73,10 @@ Jan 29 | Logical problem and learnability | [Wexler 1980](https://drive.google.c
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MzM4OTUyNSwtMzAyMDU0NDIyLC00MD
-EwODU4NDAsNDUzMzI0ODQsLTEwMDAyODg5NDMsLTE4NzYwNzcz
-OTUsMTc2OTE2NzAwNSwtNDgxMTIxMzQzLC0xMDYwOTMzMjc3LC
-0xMDgwNDIzMTk3LDEzNjQxNTIyNTcsMTc3MTEzOTEwNiwtMTQ1
-MTc4NTI5LDE0MjMzNzk3NCwtMjQyNTYzNjEzLC0xMzg3NzQ1OT
-ksLTQwNjgzOTk3NSwtMjAyMzMzNTA0OV19
+eyJoaXN0b3J5IjpbOTA1ODAyNDEzLC0zMDIwNTQ0MjIsLTQwMT
+A4NTg0MCw0NTMzMjQ4NCwtMTAwMDI4ODk0MywtMTg3NjA3NzM5
+NSwxNzY5MTY3MDA1LC00ODExMjEzNDMsLTEwNjA5MzMyNzcsLT
+EwODA0MjMxOTcsMTM2NDE1MjI1NywxNzcxMTM5MTA2LC0xNDUx
+Nzg1MjksMTQyMzM3OTc0LC0yNDI1NjM2MTMsLTEzODc3NDU5OS
+wtNDA2ODM5OTc1LC0yMDIzMzM1MDQ5XX0=
 -->
