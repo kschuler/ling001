@@ -52,7 +52,7 @@ Mar 5 | No class, Spring break | None
 Apr 16 | Evidence for theory 4 cross-linguistic |  **Research Proposals due by midnight**
 Apr 23 | No class |
  Apr 30 | Mock study section |  **Written critiques due on April 23 by midnight**
- May 7 |  |   **Response to reviewers' critiques due**
+ May 7 |  |   **Response to reviewers' critiques due by Midnight**
 
 ## Resources
 
@@ -73,7 +73,7 @@ Apr 23 | No class |
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIzMDI2MDQ0LDE2NDA1MTE1OTEsOTA1OD
+eyJoaXN0b3J5IjpbMjM3NjMyMDUzLDE2NDA1MTE1OTEsOTA1OD
 AyNDEzLC0zMDIwNTQ0MjIsLTQwMTA4NTg0MCw0NTMzMjQ4NCwt
 MTAwMDI4ODk0MywtMTg3NjA3NzM5NSwxNzY5MTY3MDA1LC00OD
 ExMjEzNDMsLTEwNjA5MzMyNzcsLTEwODA0MjMxOTcsMTM2NDE1
