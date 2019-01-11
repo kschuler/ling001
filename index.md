@@ -47,9 +47,9 @@ Mar 5 | No class, Spring break | None
  Mar 12 | Parameter setting | 
  Mar 19 | OT | 
  Mar 26 | TBD |  **Deadline to submit proposal draft for feedback from Katie (optional)**
- Apr 2 | Theory 4 | 
- Apr 9 | Evidence for theory 4 | 
-Apr 16 | Evidence for theory 4 cross-linguistic |  **Research Proposals due by midnight**
+ Apr 2 | Neural network models | 
+ Apr 9 | Distributional learning | 
+Apr 16 | Bayesian approaches |  **Research Proposals due by midnight**
 Apr 23 | No class |
  Apr 30 | Mock study section |  **Written critiques due on April 23 by midnight**
  May 7 |  |   **Response to reviewers' critiques due by Midnight**
@@ -73,11 +73,11 @@ Apr 23 | No class |
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM3NjMyMDUzLDE2NDA1MTE1OTEsOTA1OD
-AyNDEzLC0zMDIwNTQ0MjIsLTQwMTA4NTg0MCw0NTMzMjQ4NCwt
-MTAwMDI4ODk0MywtMTg3NjA3NzM5NSwxNzY5MTY3MDA1LC00OD
-ExMjEzNDMsLTEwNjA5MzMyNzcsLTEwODA0MjMxOTcsMTM2NDE1
-MjI1NywxNzcxMTM5MTA2LC0xNDUxNzg1MjksMTQyMzM3OTc0LC
-0yNDI1NjM2MTMsLTEzODc3NDU5OSwtNDA2ODM5OTc1LC0yMDIz
-MzM1MDQ5XX0=
+eyJoaXN0b3J5IjpbLTY3MDI5MzYwMiwxNjQwNTExNTkxLDkwNT
+gwMjQxMywtMzAyMDU0NDIyLC00MDEwODU4NDAsNDUzMzI0ODQs
+LTEwMDAyODg5NDMsLTE4NzYwNzczOTUsMTc2OTE2NzAwNSwtND
+gxMTIxMzQzLC0xMDYwOTMzMjc3LC0xMDgwNDIzMTk3LDEzNjQx
+NTIyNTcsMTc3MTEzOTEwNiwtMTQ1MTc4NTI5LDE0MjMzNzk3NC
+wtMjQyNTYzNjEzLC0xMzg3NzQ1OTksLTQwNjgzOTk3NSwtMjAy
+MzMzNTA0OV19
 -->
