@@ -50,7 +50,7 @@ Mar 5 | No class, Spring break | None
  Apr 2 | Neural network models | [Rumelhart & McClelland 1988]()<br>[Pinker & Prince 1991]()
  Apr 9 | Distributional learning | 
 Apr 16 | Bayesian approaches |  
-Apr 23 | No class |
+Apr 23 | No class | **Research Proposals due by midnight**
  Apr 30 | Mock study section |  **Written critiques due on April 23 by midnight**
  May 7 |  |   **Response to reviewers' critiques due by Midnight**
 
@@ -73,7 +73,7 @@ Apr 23 | No class |
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MDE2MDc4OSwxNjQwNTExNTkxLDkwNT
+eyJoaXN0b3J5IjpbLTYwMzI2OTQzOCwxNjQwNTExNTkxLDkwNT
 gwMjQxMywtMzAyMDU0NDIyLC00MDEwODU4NDAsNDUzMzI0ODQs
 LTEwMDAyODg5NDMsLTE4NzYwNzczOTUsMTc2OTE2NzAwNSwtND
 gxMTIxMzQzLC0xMDYwOTMzMjc3LC0xMDgwNDIzMTk3LDEzNjQx
