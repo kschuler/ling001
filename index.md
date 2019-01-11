@@ -44,7 +44,7 @@ Feb 12 |  Semantic bootstrapping | Wexler & Culicover 1980<br>Berwick 1985
 Feb 19 | Syntactic bootstrapping |  [Gleitman et al 2005](https://drive.google.com/open?id=1KsMoL4I1uYAfpT_3SKpLay_n1FqihW8Q)<br>[Pozzan et al 2015](https://drive.google.com/open?id=1s0WluIcOH4-fLOhkkl2YdXmPT-Aoo1K1)
  Feb 26 | Usage-based approaches |  [Tomasello 2000](https://drive.google.com/open?id=1cjXj0QC3y99FraJGaiRlFqDlStQL8rt6)<br>[Fisher 2002](https://drive.google.com/open?id=1J31-QWbVoCGT_ovOo0fvVuXovpy-MzSs)<br><br>**Specific Aims due on Friday**
 Mar 5 | No class, Spring break | None
- Mar 12 | Parameter setting | Radford 1995<br>[oeppel & Wexler 1993<br>Chien & Wexler 1990
+ Mar 12 | Parameter setting | Radford 1995<br>Poeppel & Wexler 1993<br>Chien & Wexler 1990
  Mar 19 | OT | [Prince & Smolensky 1997](https://drive.google.com/open?id=10GyxuVO7tbFZLsB6gG7CN9BkAN_ZyGBs)<br>[Legendre 2006](https://drive.google.com/open?id=1x69LDeTSLkHx-9gLA7Ey2ddohmjrBDEK)
  Mar 26 | TBD |  Lidz 2007<br><br>**Deadline to submit proposal draft for feedback (optional)**
  Apr 2 | Neural network models | [Rumelhart & McClelland 1988](https://drive.google.com/open?id=1XMS_-foPiFi7HI6sFNI_Q-9yWU7ilh78)<br>[Pinker & Prince 1988](https://drive.google.com/open?id=1LEU7I4OjxiPVQz-wsXdw4BhbcxcE0PnE)
@@ -73,11 +73,11 @@ Apr 23 | No class | None
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUyNzMyMzE0LC0zMDk4NDE2NDIsLTQ5MT
-gwNTQ2MSw0MTc2OTgxMTYsLTQzNzQyNTE4MiwtMTcyNzc3NTYz
-NywxOTExNTkwMjE1LDUyMTE1NTE5NSwxNjQwNTExNTkxLDkwNT
-gwMjQxMywtMzAyMDU0NDIyLC00MDEwODU4NDAsNDUzMzI0ODQs
-LTEwMDAyODg5NDMsLTE4NzYwNzczOTUsMTc2OTE2NzAwNSwtND
-gxMTIxMzQzLC0xMDYwOTMzMjc3LC0xMDgwNDIzMTk3LDEzNjQx
-NTIyNTddfQ==
+eyJoaXN0b3J5IjpbMTE3NjExNDA1MywtMzA5ODQxNjQyLC00OT
+E4MDU0NjEsNDE3Njk4MTE2LC00Mzc0MjUxODIsLTE3Mjc3NzU2
+MzcsMTkxMTU5MDIxNSw1MjExNTUxOTUsMTY0MDUxMTU5MSw5MD
+U4MDI0MTMsLTMwMjA1NDQyMiwtNDAxMDg1ODQwLDQ1MzMyNDg0
+LC0xMDAwMjg4OTQzLC0xODc2MDc3Mzk1LDE3NjkxNjcwMDUsLT
+Q4MTEyMTM0MywtMTA2MDkzMzI3NywtMTA4MDQyMzE5NywxMzY0
+MTUyMjU3XX0=
 -->
