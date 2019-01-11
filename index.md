@@ -45,7 +45,7 @@ Feb 19 | Syntactic bootstrapping |  [Gleitman et al 2005](https://drive.google.c
  Feb 26 | Usage-based approaches |  [Tomasello 2000]()<br>[Fisher 2002]()<br><br>**Specific Aims due on Friday**
 Mar 5 | No class, Spring break | None
  Mar 12 | Parameter setting | [Radford 1995]()<br>[Poeppel & Wexler 1993]()<br>[Chien & Wexler 1990]()
- Mar 19 | OT | [Prince & Smolensky 1997]()<br>[Legendre 2006]()
+ Mar 19 | OT | [Prince & Smolensky 1997](https://drive.google.com/open?id=10GyxuVO7tbFZLsB6gG7CN9BkAN_ZyGBs)<br>[Legendre 2006]()
  Mar 26 | TBD |  Lidz 2007<br><br>**Deadline to submit proposal draft for feedback (optional)**
  Apr 2 | Neural network models | [Rumelhart & McClelland 1988]()<br>[Pinker & Prince 1991]()
  Apr 9 | Distributional learning | [Maratsos and Chalkley 1980]()
@@ -73,11 +73,11 @@ Apr 23 | No class | None
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NDY2MTksLTQzNzQyNTE4MiwtMTcyNz
-c3NTYzNywxOTExNTkwMjE1LDUyMTE1NTE5NSwxNjQwNTExNTkx
-LDkwNTgwMjQxMywtMzAyMDU0NDIyLC00MDEwODU4NDAsNDUzMz
-I0ODQsLTEwMDAyODg5NDMsLTE4NzYwNzczOTUsMTc2OTE2NzAw
-NSwtNDgxMTIxMzQzLC0xMDYwOTMzMjc3LC0xMDgwNDIzMTk3LD
-EzNjQxNTIyNTcsMTc3MTEzOTEwNiwtMTQ1MTc4NTI5LDE0MjMz
-Nzk3NF19
+eyJoaXN0b3J5IjpbNDE3Njk4MTE2LC00Mzc0MjUxODIsLTE3Mj
+c3NzU2MzcsMTkxMTU5MDIxNSw1MjExNTUxOTUsMTY0MDUxMTU5
+MSw5MDU4MDI0MTMsLTMwMjA1NDQyMiwtNDAxMDg1ODQwLDQ1Mz
+MyNDg0LC0xMDAwMjg4OTQzLC0xODc2MDc3Mzk1LDE3NjkxNjcw
+MDUsLTQ4MTEyMTM0MywtMTA2MDkzMzI3NywtMTA4MDQyMzE5Ny
+wxMzY0MTUyMjU3LDE3NzExMzkxMDYsLTE0NTE3ODUyOSwxNDIz
+Mzc5NzRdfQ==
 -->
