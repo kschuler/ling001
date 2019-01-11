@@ -37,7 +37,7 @@ If you are taking the course for credit, your final project will be a research p
 
 Date | Topic | Readings & **Deadlines**
  --- | --- | ---
-Jan 22 | Organizational meeting | **Send ranked list of papers** by Friday
+Jan 22 | Organizational meeting | **Send ranked list of papers by Friday**
 Jan 29 | Logical problem and learnability | [Wexler, 1980](https://drive.google.com/open?id=1uIYvQtzQaRpmVOTXcWi1tQJ8AguqnWdX)<br> [Berwick, 1986](https://drive.google.com/open?id=1uAg5fDmrroko24claU0nGSbQRlq95ua1) <br> [Reali & Christiansen, 2005](https://drive.google.com/open?id=1talM3Celuop6hoXUtAFYzSjBJrJ1Z8YN)
 30-Jan | Prosodic bootstrapping |  
 06-Feb |  Theory 2 | 
@@ -74,7 +74,7 @@ Jan 29 | Logical problem and learnability | [Wexler, 1980](https://drive.google.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3ODYzNzg4OCwtMTAwMDI4ODk0MywtMT
+eyJoaXN0b3J5IjpbMTA0OTI1MDc1MiwtMTAwMDI4ODk0MywtMT
 g3NjA3NzM5NSwxNzY5MTY3MDA1LC00ODExMjEzNDMsLTEwNjA5
 MzMyNzcsLTEwODA0MjMxOTcsMTM2NDE1MjI1NywxNzcxMTM5MT
 A2LC0xNDUxNzg1MjksMTQyMzM3OTc0LC0yNDI1NjM2MTMsLTEz
