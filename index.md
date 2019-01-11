@@ -47,7 +47,7 @@ Mar 5 | No class, Spring break | None
  Mar 12 | Parameter setting | 
  Mar 19 | OT | Prince & Smolensky 1997<br>Legendre 2006
  Mar 26 | TBD |  **Deadline to submit proposal draft for feedback from Katie (optional)**
- Apr 2 | Neural network models | 
+ Apr 2 | Neural network models | Rumelhart & McClelland 1988<br>Pinker & Prince 1991
  Apr 9 | Distributional learning | 
 Apr 16 | Bayesian approaches |  **Research Proposals due by midnight**
 Apr 23 | No class |
@@ -73,7 +73,7 @@ Apr 23 | No class |
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMjA3MDc5NiwxNjQwNTExNTkxLDkwNT
+eyJoaXN0b3J5IjpbMTI2OTY2Njg2MywxNjQwNTExNTkxLDkwNT
 gwMjQxMywtMzAyMDU0NDIyLC00MDEwODU4NDAsNDUzMzI0ODQs
 LTEwMDAyODg5NDMsLTE4NzYwNzczOTUsMTc2OTE2NzAwNSwtND
 gxMTIxMzQzLC0xMDYwOTMzMjc3LC0xMDgwNDIzMTk3LDEzNjQx
