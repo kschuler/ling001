@@ -48,7 +48,7 @@ Mar 5 | No class, Spring break | None
  Mar 19 | OT | [Prince & Smolensky 1997]()<br>[Legendre 2006]()
  Mar 26 | TBD |  **Deadline to submit proposal draft for feedback (optional)**
  Apr 2 | Neural network models | [Rumelhart & McClelland 1988]()<br>[Pinker & Prince 1991]()
- Apr 9 | Distributional learning | 
+ Apr 9 | Distributional learning | [Maratsos and Chalkley 1980]()
 Apr 16 | Bayesian approaches |  [Perfors et al 2011]()<br>[Yang 2017]()<br><br>**Research Proposals due by midnight**
 Apr 23 | No class, finish your paper! | 
  Apr 30 | Mock study section |  **Written critiques due on April 23 by midnight**
@@ -73,11 +73,11 @@ Apr 23 | No class, finish your paper! |
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIxMTU1MTk1LDE2NDA1MTE1OTEsOTA1OD
-AyNDEzLC0zMDIwNTQ0MjIsLTQwMTA4NTg0MCw0NTMzMjQ4NCwt
-MTAwMDI4ODk0MywtMTg3NjA3NzM5NSwxNzY5MTY3MDA1LC00OD
-ExMjEzNDMsLTEwNjA5MzMyNzcsLTEwODA0MjMxOTcsMTM2NDE1
-MjI1NywxNzcxMTM5MTA2LC0xNDUxNzg1MjksMTQyMzM3OTc0LC
-0yNDI1NjM2MTMsLTEzODc3NDU5OSwtNDA2ODM5OTc1LC0yMDIz
-MzM1MDQ5XX0=
+eyJoaXN0b3J5IjpbLTIwNjA0OTczNzAsNTIxMTU1MTk1LDE2ND
+A1MTE1OTEsOTA1ODAyNDEzLC0zMDIwNTQ0MjIsLTQwMTA4NTg0
+MCw0NTMzMjQ4NCwtMTAwMDI4ODk0MywtMTg3NjA3NzM5NSwxNz
+Y5MTY3MDA1LC00ODExMjEzNDMsLTEwNjA5MzMyNzcsLTEwODA0
+MjMxOTcsMTM2NDE1MjI1NywxNzcxMTM5MTA2LC0xNDUxNzg1Mj
+ksMTQyMzM3OTc0LC0yNDI1NjM2MTMsLTEzODc3NDU5OSwtNDA2
+ODM5OTc1XX0=
 -->
