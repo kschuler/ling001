@@ -35,25 +35,25 @@ If you are taking the course for credit, your final project will be a research p
 
 ## Schedule
 
-Date | Topic | Readings | **Deadlines**
- --- | --- | --- | ---
-16-Jan | Prosodic bootstrapping | |
-23-Jan | Evidence of prosodic bootstrapping |Background: Gleitman & Wanner 1982<br><br>**Soderstrom et al 2003<br>Hawthorne and Gerken 2014** |
-30-Jan | Evidence of prosodic bootstrapping in other languages|  |
-06-Feb |  Theory 2 | |
- 13-Feb | Evidence for theory 2 |  |
-20-Feb |  | | **Specific Aims** due on Friday
- 27-Feb | Specific Aims workshop | |
-06-Mar | No class, Spring break | |
- 13-Mar | Theory 3 | |
- 20-Mar | Evidence for theory 3 | |
- 27-Mar | Evidence for theory cross languages | | **Deadline to submit [proposal draft](spring2018/research-proposal.html) for feedback from Katie (optional)**
- 03-Apr | Theory 4 | |
- 10-Apr | Evidence for theory 4 | |
-17-Apr | Evidence for theory 4 cross-linguistic | | **[Research Proposals](spring2018/research-proposal.html) due by midnight**
+Date | Topic | Readings & **Deadlines**
+ --- | --- | ---
+16-Jan | Prosodic bootstrapping | 
+23-Jan | Evidence of prosodic bootstrapping |Background: Gleitman & Wanner 1982<br><br>**Soderstrom et al 2003<br>Hawthorne and Gerken 2014** 
+30-Jan | Evidence of prosodic bootstrapping in other languages|  
+06-Feb |  Theory 2 | 
+ 13-Feb | Evidence for theory 2 |  
+20-Feb |  |  **Specific Aims** due on Friday
+ 27-Feb | Specific Aims workshop | 
+06-Mar | No class, Spring break | 
+ 13-Mar | Theory 3 | 
+ 20-Mar | Evidence for theory 3 | 
+ 27-Mar | Evidence for theory cross languages |  **Deadline to submit [proposal draft](spring2018/research-proposal.html) for feedback from Katie (optional)**
+ 03-Apr | Theory 4 | 
+ 10-Apr | Evidence for theory 4 | 
+17-Apr | Evidence for theory 4 cross-linguistic |  **[Research Proposals](spring2018/research-proposal.html) due by midnight**
 24-Apr | No class |
- 01-May | Mock study section | | **[Written critiques](spring2018/research-proposal.html#in-class-peer-review) due on April 23 by midnight**
- 08-May |  |  | **[Response to reviewers' critiques](spring2018/research-proposal.html#written-response-to-reviews) due**
+ 01-May | Mock study section |  **[Written critiques](spring2018/research-proposal.html#in-class-peer-review) due on April 23 by midnight**
+ 08-May |  |   **[Response to reviewers' critiques](spring2018/research-proposal.html#written-response-to-reviews) due**
 
 ## Resources
 
@@ -74,8 +74,8 @@ Date | Topic | Readings | **Deadlines**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY0NTMxMTM4LC0xMDYwOTMzMjc3LC0xMD
-gwNDIzMTk3LDEzNjQxNTIyNTcsMTc3MTEzOTEwNiwtMTQ1MTc4
-NTI5LDE0MjMzNzk3NCwtMjQyNTYzNjEzLC0xMzg3NzQ1OTksLT
-QwNjgzOTk3NSwtMjAyMzMzNTA0OV19
+eyJoaXN0b3J5IjpbLTQ4MTEyMTM0MywtMTA2MDkzMzI3NywtMT
+A4MDQyMzE5NywxMzY0MTUyMjU3LDE3NzExMzkxMDYsLTE0NTE3
+ODUyOSwxNDIzMzc5NzQsLTI0MjU2MzYxMywtMTM4Nzc0NTk5LC
+00MDY4Mzk5NzUsLTIwMjMzMzUwNDldfQ==
 -->
