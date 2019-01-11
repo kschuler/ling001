@@ -21,7 +21,7 @@ dark_nav: false              # keep header and footer dark (applies only when st
 dark_theme: false            # enables dark mode
 
 navigation:                  # (optional) site navigation in the header
-  Description: index.md
+  Overview: index.html
   Schedule: index.html#schedule
   Resources: index.html#resources
   Readings: index.html#readings
