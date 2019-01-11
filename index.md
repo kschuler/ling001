@@ -38,7 +38,7 @@ If you are taking the course for credit, your final project will be a research p
 Date | Topic | Readings & **Deadlines**
  --- | --- | ---
 16-Jan | Organizational meeting | 
-23-Jan | Evidence of prosodic bootstrapping |Background: Gleitman & Wanner 1982<br><br>**Soderstrom et al 2003<br>Hawthorne and Gerken 2014** 
+23-Jan | Logical problem and learnability | [Wexler, 1980](https://drive.google.com/open?id=1uIYvQtzQaRpmVOTXcWi1tQJ8AguqnWdX)
 30-Jan | Evidence of prosodic bootstrapping in other languages|  
 06-Feb |  Theory 2 | 
  13-Feb | Evidence for theory 2 |  
@@ -74,8 +74,9 @@ Date | Topic | Readings & **Deadlines**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2OTE2NzAwNSwtNDgxMTIxMzQzLC0xMD
-YwOTMzMjc3LC0xMDgwNDIzMTk3LDEzNjQxNTIyNTcsMTc3MTEz
-OTEwNiwtMTQ1MTc4NTI5LDE0MjMzNzk3NCwtMjQyNTYzNjEzLC
-0xMzg3NzQ1OTksLTQwNjgzOTk3NSwtMjAyMzMzNTA0OV19
+eyJoaXN0b3J5IjpbMTAwNzMxMDk4LDE3NjkxNjcwMDUsLTQ4MT
+EyMTM0MywtMTA2MDkzMzI3NywtMTA4MDQyMzE5NywxMzY0MTUy
+MjU3LDE3NzExMzkxMDYsLTE0NTE3ODUyOSwxNDIzMzc5NzQsLT
+I0MjU2MzYxMywtMTM4Nzc0NTk5LC00MDY4Mzk5NzUsLTIwMjMz
+MzUwNDldfQ==
 -->
