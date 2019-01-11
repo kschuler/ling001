@@ -46,7 +46,7 @@ Feb 19 | Syntactic bootstrapping |  [Gleitman et al 2005]()<br>[Pozzan et al 201
 Mar 5 | No class, Spring break | None
  Mar 12 | Parameter setting | [Radford 1995]()<br>[Poeppel & Wexler 1993]()<br>[Chien & Wexler 1990]()
  Mar 19 | OT | [Prince & Smolensky 1997]()<br>[Legendre 2006]()
- Mar 26 | TBD |  **Deadline to submit proposal draft for feedback (optional)**
+ Mar 26 | TBD |  Lidz 2007<br><br>**Deadline to submit proposal draft for feedback (optional)**
  Apr 2 | Neural network models | [Rumelhart & McClelland 1988]()<br>[Pinker & Prince 1991]()
  Apr 9 | Distributional learning | [Maratsos and Chalkley 1980]()
 Apr 16 | Bayesian approaches |  [Perfors et al 2011]()<br>[Yang 2017]()<br><br>**Research Proposals due by midnight**
@@ -73,11 +73,11 @@ Apr 23 | No class | None
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMTIwNzc4MSwxOTExNTkwMjE1LDUyMT
-E1NTE5NSwxNjQwNTExNTkxLDkwNTgwMjQxMywtMzAyMDU0NDIy
-LC00MDEwODU4NDAsNDUzMzI0ODQsLTEwMDAyODg5NDMsLTE4Nz
-YwNzczOTUsMTc2OTE2NzAwNSwtNDgxMTIxMzQzLC0xMDYwOTMz
-Mjc3LC0xMDgwNDIzMTk3LDEzNjQxNTIyNTcsMTc3MTEzOTEwNi
-wtMTQ1MTc4NTI5LDE0MjMzNzk3NCwtMjQyNTYzNjEzLC0xMzg3
-NzQ1OTldfQ==
+eyJoaXN0b3J5IjpbLTE3Mjc3NzU2MzcsMTkxMTU5MDIxNSw1Mj
+ExNTUxOTUsMTY0MDUxMTU5MSw5MDU4MDI0MTMsLTMwMjA1NDQy
+MiwtNDAxMDg1ODQwLDQ1MzMyNDg0LC0xMDAwMjg4OTQzLC0xOD
+c2MDc3Mzk1LDE3NjkxNjcwMDUsLTQ4MTEyMTM0MywtMTA2MDkz
+MzI3NywtMTA4MDQyMzE5NywxMzY0MTUyMjU3LDE3NzExMzkxMD
+YsLTE0NTE3ODUyOSwxNDIzMzc5NzQsLTI0MjU2MzYxMywtMTM4
+Nzc0NTk5XX0=
 -->
