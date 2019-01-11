@@ -37,7 +37,7 @@ If you are taking the course for credit, your final project will be a research p
 
 Date | Topic | Readings & **Deadlines**
  --- | --- | ---
-Jan 22 | Organizational meeting | **Ranked list of papers by Friday**
+Jan 22 | Organizational meeting | **Complete form by Friday**
 Jan 29 | Logical problem and learnability | [Wexler 1980](https://drive.google.com/open?id=1uIYvQtzQaRpmVOTXcWi1tQJ8AguqnWdX)<br> [Berwick 1986](https://drive.google.com/open?id=1uAg5fDmrroko24claU0nGSbQRlq95ua1) <br> [Reali & Christiansen 2005](https://drive.google.com/open?id=1talM3Celuop6hoXUtAFYzSjBJrJ1Z8YN)
 30-Jan | Prosodic bootstrapping |  [Gleitman & Wanner 1982]()<br>[Soderstrom et al 2003]()<br>[Hawthorne & Gerken 2014]()
 06-Feb |  Semantic bootstrapping | 
@@ -74,9 +74,9 @@ Jan 29 | Logical problem and learnability | [Wexler 1980](https://drive.google.c
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzI5NjE2MDksLTEwMDAyODg5NDMsLT
-E4NzYwNzczOTUsMTc2OTE2NzAwNSwtNDgxMTIxMzQzLC0xMDYw
-OTMzMjc3LC0xMDgwNDIzMTk3LDEzNjQxNTIyNTcsMTc3MTEzOT
-EwNiwtMTQ1MTc4NTI5LDE0MjMzNzk3NCwtMjQyNTYzNjEzLC0x
-Mzg3NzQ1OTksLTQwNjgzOTk3NSwtMjAyMzMzNTA0OV19
+eyJoaXN0b3J5IjpbMTM5NTQxODY3MSwtMTAwMDI4ODk0MywtMT
+g3NjA3NzM5NSwxNzY5MTY3MDA1LC00ODExMjEzNDMsLTEwNjA5
+MzMyNzcsLTEwODA0MjMxOTcsMTM2NDE1MjI1NywxNzcxMTM5MT
+A2LC0xNDUxNzg1MjksMTQyMzM3OTc0LC0yNDI1NjM2MTMsLTEz
+ODc3NDU5OSwtNDA2ODM5OTc1LC0yMDIzMzM1MDQ5XX0=
 -->
