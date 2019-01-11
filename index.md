@@ -46,7 +46,7 @@ Feb 19 | Syntactic bootstrapping |  [Gleitman et al 2005]()<br>[Pozzan et al 201
 Mar 5 | No class, Spring break | None
  Mar 12 | Parameter setting | 
  Mar 19 | OT | [Prince & Smolensky 1997]()<br>[Legendre 2006]()
- Mar 26 | TBD |  **Deadline to submit proposal draft for feedback from Katie (optional)**
+ Mar 26 | TBD |  **Deadline to submit proposal draft for feedback (optional)**
  Apr 2 | Neural network models | [Rumelhart & McClelland 1988]()<br>[Pinker & Prince 1991]()
  Apr 9 | Distributional learning | 
 Apr 16 | Bayesian approaches |  [Perfors et al 2011]()<br>[Yang 2017]()<br><br>**Research Proposals due by midnight**
@@ -73,7 +73,7 @@ Apr 23 | No class, finish your paper! |
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzkyMTg1ODUsMTY0MDUxMTU5MSw5MD
+eyJoaXN0b3J5IjpbLTIwNjExNzU2MzksMTY0MDUxMTU5MSw5MD
 U4MDI0MTMsLTMwMjA1NDQyMiwtNDAxMDg1ODQwLDQ1MzMyNDg0
 LC0xMDAwMjg4OTQzLC0xODc2MDc3Mzk1LDE3NjkxNjcwMDUsLT
 Q4MTEyMTM0MywtMTA2MDkzMzI3NywtMTA4MDQyMzE5NywxMzY0
