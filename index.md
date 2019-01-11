@@ -49,8 +49,8 @@ Mar 5 | No class, Spring break | None
  Mar 26 | TBD |  **Deadline to submit proposal draft for feedback from Katie (optional)**
  Apr 2 | Neural network models | [Rumelhart & McClelland 1988]()<br>[Pinker & Prince 1991]()
  Apr 9 | Distributional learning | 
-Apr 16 | Bayesian approaches |  [Perfors et al 2011]()<br>[Yang 2017]()
-Apr 23 | No class, finish your paper! | **Research Proposals due by midnight**
+Apr 16 | Bayesian approaches |  [Perfors et al 2011]()<br>[Yang 2017]()<br><br>**Research Proposals due by midnight**
+Apr 23 | No class, finish your paper! | 
  Apr 30 | Mock study section |  **Written critiques due on April 23 by midnight**
  May 7 |  |   **Response to reviewers' critiques due by Midnight**
 
@@ -73,7 +73,7 @@ Apr 23 | No class, finish your paper! | **Research Proposals due by midnight**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTI0MDg0MzcsMTY0MDUxMTU5MSw5MD
+eyJoaXN0b3J5IjpbLTE2MzkyMTg1ODUsMTY0MDUxMTU5MSw5MD
 U4MDI0MTMsLTMwMjA1NDQyMiwtNDAxMDg1ODQwLDQ1MzMyNDg0
 LC0xMDAwMjg4OTQzLC0xODc2MDc3Mzk1LDE3NjkxNjcwMDUsLT
 Q4MTEyMTM0MywtMTA2MDkzMzI3NywtMTA4MDQyMzE5NywxMzY0
