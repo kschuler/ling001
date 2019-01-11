@@ -39,7 +39,7 @@ Date | Topic | Readings & **Deadlines**
  --- | --- | ---
 Jan 22 | Organizational meeting | **Send ranked list of papers by Friday**
 Jan 29 | Logical problem and learnability | [Wexler, 1980](https://drive.google.com/open?id=1uIYvQtzQaRpmVOTXcWi1tQJ8AguqnWdX)<br> [Berwick, 1986](https://drive.google.com/open?id=1uAg5fDmrroko24claU0nGSbQRlq95ua1) <br> [Reali & Christiansen, 2005](https://drive.google.com/open?id=1talM3Celuop6hoXUtAFYzSjBJrJ1Z8YN)
-30-Jan | Prosodic bootstrapping |  [Gleitman & Wanner 1982]()<br>[Soderstrom et al 2003]()<br>[Hawthorne and Gerken 2014]()
+30-Jan | Prosodic bootstrapping |  [Gleitman & Wanner 1982]()<br>[Soderstrom et al 2003]()<br>[Hawthorne & Gerken 2014]()
 06-Feb |  Semantic bootstrapping | 
  13-Feb | Evidence for theory 2 |  
 20-Feb |  |  **Specific Aims** due on Friday
@@ -74,9 +74,9 @@ Jan 29 | Logical problem and learnability | [Wexler, 1980](https://drive.google.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MzM1MjU3LC0xMDAwMjg4OTQzLC0xOD
-c2MDc3Mzk1LDE3NjkxNjcwMDUsLTQ4MTEyMTM0MywtMTA2MDkz
-MzI3NywtMTA4MDQyMzE5NywxMzY0MTUyMjU3LDE3NzExMzkxMD
-YsLTE0NTE3ODUyOSwxNDIzMzc5NzQsLTI0MjU2MzYxMywtMTM4
-Nzc0NTk5LC00MDY4Mzk5NzUsLTIwMjMzMzUwNDldfQ==
+eyJoaXN0b3J5IjpbLTE3OTQyOTgwNTgsLTEwMDAyODg5NDMsLT
+E4NzYwNzczOTUsMTc2OTE2NzAwNSwtNDgxMTIxMzQzLC0xMDYw
+OTMzMjc3LC0xMDgwNDIzMTk3LDEzNjQxNTIyNTcsMTc3MTEzOT
+EwNiwtMTQ1MTc4NTI5LDE0MjMzNzk3NCwtMjQyNTYzNjEzLC0x
+Mzg3NzQ1OTksLTQwNjgzOTk3NSwtMjAyMzMzNTA0OV19
 -->
