@@ -41,7 +41,7 @@ Jan 22 | Organizational meeting | **Ranked list of papers by Friday**
 Jan 29 | Logical problem and learnability | [Wexler 1980](https://drive.google.com/open?id=1uIYvQtzQaRpmVOTXcWi1tQJ8AguqnWdX)<br> [Berwick 1986](https://drive.google.com/open?id=1uAg5fDmrroko24claU0nGSbQRlq95ua1) <br> [Reali & Christiansen 2005](https://drive.google.com/open?id=1talM3Celuop6hoXUtAFYzSjBJrJ1Z8YN)
 30-Jan | Prosodic bootstrapping |  [Gleitman & Wanner 1982]()<br>[Soderstrom et al 2003]()<br>[Hawthorne & Gerken 2014]()
 06-Feb |  Semantic bootstrapping | 
- 13-Feb | Usage-based approaches |  
+ 13-Feb | Usage-based approaches |  [Tomasello 2000]()<br>[Fisher 2002]()
 20-Feb |  |  **Specific Aims** due on Friday
  27-Feb | Specific Aims workshop | 
 06-Mar | No class, Spring break | 
@@ -74,7 +74,7 @@ Jan 29 | Logical problem and learnability | [Wexler 1980](https://drive.google.c
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTIyNDc1OTIsLTEwMDAyODg5NDMsLT
+eyJoaXN0b3J5IjpbLTE3MjU1NjcxNzEsLTEwMDAyODg5NDMsLT
 E4NzYwNzczOTUsMTc2OTE2NzAwNSwtNDgxMTIxMzQzLC0xMDYw
 OTMzMjc3LC0xMDgwNDIzMTk3LDEzNjQxNTIyNTcsMTc3MTEzOT
 EwNiwtMTQ1MTc4NTI5LDE0MjMzNzk3NCwtMjQyNTYzNjEzLC0x
