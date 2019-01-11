@@ -44,7 +44,7 @@ Feb 12 |  Semantic bootstrapping | Wexler & Culicover 1980<br>Berwick 1985
 Feb 19 | Syntactic bootstrapping |  [Gleitman et al 2005]()<br>[Pozzan et al 2015]()
  Feb 26 | Usage-based approaches |  [Tomasello 2000]()<br>[Fisher 2002]()<br><br>**Specific Aims due on Friday**
 Mar 5 | No class, Spring break | None
- Mar 12 | Parameter setting | 
+ Mar 12 | Parameter setting | [Radford 1995]()<br>[Poeppel & Wexler 1993]()<br>[Chien & Wexler 1990]()
  Mar 19 | OT | [Prince & Smolensky 1997]()<br>[Legendre 2006]()
  Mar 26 | TBD |  **Deadline to submit proposal draft for feedback (optional)**
  Apr 2 | Neural network models | [Rumelhart & McClelland 1988]()<br>[Pinker & Prince 1991]()
@@ -73,11 +73,11 @@ Apr 23 | No class, finish your paper! |
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjExNzU2MzksMTY0MDUxMTU5MSw5MD
-U4MDI0MTMsLTMwMjA1NDQyMiwtNDAxMDg1ODQwLDQ1MzMyNDg0
-LC0xMDAwMjg4OTQzLC0xODc2MDc3Mzk1LDE3NjkxNjcwMDUsLT
-Q4MTEyMTM0MywtMTA2MDkzMzI3NywtMTA4MDQyMzE5NywxMzY0
-MTUyMjU3LDE3NzExMzkxMDYsLTE0NTE3ODUyOSwxNDIzMzc5Nz
-QsLTI0MjU2MzYxMywtMTM4Nzc0NTk5LC00MDY4Mzk5NzUsLTIw
-MjMzMzUwNDldfQ==
+eyJoaXN0b3J5IjpbNTIxMTU1MTk1LDE2NDA1MTE1OTEsOTA1OD
+AyNDEzLC0zMDIwNTQ0MjIsLTQwMTA4NTg0MCw0NTMzMjQ4NCwt
+MTAwMDI4ODk0MywtMTg3NjA3NzM5NSwxNzY5MTY3MDA1LC00OD
+ExMjEzNDMsLTEwNjA5MzMyNzcsLTEwODA0MjMxOTcsMTM2NDE1
+MjI1NywxNzcxMTM5MTA2LC0xNDUxNzg1MjksMTQyMzM3OTc0LC
+0yNDI1NjM2MTMsLTEzODc3NDU5OSwtNDA2ODM5OTc1LC0yMDIz
+MzM1MDQ5XX0=
 -->
