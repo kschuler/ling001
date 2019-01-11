@@ -37,7 +37,7 @@ If you are taking the course for credit, your final project will be a research p
 
 Date | Topic | Readings & **Deadlines**
  --- | --- | ---
-16-Jan | Prosodic bootstrapping | 
+16-Jan | Organizational meeting | 
 23-Jan | Evidence of prosodic bootstrapping |Background: Gleitman & Wanner 1982<br><br>**Soderstrom et al 2003<br>Hawthorne and Gerken 2014** 
 30-Jan | Evidence of prosodic bootstrapping in other languages|  
 06-Feb |  Theory 2 | 
@@ -74,8 +74,8 @@ Date | Topic | Readings & **Deadlines**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MTEyMTM0MywtMTA2MDkzMzI3NywtMT
-A4MDQyMzE5NywxMzY0MTUyMjU3LDE3NzExMzkxMDYsLTE0NTE3
-ODUyOSwxNDIzMzc5NzQsLTI0MjU2MzYxMywtMTM4Nzc0NTk5LC
-00MDY4Mzk5NzUsLTIwMjMzMzUwNDldfQ==
+eyJoaXN0b3J5IjpbMTc2OTE2NzAwNSwtNDgxMTIxMzQzLC0xMD
+YwOTMzMjc3LC0xMDgwNDIzMTk3LDEzNjQxNTIyNTcsMTc3MTEz
+OTEwNiwtMTQ1MTc4NTI5LDE0MjMzNzk3NCwtMjQyNTYzNjEzLC
+0xMzg3NzQ1OTksLTQwNjgzOTk3NSwtMjAyMzMzNTA0OV19
 -->
