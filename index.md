@@ -15,7 +15,7 @@ Linguistics Department, Conference Room
 ## Overview
 
 ### Course description
-In this seminar, we'll read and discuss classic and contemporary theories of the language acquisition process
+In this seminar, we'll read and discuss classic and contemporary theories of the language acquisition process.  Topics include: prosodic, semantic, and syntactic bootstrapping theories, usage-based approaches, paramater 
 
 ### Requirements
 All students - including those auditing - are expected to play an active role in class discussion. In each class, one student will be assigned to be the primary reader of each paper.  The primary reader summarizes the reading, leads the discussion, and is primarily responsible for the assigned material.  However, everyone is required to read the assigned material and contribute to the class discussion.
@@ -73,10 +73,11 @@ Jan 29 | Logical problem and learnability | [Wexler 1980](https://drive.google.c
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA1ODAyNDEzLC0zMDIwNTQ0MjIsLTQwMT
-A4NTg0MCw0NTMzMjQ4NCwtMTAwMDI4ODk0MywtMTg3NjA3NzM5
-NSwxNzY5MTY3MDA1LC00ODExMjEzNDMsLTEwNjA5MzMyNzcsLT
-EwODA0MjMxOTcsMTM2NDE1MjI1NywxNzcxMTM5MTA2LC0xNDUx
-Nzg1MjksMTQyMzM3OTc0LC0yNDI1NjM2MTMsLTEzODc3NDU5OS
-wtNDA2ODM5OTc1LC0yMDIzMzM1MDQ5XX0=
+eyJoaXN0b3J5IjpbLTE3OTc4MjAyNzgsOTA1ODAyNDEzLC0zMD
+IwNTQ0MjIsLTQwMTA4NTg0MCw0NTMzMjQ4NCwtMTAwMDI4ODk0
+MywtMTg3NjA3NzM5NSwxNzY5MTY3MDA1LC00ODExMjEzNDMsLT
+EwNjA5MzMyNzcsLTEwODA0MjMxOTcsMTM2NDE1MjI1NywxNzcx
+MTM5MTA2LC0xNDUxNzg1MjksMTQyMzM3OTc0LC0yNDI1NjM2MT
+MsLTEzODc3NDU5OSwtNDA2ODM5OTc1LC0yMDIzMzM1MDQ5XX0=
+
 -->
