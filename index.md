@@ -38,8 +38,8 @@ If you are taking the course for credit, your final project will be a research p
 Date | Topic | Readings & **Deadlines**
  --- | --- | ---
 Jan 22 | Organizational meeting | **Send ranked list of papers by Friday**
-Jan 29 | Logical problem and learnability | [Wexler, 1980](https://drive.google.com/open?id=1uIYvQtzQaRpmVOTXcWi1tQJ8AguqnWdX)<br> [Berwick, 1986](https://drive.google.com/open?id=1uAg5fDmrroko24claU0nGSbQRlq95ua1) <br> [Reali & Christiansen, 2005](https://drive.google.com/open?id=1talM3Celuop6hoXUtAFYzSjBJrJ1Z8YN)
-30-Jan | Prosodic bootstrapping |  [Gleitman & Wanner, 1982]()<br>[Soderstrom et al, 2003]()<br>[Hawthorne & Gerken, 2014]()
+Jan 29 | Logical problem and learnability | [Wexler 1980](https://drive.google.com/open?id=1uIYvQtzQaRpmVOTXcWi1tQJ8AguqnWdX)<br> [Berwick 1986](https://drive.google.com/open?id=1uAg5fDmrroko24claU0nGSbQRlq95ua1) <br> [Reali & Christiansen 2005](https://drive.google.com/open?id=1talM3Celuop6hoXUtAFYzSjBJrJ1Z8YN)
+30-Jan | Prosodic bootstrapping |  [Gleitman & Wanner 1982]()<br>[Soderstrom et al 2003]()<br>[Hawthorne & Gerken 2014]()
 06-Feb |  Semantic bootstrapping | 
  13-Feb | Evidence for theory 2 |  
 20-Feb |  |  **Specific Aims** due on Friday
@@ -74,9 +74,9 @@ Jan 29 | Logical problem and learnability | [Wexler, 1980](https://drive.google.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDQ0NTY5OCwtMTAwMDI4ODk0MywtMT
-g3NjA3NzM5NSwxNzY5MTY3MDA1LC00ODExMjEzNDMsLTEwNjA5
-MzMyNzcsLTEwODA0MjMxOTcsMTM2NDE1MjI1NywxNzcxMTM5MT
-A2LC0xNDUxNzg1MjksMTQyMzM3OTc0LC0yNDI1NjM2MTMsLTEz
-ODc3NDU5OSwtNDA2ODM5OTc1LC0yMDIzMzM1MDQ5XX0=
+eyJoaXN0b3J5IjpbMTA3NTI5NTQyLC0xMDAwMjg4OTQzLC0xOD
+c2MDc3Mzk1LDE3NjkxNjcwMDUsLTQ4MTEyMTM0MywtMTA2MDkz
+MzI3NywtMTA4MDQyMzE5NywxMzY0MTUyMjU3LDE3NzExMzkxMD
+YsLTE0NTE3ODUyOSwxNDIzMzc5NzQsLTI0MjU2MzYxMywtMTM4
+Nzc0NTk5LC00MDY4Mzk5NzUsLTIwMjMzMzUwNDldfQ==
 -->
