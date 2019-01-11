@@ -42,7 +42,7 @@ Jan 29 | Logical problem and learnability | [Wexler 1980](https://drive.google.c
 Feb 5 | Prosodic bootstrapping |  [Gleitman & Wanner 1982]()<br>[Soderstrom et al 2003]()<br>[Hawthorne & Gerken 2014]()
 Feb 12 |  Semantic bootstrapping | Wexler & Culicover 1980<br>Berwick 1985
 Feb 19 | Syntactic bootstrapping |  [Gleitman et al 2005]()<br>[Pozzan et al 2015]()
- Feb 26 | Usage-based approaches |  [Tomasello 2000]()<br>[Fisher 2002]()<br>**Specific Aims due on Friday**
+ Feb 26 | Usage-based approaches |  [Tomasello 2000]()<br>[Fisher 2002]()<br><br>**Specific Aims due on Friday**
 Mar 5 | No class, Spring break | None
  Mar 12 | Parameter setting | 
  Mar 19 | OT | 
@@ -73,7 +73,7 @@ Apr 23 | No class |
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MDI5MzYwMiwxNjQwNTExNTkxLDkwNT
+eyJoaXN0b3J5IjpbMTYyMTc3OTkyMCwxNjQwNTExNTkxLDkwNT
 gwMjQxMywtMzAyMDU0NDIyLC00MDEwODU4NDAsNDUzMzI0ODQs
 LTEwMDAyODg5NDMsLTE4NzYwNzczOTUsMTc2OTE2NzAwNSwtND
 gxMTIxMzQzLC0xMDYwOTMzMjc3LC0xMDgwNDIzMTk3LDEzNjQx
