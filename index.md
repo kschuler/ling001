@@ -48,7 +48,7 @@ Mar 5 | No class, Spring break | None
  Mar 19 | OT | [Prince & Smolensky 1997](https://drive.google.com/open?id=10GyxuVO7tbFZLsB6gG7CN9BkAN_ZyGBs)<br>[Legendre 2006](https://drive.google.com/open?id=1x69LDeTSLkHx-9gLA7Ey2ddohmjrBDEK)
  Mar 26 | TBD |  Lidz 2007<br><br>**Deadline to submit proposal draft for feedback (optional)**
  Apr 2 | Neural network models | [Rumelhart & McClelland 1988](https://drive.google.com/open?id=1XMS_-foPiFi7HI6sFNI_Q-9yWU7ilh78)<br>[Pinker & Prince 1988](https://drive.google.com/open?id=1LEU7I4OjxiPVQz-wsXdw4BhbcxcE0PnE)
- Apr 9 | Distributional learning | [Maratsos and Chalkley 1980]()
+ Apr 9 | Distributional learning | Maratsos and Chalkley 1980
 Apr 16 | Bayesian approaches |  [Perfors et al 2011]()<br>[Yang 2017]()<br><br>**Research Proposals due by midnight**
 Apr 23 | No class | None
  Apr 30 | Mock study section |  **Written critiques due on April 23 by midnight**
@@ -73,11 +73,11 @@ Apr 23 | No class | None
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwOTg0MTY0MiwtNDkxODA1NDYxLDQxNz
-Y5ODExNiwtNDM3NDI1MTgyLC0xNzI3Nzc1NjM3LDE5MTE1OTAy
-MTUsNTIxMTU1MTk1LDE2NDA1MTE1OTEsOTA1ODAyNDEzLC0zMD
-IwNTQ0MjIsLTQwMTA4NTg0MCw0NTMzMjQ4NCwtMTAwMDI4ODk0
-MywtMTg3NjA3NzM5NSwxNzY5MTY3MDA1LC00ODExMjEzNDMsLT
-EwNjA5MzMyNzcsLTEwODA0MjMxOTcsMTM2NDE1MjI1NywxNzcx
-MTM5MTA2XX0=
+eyJoaXN0b3J5IjpbMTc3NDMwNzY4OSwtMzA5ODQxNjQyLC00OT
+E4MDU0NjEsNDE3Njk4MTE2LC00Mzc0MjUxODIsLTE3Mjc3NzU2
+MzcsMTkxMTU5MDIxNSw1MjExNTUxOTUsMTY0MDUxMTU5MSw5MD
+U4MDI0MTMsLTMwMjA1NDQyMiwtNDAxMDg1ODQwLDQ1MzMyNDg0
+LC0xMDAwMjg4OTQzLC0xODc2MDc3Mzk1LDE3NjkxNjcwMDUsLT
+Q4MTEyMTM0MywtMTA2MDkzMzI3NywtMTA4MDQyMzE5NywxMzY0
+MTUyMjU3XX0=
 -->
