@@ -39,7 +39,7 @@ Date | Topic | Readings & **Deadlines**
  --- | --- | ---
 Jan 22 | Organizational meeting | 
 Jan 29 | Logical problem and learnability | [Wexler 1980](https://drive.google.com/open?id=1uIYvQtzQaRpmVOTXcWi1tQJ8AguqnWdX)<br> [Berwick 1986](https://drive.google.com/open?id=1uAg5fDmrroko24claU0nGSbQRlq95ua1) <br> [Reali & Christiansen 2005](https://drive.google.com/open?id=1talM3Celuop6hoXUtAFYzSjBJrJ1Z8YN)
-Feb 5 | Prosodic bootstrapping |  [Gleitman & Wanner 1982](https://drive.google.com/open?id=1Wmugs-yTOq0gU2IHEsy-B8e5WpZ35Fw2)<br>[Soderstrom et al 2003](https://drive.google.com/open?id=1mv_1Fab9KoANoyBzObKUD8Mal-cSk_Q4)<br>[Hawthorne & Gerken 2014]()
+Feb 5 | Prosodic bootstrapping |  [Gleitman & Wanner 1982](https://drive.google.com/open?id=1Wmugs-yTOq0gU2IHEsy-B8e5WpZ35Fw2)<br>[Soderstrom et al 2003](https://drive.google.com/open?id=1mv_1Fab9KoANoyBzObKUD8Mal-cSk_Q4)<br>[Hawthorne & Gerken 2014](https://drive.google.com/open?id=1389F_qMQyIEMjPRC5ibFJkPP5rrheSKt)
 Feb 12 |  Semantic bootstrapping | Wexler & Culicover 1980<br>Berwick 1985
 Feb 19 | Syntactic bootstrapping |  [Gleitman et al 2005]()<br>[Pozzan et al 2015]()
  Feb 26 | Usage-based approaches |  [Tomasello 2000]()<br>[Fisher 2002]()<br><br>**Specific Aims due on Friday**
@@ -73,7 +73,7 @@ Apr 23 | No class | None
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MTE0NTc3OSwtNDM3NDI1MTgyLC0xNz
+eyJoaXN0b3J5IjpbLTcxMDA5MjEwMSwtNDM3NDI1MTgyLC0xNz
 I3Nzc1NjM3LDE5MTE1OTAyMTUsNTIxMTU1MTk1LDE2NDA1MTE1
 OTEsOTA1ODAyNDEzLC0zMDIwNTQ0MjIsLTQwMTA4NTg0MCw0NT
 MzMjQ4NCwtMTAwMDI4ODk0MywtMTg3NjA3NzM5NSwxNzY5MTY3
