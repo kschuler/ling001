@@ -26,7 +26,7 @@ If you are taking the course for credit, your final project will be a research p
 
 * **20% Participation in class discussion**: Before each class, you'll post 5-8 discussion questions on the assigned readings.  During class, you're expected to participate in class discussion, even if you are not the primary reader.   
 
-* **40% Research proposal**: You'll write a research proposal in which you propose a single experiment to test a theory of the acquisition process.  The proposal will follow the format of an NIH R03 application - 1 page for specific aims and 6 pages for the research plan.  More details about the proposal, including format, grading criteria, and samples, are available [here](spring2019/research-proposal).
+* **40% Research proposal**: You'll write a research proposal in which you propose a 1-2 experiments to test a theory of the acquisition process.  The proposal will follow the format of an NIH R03 application - 1 page for specific aims and 6 pages for the research plan.  More details about the proposal, including format, grading criteria, and samples, are available [here](spring2019/research-proposal).
 
 * **20% In-class peer review**: On the final day of class, we'll conduct a mock study section - an NIH-style peer review panel - to evaluate the research proposals.   Each student will be asked to be the primary reviewer for one proposal and the secondary reviewer for another.  Primary and secondary reviewers will turn in written critiques of their assigned proposals and lead the discussion in the mock study section.  More details about the mock study section are available [here](spring2019/research-proposal#in-class-peer-review).
 
@@ -73,11 +73,11 @@ Apr 23 | No class | None
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mjc3NzU2MzcsMTkxMTU5MDIxNSw1Mj
-ExNTUxOTUsMTY0MDUxMTU5MSw5MDU4MDI0MTMsLTMwMjA1NDQy
-MiwtNDAxMDg1ODQwLDQ1MzMyNDg0LC0xMDAwMjg4OTQzLC0xOD
-c2MDc3Mzk1LDE3NjkxNjcwMDUsLTQ4MTEyMTM0MywtMTA2MDkz
-MzI3NywtMTA4MDQyMzE5NywxMzY0MTUyMjU3LDE3NzExMzkxMD
-YsLTE0NTE3ODUyOSwxNDIzMzc5NzQsLTI0MjU2MzYxMywtMTM4
-Nzc0NTk5XX0=
+eyJoaXN0b3J5IjpbLTQzNzQyNTE4MiwtMTcyNzc3NTYzNywxOT
+ExNTkwMjE1LDUyMTE1NTE5NSwxNjQwNTExNTkxLDkwNTgwMjQx
+MywtMzAyMDU0NDIyLC00MDEwODU4NDAsNDUzMzI0ODQsLTEwMD
+AyODg5NDMsLTE4NzYwNzczOTUsMTc2OTE2NzAwNSwtNDgxMTIx
+MzQzLC0xMDYwOTMzMjc3LC0xMDgwNDIzMTk3LDEzNjQxNTIyNT
+csMTc3MTEzOTEwNiwtMTQ1MTc4NTI5LDE0MjMzNzk3NCwtMjQy
+NTYzNjEzXX0=
 -->
