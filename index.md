@@ -69,11 +69,10 @@ Apr 23 | No class | None
 
 ## Readings
 
-* Full list of readings will be populated soon.
-
+* Full list of readings coming soon.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NzAyMDIwOSwxOTA0MjQ1NzUzLC0zMD
+eyJoaXN0b3J5IjpbLTYxOTI4MjI0NSwxOTA0MjQ1NzUzLC0zMD
 k4NDE2NDIsLTQ5MTgwNTQ2MSw0MTc2OTgxMTYsLTQzNzQyNTE4
 MiwtMTcyNzc3NTYzNywxOTExNTkwMjE1LDUyMTE1NTE5NSwxNj
 QwNTExNTkxLDkwNTgwMjQxMywtMzAyMDU0NDIyLC00MDEwODU4
