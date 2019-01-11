@@ -42,7 +42,7 @@ Jan 29 | Logical problem and learnability | [Wexler 1980](https://drive.google.c
 Feb 5 | Prosodic bootstrapping |  [Gleitman & Wanner 1982](https://drive.google.com/open?id=1Wmugs-yTOq0gU2IHEsy-B8e5WpZ35Fw2)<br>[Soderstrom et al 2003](https://drive.google.com/open?id=1mv_1Fab9KoANoyBzObKUD8Mal-cSk_Q4)<br>[Hawthorne & Gerken 2014](https://drive.google.com/open?id=1389F_qMQyIEMjPRC5ibFJkPP5rrheSKt)
 Feb 12 |  Semantic bootstrapping | Wexler & Culicover 1980<br>Berwick 1985
 Feb 19 | Syntactic bootstrapping |  [Gleitman et al 2005](https://drive.google.com/open?id=1KsMoL4I1uYAfpT_3SKpLay_n1FqihW8Q)<br>[Pozzan et al 2015](https://drive.google.com/open?id=1s0WluIcOH4-fLOhkkl2YdXmPT-Aoo1K1)
- Feb 26 | Usage-based approaches |  [Tomasello 2000]()<br>[Fisher 2002]()<br><br>**Specific Aims due on Friday**
+ Feb 26 | Usage-based approaches |  [Tomasello 2000](https://drive.google.com/open?id=1cjXj0QC3y99FraJGaiRlFqDlStQL8rt6)<br>[Fisher 2002]()<br><br>**Specific Aims due on Friday**
 Mar 5 | No class, Spring break | None
  Mar 12 | Parameter setting | [Radford 1995]()<br>[Poeppel & Wexler 1993]()<br>[Chien & Wexler 1990]()
  Mar 19 | OT | [Prince & Smolensky 1997](https://drive.google.com/open?id=10GyxuVO7tbFZLsB6gG7CN9BkAN_ZyGBs)<br>[Legendre 2006](https://drive.google.com/open?id=1x69LDeTSLkHx-9gLA7Ey2ddohmjrBDEK)
@@ -73,11 +73,11 @@ Apr 23 | No class | None
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MTg3MTgxMyw0MTc2OTgxMTYsLTQzNz
-QyNTE4MiwtMTcyNzc3NTYzNywxOTExNTkwMjE1LDUyMTE1NTE5
-NSwxNjQwNTExNTkxLDkwNTgwMjQxMywtMzAyMDU0NDIyLC00MD
-EwODU4NDAsNDUzMzI0ODQsLTEwMDAyODg5NDMsLTE4NzYwNzcz
-OTUsMTc2OTE2NzAwNSwtNDgxMTIxMzQzLC0xMDYwOTMzMjc3LC
-0xMDgwNDIzMTk3LDEzNjQxNTIyNTcsMTc3MTEzOTEwNiwtMTQ1
-MTc4NTI5XX0=
+eyJoaXN0b3J5IjpbNTc2OTQ0MjMzLDQxNzY5ODExNiwtNDM3ND
+I1MTgyLC0xNzI3Nzc1NjM3LDE5MTE1OTAyMTUsNTIxMTU1MTk1
+LDE2NDA1MTE1OTEsOTA1ODAyNDEzLC0zMDIwNTQ0MjIsLTQwMT
+A4NTg0MCw0NTMzMjQ4NCwtMTAwMDI4ODk0MywtMTg3NjA3NzM5
+NSwxNzY5MTY3MDA1LC00ODExMjEzNDMsLTEwNjA5MzMyNzcsLT
+EwODA0MjMxOTcsMTM2NDE1MjI1NywxNzcxMTM5MTA2LC0xNDUx
+Nzg1MjldfQ==
 -->
