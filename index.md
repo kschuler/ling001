@@ -43,7 +43,7 @@ Jan 29 | Logical problem and learnability | [Wexler 1980](https://drive.google.c
 06-Feb |  Semantic bootstrapping | 
  13-Feb | Usage-based approaches |  [Tomasello 2000]()<br>[Fisher 2002]()<br>**Specific Aims due on Friday**
 20-Feb |  |  
- 27-Feb | Specific Aims workshop | 
+ 27-Feb | Specific Aims workshop | [Gleitman et al 2005]()<br>[Pozzan et al 2015]()
 06-Mar | No class, Spring break | 
  13-Mar | Theory 3 | 
  20-Mar | Evidence for theory 3 | 
@@ -74,9 +74,10 @@ Jan 29 | Logical problem and learnability | [Wexler 1980](https://drive.google.c
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUzMzI0ODQsLTEwMDAyODg5NDMsLTE4Nz
-YwNzczOTUsMTc2OTE2NzAwNSwtNDgxMTIxMzQzLC0xMDYwOTMz
-Mjc3LC0xMDgwNDIzMTk3LDEzNjQxNTIyNTcsMTc3MTEzOTEwNi
-wtMTQ1MTc4NTI5LDE0MjMzNzk3NCwtMjQyNTYzNjEzLC0xMzg3
-NzQ1OTksLTQwNjgzOTk3NSwtMjAyMzMzNTA0OV19
+eyJoaXN0b3J5IjpbLTQwMTA4NTg0MCw0NTMzMjQ4NCwtMTAwMD
+I4ODk0MywtMTg3NjA3NzM5NSwxNzY5MTY3MDA1LC00ODExMjEz
+NDMsLTEwNjA5MzMyNzcsLTEwODA0MjMxOTcsMTM2NDE1MjI1Ny
+wxNzcxMTM5MTA2LC0xNDUxNzg1MjksMTQyMzM3OTc0LC0yNDI1
+NjM2MTMsLTEzODc3NDU5OSwtNDA2ODM5OTc1LC0yMDIzMzM1MD
+Q5XX0=
 -->
