@@ -6,7 +6,7 @@ title: Spring 2019
 <h2 align="center">Spring 2019 Syllabus</h2>
 <h3 align="center">Topic: Theories of the acquisition process</h3>
 
-**Instructor**: Kathryn Schuler  
+**Instructor**: [Kathryn Schuler](mailto:kschuler@sas.upenn.edu)
 3401-C Walnut Street, Office 314
 
 **Time and place**: Tuesdays, 1:30-3:30pm   
@@ -72,11 +72,11 @@ Apr 23 | No class | None
 * Full list of readings coming soon.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDg0OTMxMjUsMTkwNDI0NTc1MywtMz
-A5ODQxNjQyLC00OTE4MDU0NjEsNDE3Njk4MTE2LC00Mzc0MjUx
-ODIsLTE3Mjc3NzU2MzcsMTkxMTU5MDIxNSw1MjExNTUxOTUsMT
-Y0MDUxMTU5MSw5MDU4MDI0MTMsLTMwMjA1NDQyMiwtNDAxMDg1
-ODQwLDQ1MzMyNDg0LC0xMDAwMjg4OTQzLC0xODc2MDc3Mzk1LD
-E3NjkxNjcwMDUsLTQ4MTEyMTM0MywtMTA2MDkzMzI3NywtMTA4
-MDQyMzE5N119
+eyJoaXN0b3J5IjpbMjkxNDM2NTg4LDE5MDQyNDU3NTMsLTMwOT
+g0MTY0MiwtNDkxODA1NDYxLDQxNzY5ODExNiwtNDM3NDI1MTgy
+LC0xNzI3Nzc1NjM3LDE5MTE1OTAyMTUsNTIxMTU1MTk1LDE2ND
+A1MTE1OTEsOTA1ODAyNDEzLC0zMDIwNTQ0MjIsLTQwMTA4NTg0
+MCw0NTMzMjQ4NCwtMTAwMDI4ODk0MywtMTg3NjA3NzM5NSwxNz
+Y5MTY3MDA1LC00ODExMjEzNDMsLTEwNjA5MzMyNzcsLTEwODA0
+MjMxOTddfQ==
 -->
