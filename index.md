@@ -41,7 +41,7 @@ Jan 22 | Organizational meeting |
 Jan 29 | Logical problem and learnability | [Wexler 1980](https://drive.google.com/open?id=1uIYvQtzQaRpmVOTXcWi1tQJ8AguqnWdX)<br> [Berwick 1986](https://drive.google.com/open?id=1uAg5fDmrroko24claU0nGSbQRlq95ua1) <br> [Reali & Christiansen 2005](https://drive.google.com/open?id=1talM3Celuop6hoXUtAFYzSjBJrJ1Z8YN)
 Feb 5 | Prosodic bootstrapping |  [Gleitman & Wanner 1982](https://drive.google.com/open?id=1Wmugs-yTOq0gU2IHEsy-B8e5WpZ35Fw2)<br>[Soderstrom et al 2003](https://drive.google.com/open?id=1mv_1Fab9KoANoyBzObKUD8Mal-cSk_Q4)<br>[Hawthorne & Gerken 2014](https://drive.google.com/open?id=1389F_qMQyIEMjPRC5ibFJkPP5rrheSKt)
 Feb 12 |  Semantic bootstrapping | Wexler & Culicover 1980<br>Berwick 1985
-Feb 19 | Syntactic bootstrapping |  [Gleitman et al 2005](https://drive.google.com/open?id=1KsMoL4I1uYAfpT_3SKpLay_n1FqihW8Q)<br>[Pozzan et al 2015]()
+Feb 19 | Syntactic bootstrapping |  [Gleitman et al 2005](https://drive.google.com/open?id=1KsMoL4I1uYAfpT_3SKpLay_n1FqihW8Q)<br>[Pozzan et al 2015](https://drive.google.com/open?id=1s0WluIcOH4-fLOhkkl2YdXmPT-Aoo1K1)
  Feb 26 | Usage-based approaches |  [Tomasello 2000]()<br>[Fisher 2002]()<br><br>**Specific Aims due on Friday**
 Mar 5 | No class, Spring break | None
  Mar 12 | Parameter setting | [Radford 1995]()<br>[Poeppel & Wexler 1993]()<br>[Chien & Wexler 1990]()
@@ -73,11 +73,11 @@ Apr 23 | No class | None
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NzcxODk3MiwtNDM3NDI1MTgyLC0xNz
-I3Nzc1NjM3LDE5MTE1OTAyMTUsNTIxMTU1MTk1LDE2NDA1MTE1
-OTEsOTA1ODAyNDEzLC0zMDIwNTQ0MjIsLTQwMTA4NTg0MCw0NT
-MzMjQ4NCwtMTAwMDI4ODk0MywtMTg3NjA3NzM5NSwxNzY5MTY3
-MDA1LC00ODExMjEzNDMsLTEwNjA5MzMyNzcsLTEwODA0MjMxOT
-csMTM2NDE1MjI1NywxNzcxMTM5MTA2LC0xNDUxNzg1MjksMTQy
-MzM3OTc0XX0=
+eyJoaXN0b3J5IjpbMjA1NDY2MTksLTQzNzQyNTE4MiwtMTcyNz
+c3NTYzNywxOTExNTkwMjE1LDUyMTE1NTE5NSwxNjQwNTExNTkx
+LDkwNTgwMjQxMywtMzAyMDU0NDIyLC00MDEwODU4NDAsNDUzMz
+I0ODQsLTEwMDAyODg5NDMsLTE4NzYwNzczOTUsMTc2OTE2NzAw
+NSwtNDgxMTIxMzQzLC0xMDYwOTMzMjc3LC0xMDgwNDIzMTk3LD
+EzNjQxNTIyNTcsMTc3MTEzOTEwNiwtMTQ1MTc4NTI5LDE0MjMz
+Nzk3NF19
 -->
