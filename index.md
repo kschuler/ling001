@@ -41,7 +41,7 @@ Jan 22 | Organizational meeting |
 Jan 29 | Logical problem and learnability | [Wexler 1980](https://drive.google.com/open?id=1uIYvQtzQaRpmVOTXcWi1tQJ8AguqnWdX)<br> [Berwick 1986](https://drive.google.com/open?id=1uAg5fDmrroko24claU0nGSbQRlq95ua1) <br> [Reali & Christiansen 2005](https://drive.google.com/open?id=1talM3Celuop6hoXUtAFYzSjBJrJ1Z8YN)
 Feb 5 | Prosodic bootstrapping |  [Gleitman & Wanner 1982]()<br>[Soderstrom et al 2003]()<br>[Hawthorne & Gerken 2014]()
 Feb 12 |  Semantic bootstrapping | Wexler & Culicover 1980<br>Berwick 1985
-Feb 19 | Syntactic bootstrapping |  [Gleitman et al 2005]()<br>[Pozzan et al 2015]()
+Feb 19 | Syntactic bootstrapping |  [Gleitman et al 2005](https://drive.google.com/open?id=1Wmugs-yTOq0gU2IHEsy-B8e5WpZ35Fw2)<br>[Pozzan et al 2015]()
  Feb 26 | Usage-based approaches |  [Tomasello 2000]()<br>[Fisher 2002]()<br><br>**Specific Aims due on Friday**
 Mar 5 | No class, Spring break | None
  Mar 12 | Parameter setting | [Radford 1995]()<br>[Poeppel & Wexler 1993]()<br>[Chien & Wexler 1990]()
@@ -73,11 +73,11 @@ Apr 23 | No class | None
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNzQyNTE4MiwtMTcyNzc3NTYzNywxOT
-ExNTkwMjE1LDUyMTE1NTE5NSwxNjQwNTExNTkxLDkwNTgwMjQx
-MywtMzAyMDU0NDIyLC00MDEwODU4NDAsNDUzMzI0ODQsLTEwMD
-AyODg5NDMsLTE4NzYwNzczOTUsMTc2OTE2NzAwNSwtNDgxMTIx
-MzQzLC0xMDYwOTMzMjc3LC0xMDgwNDIzMTk3LDEzNjQxNTIyNT
-csMTc3MTEzOTEwNiwtMTQ1MTc4NTI5LDE0MjMzNzk3NCwtMjQy
-NTYzNjEzXX0=
+eyJoaXN0b3J5IjpbLTEyNjAzNjY4NTgsLTQzNzQyNTE4MiwtMT
+cyNzc3NTYzNywxOTExNTkwMjE1LDUyMTE1NTE5NSwxNjQwNTEx
+NTkxLDkwNTgwMjQxMywtMzAyMDU0NDIyLC00MDEwODU4NDAsND
+UzMzI0ODQsLTEwMDAyODg5NDMsLTE4NzYwNzczOTUsMTc2OTE2
+NzAwNSwtNDgxMTIxMzQzLC0xMDYwOTMzMjc3LC0xMDgwNDIzMT
+k3LDEzNjQxNTIyNTcsMTc3MTEzOTEwNiwtMTQ1MTc4NTI5LDE0
+MjMzNzk3NF19
 -->
