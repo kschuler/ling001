@@ -12,9 +12,9 @@ title: Spring 2019
 **Time and place**: Tuesdays, 1:30-3:30pm   
 Linguistics Department, Conference Room
 
-## Course description
+## Overview
 
-### Overview
+### Course description
 In this seminar, we'll read and discuss classic and contemporary theories of the language acquisition process
 
 ### Requirements
@@ -74,8 +74,8 @@ Date | Topic | Readings | **Deadlines**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODA0MjMxOTcsMTM2NDE1MjI1NywxNz
-cxMTM5MTA2LC0xNDUxNzg1MjksMTQyMzM3OTc0LC0yNDI1NjM2
-MTMsLTEzODc3NDU5OSwtNDA2ODM5OTc1LC0yMDIzMzM1MDQ5XX
-0=
+eyJoaXN0b3J5IjpbLTEwNjA5MzMyNzcsLTEwODA0MjMxOTcsMT
+M2NDE1MjI1NywxNzcxMTM5MTA2LC0xNDUxNzg1MjksMTQyMzM3
+OTc0LC0yNDI1NjM2MTMsLTEzODc3NDU5OSwtNDA2ODM5OTc1LC
+0yMDIzMzM1MDQ5XX0=
 -->
