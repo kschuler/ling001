@@ -15,7 +15,7 @@ Linguistics Department, Conference Room
 ## Overview
 
 ### Course description
-In this seminar, we'll read and discuss classic and contemporary theories of the language acquisition process.  Topics include: prosodic, semantic, and syntactic bootstrapping theories, usage-based approaches, formal generative approaches, neural network models and more.  Each week we will read a paper outlining a theoretical approach paired with either (1) an empirical study investigating the approach, (2) a paper expressing opposition to the approach, or (3) both.
+In this seminar, we'll read and discuss classic and contemporary theories of the language acquisition process.  Topics include: prosodic, semantic, and syntactic bootstrapping theories, usage-based approaches, formal generative approaches, neural network models and more.  Each week we will read a paper outlining a theoretical approach paired with either (1) an empirical study investigating the approach, (2) a paper expressing opposition to the approach, or (3) both. We'll discuss the strengths and weakness of both the theories and the empirical studies that investigate them. We'll also consider how one might design future experiments to test these theories.
 
 ### Requirements
 All students - including those auditing - are expected to play an active role in class discussion. In each class, one student will be assigned to be the primary reader of each paper.  The primary reader summarizes the reading, leads the discussion, and is primarily responsible for the assigned material.  However, everyone is required to read the assigned material and contribute to the class discussion.
@@ -73,10 +73,11 @@ Jan 29 | Logical problem and learnability | [Wexler 1980](https://drive.google.c
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY3MDI4MzEwLDkwNTgwMjQxMywtMzAyMD
-U0NDIyLC00MDEwODU4NDAsNDUzMzI0ODQsLTEwMDAyODg5NDMs
-LTE4NzYwNzczOTUsMTc2OTE2NzAwNSwtNDgxMTIxMzQzLC0xMD
-YwOTMzMjc3LC0xMDgwNDIzMTk3LDEzNjQxNTIyNTcsMTc3MTEz
-OTEwNiwtMTQ1MTc4NTI5LDE0MjMzNzk3NCwtMjQyNTYzNjEzLC
-0xMzg3NzQ1OTksLTQwNjgzOTk3NSwtMjAyMzMzNTA0OV19
+eyJoaXN0b3J5IjpbMTY0MDUxMTU5MSw5MDU4MDI0MTMsLTMwMj
+A1NDQyMiwtNDAxMDg1ODQwLDQ1MzMyNDg0LC0xMDAwMjg4OTQz
+LC0xODc2MDc3Mzk1LDE3NjkxNjcwMDUsLTQ4MTEyMTM0MywtMT
+A2MDkzMzI3NywtMTA4MDQyMzE5NywxMzY0MTUyMjU3LDE3NzEx
+MzkxMDYsLTE0NTE3ODUyOSwxNDIzMzc5NzQsLTI0MjU2MzYxMy
+wtMTM4Nzc0NTk5LC00MDY4Mzk5NzUsLTIwMjMzMzUwNDldfQ==
+
 -->
