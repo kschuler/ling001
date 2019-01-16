@@ -69,44 +69,9 @@ Apr 23 | No class | None
 
 ## Readings
 
-Berwick, R. C. (1986). Learning from Positive-only examples. In _Machine Learning_ (Vol. II, pp. 625–645).
-
-Chien, Y.-C., & Wexler, K. (1990). Children’s Knowledge of Locality Conditions in Binding as Evidence for the Modularity of Syntax and Pragmatics. _Language Acquisition_, _1_(3), 225–295. [https://doi.org/10.1207/s15327817la0103_2](https://doi.org/10.1207/s15327817la0103_2)
-
-Fisher, C. (2002). The role of abstract syntactic knowledge in language acquisition: a reply to Tomasello (2000). _Cognition_, _82_(3), 259–278. [https://doi.org/10.1016/S0010-0277(01)00159-7](https://doi.org/10.1016/S0010-0277(01)00159-7)
-
-Gleitman, Wanner 1982.pdf. (n.d.).
-
-Hawthorne, K., & Gerken, L. (2014). From pauses to clauses: Prosody facilitates learning of syntactic constituency. _Cognition_, _133_(2), 420–428. [https://doi.org/10.1016/j.cognition.2014.07.013](https://doi.org/10.1016/j.cognition.2014.07.013)
-
-Legendre, G. (2006). Early Child Grammars: Qualitative and Quantitative Analysis of Morphosyntactic Production. _Cognitive Science_, _30_(5), 803–835. [https://doi.org/10.1207/s15516709cog0000_85](https://doi.org/10.1207/s15516709cog0000_85)
-
-Perfors, A., Tenenbaum, J. B., & Regier, T. (2011). The learnability of abstract syntactic principles. _Cognition_, _118_(3), 306–338. [https://doi.org/10.1016/j.cognition.2010.11.001](https://doi.org/10.1016/j.cognition.2010.11.001)
-
-Pinker, S., & Prince, A. (1988). On language and connectionism: Analysis of a parallel distributed processing model of language acquisition. _Cognition_, _28_(1–2), 73–193.
-
-Poeppel, D., & Wexler, K. (1993). The Full Competence Hypothesis of Clause Structure in Early German. _Language_, _69_(1), 1. [https://doi.org/10.2307/416414](https://doi.org/10.2307/416414)
-
-Pozzan, L., Gleitman, L. R., & Trueswell, J. C. (2016). Semantic Ambiguity and Syntactic Bootstrapping: The Case of Conjoined-Subject Intransitive Sentences. _Language Learning and Development_, _12_(1), 14–41. [https://doi.org/10.1080/15475441.2015.1018420](https://doi.org/10.1080/15475441.2015.1018420)
-
-Prince, A., & Smolensky, P. (1997). Optimality: From Neural Networks to Universal Grammar. _Science_, _275_(5306), 1604–1610. [https://doi.org/10.1126/science.275.5306.1604](https://doi.org/10.1126/science.275.5306.1604)
-
-Radford, A. (1995). Children-architects or brickies. In _Proceedings of the 19th Annual Boston University Conference on Language Development_ (Vol. 1, pp. 1–19).
-
-Reali, F., & Christiansen, M. H. (2005). Uncovering the Richness of the Stimulus: Structure Dependence and Indirect Statistical Evidence. _Cognitive Science_, _29_(6), 1007–1028. [https://doi.org/10.1207/s15516709cog0000_28](https://doi.org/10.1207/s15516709cog0000_28)
-
-Rumelhart, D. E., & McClelland, J. L. (1987). Learning the past tenses of English verbs: Implicit rules or parallel distributed processing. _Mechanisms of Language Acquisition_, 195–248.
-
-Soderstrom, M. (2003). The prosodic bootstrapping of phrases: Evidence from prelinguistic infants. _Journal of Memory and Language_, _49_(2), 249–267. [https://doi.org/10.1016/S0749-596X(03)00024-X](https://doi.org/10.1016/S0749-596X(03)00024-X)
-
-Tomasello, M. (2000). Do young children have adult syntactic competence? _Cognition_, _74_(3), 209–253. [https://doi.org/10.1016/S0010-0277(99)00069-4](https://doi.org/10.1016/S0010-0277(99)00069-4)
-
-Wexler, K. 1980.pdf. (n.d.).
-
-Yang, C. (2017). Rage against the machine: Evaluation metrics in the 21st century. _Language Acquisition_, _24_(2), 100–125. [https://doi.org/10.1080/10489223.2016.1274318](https://doi.org/10.1080/10489223.2016.1274318)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MzYzMjU0NywtMTA0NTA5MDk2NiwyOT
+eyJoaXN0b3J5IjpbMTI0MzE5MDc1OSwtMTA0NTA5MDk2NiwyOT
 E0MzY1ODgsMTkwNDI0NTc1MywtMzA5ODQxNjQyLC00OTE4MDU0
 NjEsNDE3Njk4MTE2LC00Mzc0MjUxODIsLTE3Mjc3NzU2MzcsMT
 kxMTU5MDIxNSw1MjExNTUxOTUsMTY0MDUxMTU5MSw5MDU4MDI0
