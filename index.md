@@ -103,13 +103,11 @@ Soderstrom, M. (2003). The prosodic bootstrapping of phrases: Evidence from prel
 
 Tomasello, M. (2000). Do young children have adult syntactic competence? _Cognition_, _74_(3), 209–253. [https://doi.org/10.1016/S0010-0277(99)00069-4](https://doi.org/10.1016/S0010-0277(99)00069-4)
 
-Wexler, K. (n.d.). Learnability and Constraints in Language. In U. Bellugi & Studdert-Kennedy, M. (Eds.), _Signed and Spoken Language: Biological Constraints on Linguistics Form_.
-
-Wexler, K. 1980.pdf. (n.d.).
+Wexler, K. (1980). Learnability and Constraints in Language. In U. Bellugi & Studdert-Kennedy, M. (Eds.), _Signed and Spoken Language: Biological Constraints on Linguistics Form_.
 
 Yang, C. (2017). Rage against the machine: Evaluation metrics in the 21st century. _Language Acquisition_, _24_(2), 100–125. [https://doi.org/10.1080/10489223.2016.1274318](https://doi.org/10.1080/10489223.2016.1274318)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMDY0NjE5NywxMjQzMTkwNzU5LC0xMD
+eyJoaXN0b3J5IjpbMTE0NjUyNzU3MiwxMjQzMTkwNzU5LC0xMD
 Q1MDkwOTY2LDI5MTQzNjU4OCwxOTA0MjQ1NzUzLC0zMDk4NDE2
 NDIsLTQ5MTgwNTQ2MSw0MTc2OTgxMTYsLTQzNzQyNTE4MiwtMT
 cyNzc3NTYzNywxOTExNTkwMjE1LDUyMTE1NTE5NSwxNjQwNTEx
