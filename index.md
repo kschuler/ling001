@@ -87,14 +87,13 @@ Apr 23 | No class | None
 - Soderstrom, M. (2003). The prosodic bootstrapping of phrases: Evidence from prelinguistic infants. _Journal of Memory and Language_, _49_(2), 249–267. [https://doi.org/10.1016/S0749-596X(03)00024-X](https://doi.org/10.1016/S0749-596X(03)00024-X)
 - Tomasello, M. (2000). Do young children have adult syntactic competence? _Cognition_, _74_(3), 209–253. [https://doi.org/10.1016/S0010-0277(99)00069-4](https://doi.org/10.1016/S0010-0277(99)00069-4)
 - Wexler, K. (1980). Learnability and Constraints in Language. In U. Bellugi & Studdert-Kennedy, M. (Eds.), _Signed and Spoken Language: Biological Constraints on Linguistics Form_.
-
-Yang, C. (2017). Rage against the machine: Evaluation metrics in the 21st century. _Language Acquisition_, _24_(2), 100–125. [https://doi.org/10.1080/10489223.2016.1274318](https://doi.org/10.1080/10489223.2016.1274318)
+- Yang, C. (2017). Rage against the machine: Evaluation metrics in the 21st century. _Language Acquisition_, _24_(2), 100–125. [https://doi.org/10.1080/10489223.2016.1274318](https://doi.org/10.1080/10489223.2016.1274318)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTM4NTU2NTAsMTI0MzE5MDc1OSwtMT
-A0NTA5MDk2NiwyOTE0MzY1ODgsMTkwNDI0NTc1MywtMzA5ODQx
-NjQyLC00OTE4MDU0NjEsNDE3Njk4MTE2LC00Mzc0MjUxODIsLT
-E3Mjc3NzU2MzcsMTkxMTU5MDIxNSw1MjExNTUxOTUsMTY0MDUx
-MTU5MSw5MDU4MDI0MTMsLTMwMjA1NDQyMiwtNDAxMDg1ODQwLD
-Q1MzMyNDg0LC0xMDAwMjg4OTQzLC0xODc2MDc3Mzk1LDE3Njkx
-NjcwMDVdfQ==
+eyJoaXN0b3J5IjpbMTczMjEzNTAwNywxMjQzMTkwNzU5LC0xMD
+Q1MDkwOTY2LDI5MTQzNjU4OCwxOTA0MjQ1NzUzLC0zMDk4NDE2
+NDIsLTQ5MTgwNTQ2MSw0MTc2OTgxMTYsLTQzNzQyNTE4MiwtMT
+cyNzc3NTYzNywxOTExNTkwMjE1LDUyMTE1NTE5NSwxNjQwNTEx
+NTkxLDkwNTgwMjQxMywtMzAyMDU0NDIyLC00MDEwODU4NDAsND
+UzMzI0ODQsLTEwMDAyODg5NDMsLTE4NzYwNzczOTUsMTc2OTE2
+NzAwNV19
 -->
