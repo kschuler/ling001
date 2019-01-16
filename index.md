@@ -6,7 +6,7 @@ title: Spring 2019
 <h2 align="center">Spring 2019 Syllabus</h2>
 <h3 align="center">Topic: Theories of the acquisition process</h3>
 
-**Instructor**: [Kathryn Schuler](mailto:kschuler@sas.upenn.edu)
+**Instructor**: [Kathryn Schuler](mailto:kschuler@sas.upenn.edu)  
 3401-C Walnut Street, Office 314
 
 **Time and place**: Tuesdays, 1:30-3:30pm   
@@ -89,11 +89,11 @@ Apr 23 | No class | None
 - Wexler, K. (1980). Learnability and Constraints in Language. In U. Bellugi & Studdert-Kennedy, M. (Eds.), _Signed and Spoken Language: Biological Constraints on Linguistics Form_.
 - Yang, C. (2017). Rage against the machine: Evaluation metrics in the 21st century. _Language Acquisition_, _24_(2), 100–125. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzQ2NDkzMDksMTczMjEzNTAwNywxMj
-QzMTkwNzU5LC0xMDQ1MDkwOTY2LDI5MTQzNjU4OCwxOTA0MjQ1
-NzUzLC0zMDk4NDE2NDIsLTQ5MTgwNTQ2MSw0MTc2OTgxMTYsLT
-QzNzQyNTE4MiwtMTcyNzc3NTYzNywxOTExNTkwMjE1LDUyMTE1
-NTE5NSwxNjQwNTExNTkxLDkwNTgwMjQxMywtMzAyMDU0NDIyLC
-00MDEwODU4NDAsNDUzMzI0ODQsLTEwMDAyODg5NDMsLTE4NzYw
-NzczOTVdfQ==
+eyJoaXN0b3J5IjpbLTE3NTU1MzgyMSwtMTMzNDY0OTMwOSwxNz
+MyMTM1MDA3LDEyNDMxOTA3NTksLTEwNDUwOTA5NjYsMjkxNDM2
+NTg4LDE5MDQyNDU3NTMsLTMwOTg0MTY0MiwtNDkxODA1NDYxLD
+QxNzY5ODExNiwtNDM3NDI1MTgyLC0xNzI3Nzc1NjM3LDE5MTE1
+OTAyMTUsNTIxMTU1MTk1LDE2NDA1MTE1OTEsOTA1ODAyNDEzLC
+0zMDIwNTQ0MjIsLTQwMTA4NTg0MCw0NTMzMjQ4NCwtMTAwMDI4
+ODk0M119
 -->
