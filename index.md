@@ -48,7 +48,7 @@ Mar 5 | No class, Spring break | None
  Mar 19 | OT | [Prince & Smolensky 1997](https://drive.google.com/open?id=10GyxuVO7tbFZLsB6gG7CN9BkAN_ZyGBs)<br>[Legendre 2006](https://drive.google.com/open?id=1x69LDeTSLkHx-9gLA7Ey2ddohmjrBDEK)
  Mar 26 | TBD |  Lidz 2007<br><br>**Deadline to submit proposal draft for feedback (optional)**
  Apr 2 | Neural network models | [Rumelhart & McClelland 1988](https://drive.google.com/open?id=1XMS_-foPiFi7HI6sFNI_Q-9yWU7ilh78)<br>[Pinker & Prince 1988](https://drive.google.com/open?id=1LEU7I4OjxiPVQz-wsXdw4BhbcxcE0PnE)
- Apr 9 | Distributional learning | Maratsos and Chalkley 1980<br>[Aslin & Newport 2014](https://drive.google.com/open?id=1P0XDUVA6Zc3TXN7KRDssufaCoF1ifxSi)
+ Apr 9 | Distributional learning | [Maratsos and Chalkley 1980](https://drive.google.com/open?id=1sR8QACYYmINDsvIKY6h7sJvOZT975q6H)<br>[Aslin & Newport 2014](https://drive.google.com/open?id=1P0XDUVA6Zc3TXN7KRDssufaCoF1ifxSi)
 Apr 16 | Bayesian approaches |  [Perfors et al 2011](https://drive.google.com/open?id=162ZxXDMFsMEbnxzotKc7Q0TuEHVJFVzs)<br>[Yang 2017](https://drive.google.com/open?id=1I4FNdkFQr4LLByEUSHS5O8wIF5SNhaUu)<br><br>**Research Proposals due by midnight**
 Apr 23 | No class | None
  Apr 30 | Mock study section |  **Written critiques due on April 23 by midnight**
@@ -90,11 +90,11 @@ Apr 23 | No class | None
 - Wexler, K. (1980). Learnability and Constraints in Language. In U. Bellugi & Studdert-Kennedy, M. (Eds.), _Signed and Spoken Language: Biological Constraints on Linguistics Form_.
 - Yang, C. (2017). Rage against the machine: Evaluation metrics in the 21st century. _Language Acquisition_, _24_(2), 100–125. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NDQ0MTA3NCwtMTc1NTUzODIxLC0xMz
-M0NjQ5MzA5LDE3MzIxMzUwMDcsMTI0MzE5MDc1OSwtMTA0NTA5
-MDk2NiwyOTE0MzY1ODgsMTkwNDI0NTc1MywtMzA5ODQxNjQyLC
-00OTE4MDU0NjEsNDE3Njk4MTE2LC00Mzc0MjUxODIsLTE3Mjc3
-NzU2MzcsMTkxMTU5MDIxNSw1MjExNTUxOTUsMTY0MDUxMTU5MS
-w5MDU4MDI0MTMsLTMwMjA1NDQyMiwtNDAxMDg1ODQwLDQ1MzMy
-NDg0XX0=
+eyJoaXN0b3J5IjpbLTEzNTMwOTUwMTQsLTg1NDQ0MTA3NCwtMT
+c1NTUzODIxLC0xMzM0NjQ5MzA5LDE3MzIxMzUwMDcsMTI0MzE5
+MDc1OSwtMTA0NTA5MDk2NiwyOTE0MzY1ODgsMTkwNDI0NTc1My
+wtMzA5ODQxNjQyLC00OTE4MDU0NjEsNDE3Njk4MTE2LC00Mzc0
+MjUxODIsLTE3Mjc3NzU2MzcsMTkxMTU5MDIxNSw1MjExNTUxOT
+UsMTY0MDUxMTU5MSw5MDU4MDI0MTMsLTMwMjA1NDQyMiwtNDAx
+MDg1ODQwXX0=
 -->
