@@ -77,6 +77,7 @@ Apr 23 | No class | None
 - Hawthorne, K., & Gerken, L. (2014). From pauses to clauses: Prosody facilitates learning of syntactic constituency. _Cognition_, _133_(2), 420–428. 
 - Legendre, G. (2006). Early Child Grammars: Qualitative and Quantitative Analysis of Morphosyntactic Production. _Cognitive Science_, _30_(5), 803–835. 
 - Lila R. Gleitman, & Wanner, E. (1982). The state of the state of the art. In _Language Acquisition: The state of the art_. Cambridge U. Press.
+- Maratsos, M. P., & Chalkley, M. A. (1980). The internal language of children’s syntax: The nature and ontogenesis of syntactic categories. _Children’s Language_. 
 - Perfors, A., Tenenbaum, J. B., & Regier, T. (2011). The learnability of abstract syntactic principles. _Cognition_, _118_(3), 306–338.
 - Pinker, S., & Prince, A. (1988). On language and connectionism: Analysis of a parallel distributed processing model of language acquisition. _Cognition_, _28_(1–2), 73–193.
 - Poeppel, D., & Wexler, K. (1993). The Full Competence Hypothesis of Clause Structure in Early German. _Language_, _69_(1), 1. 
@@ -90,11 +91,11 @@ Apr 23 | No class | None
 - Wexler, K. (1980). Learnability and Constraints in Language. In U. Bellugi & Studdert-Kennedy, M. (Eds.), _Signed and Spoken Language: Biological Constraints on Linguistics Form_.
 - Yang, C. (2017). Rage against the machine: Evaluation metrics in the 21st century. _Language Acquisition_, _24_(2), 100–125. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTMwOTUwMTQsLTg1NDQ0MTA3NCwtMT
-c1NTUzODIxLC0xMzM0NjQ5MzA5LDE3MzIxMzUwMDcsMTI0MzE5
-MDc1OSwtMTA0NTA5MDk2NiwyOTE0MzY1ODgsMTkwNDI0NTc1My
-wtMzA5ODQxNjQyLC00OTE4MDU0NjEsNDE3Njk4MTE2LC00Mzc0
-MjUxODIsLTE3Mjc3NzU2MzcsMTkxMTU5MDIxNSw1MjExNTUxOT
-UsMTY0MDUxMTU5MSw5MDU4MDI0MTMsLTMwMjA1NDQyMiwtNDAx
-MDg1ODQwXX0=
+eyJoaXN0b3J5IjpbMTI2OTU4OTEyMiwtMTM1MzA5NTAxNCwtOD
+U0NDQxMDc0LC0xNzU1NTM4MjEsLTEzMzQ2NDkzMDksMTczMjEz
+NTAwNywxMjQzMTkwNzU5LC0xMDQ1MDkwOTY2LDI5MTQzNjU4OC
+wxOTA0MjQ1NzUzLC0zMDk4NDE2NDIsLTQ5MTgwNTQ2MSw0MTc2
+OTgxMTYsLTQzNzQyNTE4MiwtMTcyNzc3NTYzNywxOTExNTkwMj
+E1LDUyMTE1NTE5NSwxNjQwNTExNTkxLDkwNTgwMjQxMywtMzAy
+MDU0NDIyXX0=
 -->
