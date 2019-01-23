@@ -48,7 +48,7 @@ Mar 5 | No class, Spring break | None
  Mar 19 | OT | [Prince & Smolensky 1997](https://drive.google.com/open?id=10GyxuVO7tbFZLsB6gG7CN9BkAN_ZyGBs)<br>[Legendre 2006](https://drive.google.com/open?id=1x69LDeTSLkHx-9gLA7Ey2ddohmjrBDEK)
  Mar 26 | TBD |  Lidz 2007<br><br>**Deadline to submit proposal draft for feedback (optional)**
  Apr 2 | Neural network models | [Rumelhart & McClelland 1988](https://drive.google.com/open?id=1XMS_-foPiFi7HI6sFNI_Q-9yWU7ilh78)<br>[Pinker & Prince 1988](https://drive.google.com/open?id=1LEU7I4OjxiPVQz-wsXdw4BhbcxcE0PnE)
- Apr 9 | Distributional learning | Maratsos and Chalkley 1980
+ Apr 9 | Distributional learning | Maratsos and Chalkley 1980<br>Aslin & Newport 2014
 Apr 16 | Bayesian approaches |  [Perfors et al 2011](https://drive.google.com/open?id=162ZxXDMFsMEbnxzotKc7Q0TuEHVJFVzs)<br>[Yang 2017](https://drive.google.com/open?id=1I4FNdkFQr4LLByEUSHS5O8wIF5SNhaUu)<br><br>**Research Proposals due by midnight**
 Apr 23 | No class | None
  Apr 30 | Mock study section |  **Written critiques due on April 23 by midnight**
@@ -89,11 +89,11 @@ Apr 23 | No class | None
 - Wexler, K. (1980). Learnability and Constraints in Language. In U. Bellugi & Studdert-Kennedy, M. (Eds.), _Signed and Spoken Language: Biological Constraints on Linguistics Form_.
 - Yang, C. (2017). Rage against the machine: Evaluation metrics in the 21st century. _Language Acquisition_, _24_(2), 100–125. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTU1MzgyMSwtMTMzNDY0OTMwOSwxNz
-MyMTM1MDA3LDEyNDMxOTA3NTksLTEwNDUwOTA5NjYsMjkxNDM2
-NTg4LDE5MDQyNDU3NTMsLTMwOTg0MTY0MiwtNDkxODA1NDYxLD
-QxNzY5ODExNiwtNDM3NDI1MTgyLC0xNzI3Nzc1NjM3LDE5MTE1
-OTAyMTUsNTIxMTU1MTk1LDE2NDA1MTE1OTEsOTA1ODAyNDEzLC
-0zMDIwNTQ0MjIsLTQwMTA4NTg0MCw0NTMzMjQ4NCwtMTAwMDI4
-ODk0M119
+eyJoaXN0b3J5IjpbLTEyMDM4OTEzMzgsLTE3NTU1MzgyMSwtMT
+MzNDY0OTMwOSwxNzMyMTM1MDA3LDEyNDMxOTA3NTksLTEwNDUw
+OTA5NjYsMjkxNDM2NTg4LDE5MDQyNDU3NTMsLTMwOTg0MTY0Mi
+wtNDkxODA1NDYxLDQxNzY5ODExNiwtNDM3NDI1MTgyLC0xNzI3
+Nzc1NjM3LDE5MTE1OTAyMTUsNTIxMTU1MTk1LDE2NDA1MTE1OT
+EsOTA1ODAyNDEzLC0zMDIwNTQ0MjIsLTQwMTA4NTg0MCw0NTMz
+MjQ4NF19
 -->
