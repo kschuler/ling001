@@ -69,6 +69,7 @@ Apr 23 | No class | None
 
 ## Readings
 
+- Aslin, R. N., & Newport, E. L. (2014). Distributional Language Learning: Mechanisms and Models of Category Formation. _Language Learning_, _64_(s2), 86–105. 
 - Berwick, R. C. (1986). Learning from Positive-only examples. In _Machine Learning_ (Vol. II, pp. 625–645).
 - Chien, Y.-C., & Wexler, K. (1990). Children’s Knowledge of Locality Conditions in Binding as Evidence for the Modularity of Syntax and Pragmatics. _Language Acquisition_, _1_(3), 225–295. 
 - Fisher, C. (2002). The role of abstract syntactic knowledge in language acquisition: a reply to Tomasello (2000). _Cognition_, _82_(3), 259–278. 
@@ -89,7 +90,7 @@ Apr 23 | No class | None
 - Wexler, K. (1980). Learnability and Constraints in Language. In U. Bellugi & Studdert-Kennedy, M. (Eds.), _Signed and Spoken Language: Biological Constraints on Linguistics Form_.
 - Yang, C. (2017). Rage against the machine: Evaluation metrics in the 21st century. _Language Acquisition_, _24_(2), 100–125. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNjI1MDEyNywtMTc1NTUzODIxLC0xMz
+eyJoaXN0b3J5IjpbLTg1NDQ0MTA3NCwtMTc1NTUzODIxLC0xMz
 M0NjQ5MzA5LDE3MzIxMzUwMDcsMTI0MzE5MDc1OSwtMTA0NTA5
 MDk2NiwyOTE0MzY1ODgsMTkwNDI0NTc1MywtMzA5ODQxNjQyLC
 00OTE4MDU0NjEsNDE3Njk4MTE2LC00Mzc0MjUxODIsLTE3Mjc3
