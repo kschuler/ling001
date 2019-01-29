@@ -35,7 +35,7 @@ If you are taking the course for credit, your final project will be a research p
 
 ## Schedule
 
-Key: One name means one primary reader (Primary: Paper), two names mean a primary and a secondary reader (Primary/Secondary: Paper)
+Notes: One name means one primary reader (Primary: Paper), two names mean a primary and a secondary reader (Primary/Secondary: Paper).  
 
 Date | Topic | Readings & **Deadlines**
  --- | --- | ---
@@ -93,11 +93,11 @@ Apr 23 | No class | None
 - Wexler, K. (1980). Learnability and Constraints in Language. In U. Bellugi & Studdert-Kennedy, M. (Eds.), _Signed and Spoken Language: Biological Constraints on Linguistics Form_.
 - Yang, C. (2017). Rage against the machine: Evaluation metrics in the 21st century. _Language Acquisition_, _24_(2), 100–125. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NjUwMDI5NCw5NTEyMDM1MzgsMTI2OT
-U4OTEyMiwtMTM1MzA5NTAxNCwtODU0NDQxMDc0LC0xNzU1NTM4
-MjEsLTEzMzQ2NDkzMDksMTczMjEzNTAwNywxMjQzMTkwNzU5LC
-0xMDQ1MDkwOTY2LDI5MTQzNjU4OCwxOTA0MjQ1NzUzLC0zMDk4
-NDE2NDIsLTQ5MTgwNTQ2MSw0MTc2OTgxMTYsLTQzNzQyNTE4Mi
-wtMTcyNzc3NTYzNywxOTExNTkwMjE1LDUyMTE1NTE5NSwxNjQw
-NTExNTkxXX0=
+eyJoaXN0b3J5IjpbOTk0MDIzNzYwLC0yODY1MDAyOTQsOTUxMj
+AzNTM4LDEyNjk1ODkxMjIsLTEzNTMwOTUwMTQsLTg1NDQ0MTA3
+NCwtMTc1NTUzODIxLC0xMzM0NjQ5MzA5LDE3MzIxMzUwMDcsMT
+I0MzE5MDc1OSwtMTA0NTA5MDk2NiwyOTE0MzY1ODgsMTkwNDI0
+NTc1MywtMzA5ODQxNjQyLC00OTE4MDU0NjEsNDE3Njk4MTE2LC
+00Mzc0MjUxODIsLTE3Mjc3NzU2MzcsMTkxMTU5MDIxNSw1MjEx
+NTUxOTVdfQ==
 -->
