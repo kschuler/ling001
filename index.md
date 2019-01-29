@@ -41,10 +41,10 @@ Jan 22 | Organizational meeting |
 Jan 29 | Logical problem and learnability | Katie: [Wexler 1980](https://drive.google.com/open?id=1uIYvQtzQaRpmVOTXcWi1tQJ8AguqnWdX)<br>Katie: [Berwick 1986](https://drive.google.com/open?id=1uAg5fDmrroko24claU0nGSbQRlq95ua1)<br> Katie: [Reali & Christiansen 2005](https://drive.google.com/open?id=1talM3Celuop6hoXUtAFYzSjBJrJ1Z8YN)
 Feb 5 | Prosodic bootstrapping |  Nikita: [Gleitman & Wanner 1982](https://drive.google.com/open?id=1Wmugs-yTOq0gU2IHEsy-B8e5WpZ35Fw2)<br>Sarah: [Soderstrom et al 2003](https://drive.google.com/open?id=1mv_1Fab9KoANoyBzObKUD8Mal-cSk_Q4)<br>Ava/Ryan: [Hawthorne & Gerken 2014](https://drive.google.com/open?id=1389F_qMQyIEMjPRC5ibFJkPP5rrheSKt)
 Feb 12 |  Semantic bootstrapping | Sarah: [Wexler & Culicover 1980](https://drive.google.com/open?id=1rii8XO1E_t7K18HXCjfcrLy3bifq9IKO)<br> Nikita: Berwick 1985
-Feb 19 | Syntactic bootstrapping |  Ryan: [Gleitman et al 2005](https://drive.google.com/open?id=1KsMoL4I1uYAfpT_3SKpLay_n1FqihW8Q)<br>Sarah: [Pozzan et al 2015](https://drive.google.com/open?id=1s0WluIcOH4-fLOhkkl2YdXmPT-Aoo1K1)
- Feb 26 | Usage-based approaches |  Sarah: [Tomasello 2000](https://drive.google.com/open?id=1cjXj0QC3y99FraJGaiRlFqDlStQL8rt6)<br>Nikita: [Fisher 2002](https://drive.google.com/open?id=1J31-QWbVoCGT_ovOo0fvVuXovpy-MzSs)<br><br>**Specific Aims due on Friday**
+Feb 19 | Syntactic bootstrapping |  Ryan: [Gleitman et al 2005](https://drive.google.com/open?id=1KsMoL4I1uYAfpT_3SKpLay_n1FqihW8Q)<br>Sarah/Ava: [Pozzan et al 2015](https://drive.google.com/open?id=1s0WluIcOH4-fLOhkkl2YdXmPT-Aoo1K1)
+ Feb 26 | Usage-based approaches |  Sarah: [Tomasello 2000](https://drive.google.com/open?id=1cjXj0QC3y99FraJGaiRlFqDlStQL8rt6)<br>Nikita/Ava: [Fisher 2002](https://drive.google.com/open?id=1J31-QWbVoCGT_ovOo0fvVuXovpy-MzSs)<br><br>**Specific Aims due on Friday**
 Mar 5 | No class, Spring break | None
- Mar 12 | Parameter setting | [Radford 1995](https://drive.google.com/open?id=1BrWnqNxyKdrO4iQyFVNg9FyWObfIOUe-)<br>[Poeppel & Wexler 1993](https://drive.google.com/open?id=1VdRxu3c7ENIgtxfhsO1fIzDCwlO0L09U)<br>[Chien & Wexler 1990](https://drive.google.com/open?id=1cHIWeot3HFoID_Nf4PQCayieKaXZf2CN)
+ Mar 12 | Parameter setting | Nikita: [Radford 1995](https://drive.google.com/open?id=1BrWnqNxyKdrO4iQyFVNg9FyWObfIOUe-)<br>[Poeppel & Wexler 1993](https://drive.google.com/open?id=1VdRxu3c7ENIgtxfhsO1fIzDCwlO0L09U)<br>[Chien & Wexler 1990](https://drive.google.com/open?id=1cHIWeot3HFoID_Nf4PQCayieKaXZf2CN)
  Mar 19 | OT | [Prince & Smolensky 1997](https://drive.google.com/open?id=10GyxuVO7tbFZLsB6gG7CN9BkAN_ZyGBs)<br>[Legendre 2006](https://drive.google.com/open?id=1x69LDeTSLkHx-9gLA7Ey2ddohmjrBDEK)
  Mar 26 | TBD |  Lidz 2007<br><br>**Deadline to submit proposal draft for feedback (optional)**
  Apr 2 | Neural network models | [Rumelhart & McClelland 1988](https://drive.google.com/open?id=1XMS_-foPiFi7HI6sFNI_Q-9yWU7ilh78)<br>[Pinker & Prince 1988](https://drive.google.com/open?id=1LEU7I4OjxiPVQz-wsXdw4BhbcxcE0PnE)
@@ -91,11 +91,11 @@ Apr 23 | No class | None
 - Wexler, K. (1980). Learnability and Constraints in Language. In U. Bellugi & Studdert-Kennedy, M. (Eds.), _Signed and Spoken Language: Biological Constraints on Linguistics Form_.
 - Yang, C. (2017). Rage against the machine: Evaluation metrics in the 21st century. _Language Acquisition_, _24_(2), 100–125. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTQ2OTk2MjcsOTUxMjAzNTM4LDEyNj
-k1ODkxMjIsLTEzNTMwOTUwMTQsLTg1NDQ0MTA3NCwtMTc1NTUz
-ODIxLC0xMzM0NjQ5MzA5LDE3MzIxMzUwMDcsMTI0MzE5MDc1OS
-wtMTA0NTA5MDk2NiwyOTE0MzY1ODgsMTkwNDI0NTc1MywtMzA5
-ODQxNjQyLC00OTE4MDU0NjEsNDE3Njk4MTE2LC00Mzc0MjUxOD
-IsLTE3Mjc3NzU2MzcsMTkxMTU5MDIxNSw1MjExNTUxOTUsMTY0
-MDUxMTU5MV19
+eyJoaXN0b3J5IjpbMTk3MjUyMzUyMyw5NTEyMDM1MzgsMTI2OT
+U4OTEyMiwtMTM1MzA5NTAxNCwtODU0NDQxMDc0LC0xNzU1NTM4
+MjEsLTEzMzQ2NDkzMDksMTczMjEzNTAwNywxMjQzMTkwNzU5LC
+0xMDQ1MDkwOTY2LDI5MTQzNjU4OCwxOTA0MjQ1NzUzLC0zMDk4
+NDE2NDIsLTQ5MTgwNTQ2MSw0MTc2OTgxMTYsLTQzNzQyNTE4Mi
+wtMTcyNzc3NTYzNywxOTExNTkwMjE1LDUyMTE1NTE5NSwxNjQw
+NTExNTkxXX0=
 -->
