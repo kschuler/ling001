@@ -38,7 +38,7 @@ If you are taking the course for credit, your final project will be a research p
 Date | Topic | Readings & **Deadlines**
  --- | --- | ---
 Jan 22 | Organizational meeting | 
-Jan 29 | Logical problem and learnability | [Wexler 1980](https://drive.google.com/open?id=1uIYvQtzQaRpmVOTXcWi1tQJ8AguqnWdX)<br> [Berwick 1986](https://drive.google.com/open?id=1uAg5fDmrroko24claU0nGSbQRlq95ua1) <br> [Reali & Christiansen 2005](https://drive.google.com/open?id=1talM3Celuop6hoXUtAFYzSjBJrJ1Z8YN)
+Jan 29 | Logical problem and learnability | Katie: [Wexler 1980](https://drive.google.com/open?id=1uIYvQtzQaRpmVOTXcWi1tQJ8AguqnWdX)<br>Katie: [Berwick 1986](https://drive.google.com/open?id=1uAg5fDmrroko24claU0nGSbQRlq95ua1)<br> Katie: [Reali & Christiansen 2005](https://drive.google.com/open?id=1talM3Celuop6hoXUtAFYzSjBJrJ1Z8YN)
 Feb 5 | Prosodic bootstrapping |  [Gleitman & Wanner 1982](https://drive.google.com/open?id=1Wmugs-yTOq0gU2IHEsy-B8e5WpZ35Fw2)<br>[Soderstrom et al 2003](https://drive.google.com/open?id=1mv_1Fab9KoANoyBzObKUD8Mal-cSk_Q4)<br>[Hawthorne & Gerken 2014](https://drive.google.com/open?id=1389F_qMQyIEMjPRC5ibFJkPP5rrheSKt)
 Feb 12 |  Semantic bootstrapping | [Wexler & Culicover 1980](https://drive.google.com/open?id=1rii8XO1E_t7K18HXCjfcrLy3bifq9IKO)<br>Berwick 1985
 Feb 19 | Syntactic bootstrapping |  [Gleitman et al 2005](https://drive.google.com/open?id=1KsMoL4I1uYAfpT_3SKpLay_n1FqihW8Q)<br>[Pozzan et al 2015](https://drive.google.com/open?id=1s0WluIcOH4-fLOhkkl2YdXmPT-Aoo1K1)
@@ -91,11 +91,11 @@ Apr 23 | No class | None
 - Wexler, K. (1980). Learnability and Constraints in Language. In U. Bellugi & Studdert-Kennedy, M. (Eds.), _Signed and Spoken Language: Biological Constraints on Linguistics Form_.
 - Yang, C. (2017). Rage against the machine: Evaluation metrics in the 21st century. _Language Acquisition_, _24_(2), 100–125. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUxMjAzNTM4LDEyNjk1ODkxMjIsLTEzNT
-MwOTUwMTQsLTg1NDQ0MTA3NCwtMTc1NTUzODIxLC0xMzM0NjQ5
-MzA5LDE3MzIxMzUwMDcsMTI0MzE5MDc1OSwtMTA0NTA5MDk2Ni
-wyOTE0MzY1ODgsMTkwNDI0NTc1MywtMzA5ODQxNjQyLC00OTE4
-MDU0NjEsNDE3Njk4MTE2LC00Mzc0MjUxODIsLTE3Mjc3NzU2Mz
-csMTkxMTU5MDIxNSw1MjExNTUxOTUsMTY0MDUxMTU5MSw5MDU4
-MDI0MTNdfQ==
+eyJoaXN0b3J5IjpbMjA5NDA1NjU2OCw5NTEyMDM1MzgsMTI2OT
+U4OTEyMiwtMTM1MzA5NTAxNCwtODU0NDQxMDc0LC0xNzU1NTM4
+MjEsLTEzMzQ2NDkzMDksMTczMjEzNTAwNywxMjQzMTkwNzU5LC
+0xMDQ1MDkwOTY2LDI5MTQzNjU4OCwxOTA0MjQ1NzUzLC0zMDk4
+NDE2NDIsLTQ5MTgwNTQ2MSw0MTc2OTgxMTYsLTQzNzQyNTE4Mi
+wtMTcyNzc3NTYzNywxOTExNTkwMjE1LDUyMTE1NTE5NSwxNjQw
+NTExNTkxXX0=
 -->
