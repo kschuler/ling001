@@ -51,7 +51,7 @@ Mar 5 | No class, Spring break | None
  Mar 26 | TBD |  Ryan: Lidz 2007<br><br>**Deadline to submit proposal draft for feedback (optional)**
  Apr 2 | Neural network models | Ava C./Sarah:[Rumelhart & McClelland 1988](https://drive.google.com/open?id=1XMS_-foPiFi7HI6sFNI_Q-9yWU7ilh78)<br>Ryan/Ava I.: [Pinker & Prince 1988](https://drive.google.com/open?id=1LEU7I4OjxiPVQz-wsXdw4BhbcxcE0PnE)
  Apr 9 | Distributional learning | Ava C./Sarah: [Maratsos and Chalkley 1980](https://drive.google.com/open?id=1sR8QACYYmINDsvIKY6h7sJvOZT975q6H)<br>Nikita/Ryan:[Aslin & Newport 2014](https://drive.google.com/open?id=1P0XDUVA6Zc3TXN7KRDssufaCoF1ifxSi)
-Apr 16 | Bayesian approaches |  Ava/Nikita: [Perfors et al 2011](https://drive.google.com/open?id=162ZxXDMFsMEbnxzotKc7Q0TuEHVJFVzs)<br>Ryan: [Yang 2017](https://drive.google.com/open?id=1I4FNdkFQr4LLByEUSHS5O8wIF5SNhaUu)<br><br>**Research Proposals due by midnight**
+Apr 16 | Bayesian approaches |  Ava I./Nikita: [Perfors et al 2011](https://drive.google.com/open?id=162ZxXDMFsMEbnxzotKc7Q0TuEHVJFVzs)<br>Ryan: [Yang 2017](https://drive.google.com/open?id=1I4FNdkFQr4LLByEUSHS5O8wIF5SNhaUu)<br><br>**Research Proposals due by midnight**
 Apr 23 | No class | None
  Apr 30 | Mock study section |  **Written critiques due on April 23 by midnight**
  May 7 | No class, final exam week |   **Response to reviewers' critiques due by midnight**
@@ -93,11 +93,11 @@ Apr 23 | No class | None
 - Wexler, K. (1980). Learnability and Constraints in Language. In U. Bellugi & Studdert-Kennedy, M. (Eds.), _Signed and Spoken Language: Biological Constraints on Linguistics Form_.
 - Yang, C. (2017). Rage against the machine: Evaluation metrics in the 21st century. _Language Acquisition_, _24_(2), 100–125. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTU3MDUwMzgsOTk0MDIzNzYwLC0yOD
-Y1MDAyOTQsOTUxMjAzNTM4LDEyNjk1ODkxMjIsLTEzNTMwOTUw
-MTQsLTg1NDQ0MTA3NCwtMTc1NTUzODIxLC0xMzM0NjQ5MzA5LD
-E3MzIxMzUwMDcsMTI0MzE5MDc1OSwtMTA0NTA5MDk2NiwyOTE0
-MzY1ODgsMTkwNDI0NTc1MywtMzA5ODQxNjQyLC00OTE4MDU0Nj
-EsNDE3Njk4MTE2LC00Mzc0MjUxODIsLTE3Mjc3NzU2MzcsMTkx
-MTU5MDIxNV19
+eyJoaXN0b3J5IjpbLTI0NDkzMDc2OSw5OTQwMjM3NjAsLTI4Nj
+UwMDI5NCw5NTEyMDM1MzgsMTI2OTU4OTEyMiwtMTM1MzA5NTAx
+NCwtODU0NDQxMDc0LC0xNzU1NTM4MjEsLTEzMzQ2NDkzMDksMT
+czMjEzNTAwNywxMjQzMTkwNzU5LC0xMDQ1MDkwOTY2LDI5MTQz
+NjU4OCwxOTA0MjQ1NzUzLC0zMDk4NDE2NDIsLTQ5MTgwNTQ2MS
+w0MTc2OTgxMTYsLTQzNzQyNTE4MiwtMTcyNzc3NTYzNywxOTEx
+NTkwMjE1XX0=
 -->
