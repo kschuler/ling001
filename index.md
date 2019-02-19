@@ -44,7 +44,7 @@ Jan 29 | Logical problem and learnability | Katie: [Wexler 1980](https://drive.g
 Feb 5 | Prosodic bootstrapping |  Nikita: [Gleitman & Wanner 1982](https://drive.google.com/open?id=1Wmugs-yTOq0gU2IHEsy-B8e5WpZ35Fw2)<br>Sarah: [Soderstrom et al 2003](https://drive.google.com/open?id=1mv_1Fab9KoANoyBzObKUD8Mal-cSk_Q4)<br>Ava/Ryan: [Hawthorne & Gerken 2014](https://drive.google.com/open?id=1389F_qMQyIEMjPRC5ibFJkPP5rrheSKt)
 Feb 12 |  Semantic bootstrapping | Sarah: [Wexler & Culicover 1980](https://drive.google.com/open?id=1rii8XO1E_t7K18HXCjfcrLy3bifq9IKO)<br> Nikita: Berwick 1985
 Feb 19 | Syntactic bootstrapping |  Ryan: [Gleitman et al 2005](https://drive.google.com/open?id=1KsMoL4I1uYAfpT_3SKpLay_n1FqihW8Q)<br>Sarah/Ava: [Pozzan et al 2015](https://drive.google.com/open?id=1s0WluIcOH4-fLOhkkl2YdXmPT-Aoo1K1)
- Feb 26 | Usage-based approaches |  Sarah: [Tomasello 2000](https://drive.google.com/open?id=1cjXj0QC3y99FraJGaiRlFqDlStQL8rt6)<br>Nikita/Ava: [Fisher 2002](https://drive.google.com/open?id=1J31-QWbVoCGT_ovOo0fvVuXovpy-MzSs)<br><br>**Specific Aims due on Friday**
+ Feb 26 | Usage-based approaches |  Sarah: [Tomasello 2000](https://drive.google.com/open?id=1cjXj0QC3y99FraJGaiRlFqDlStQL8rt6)<br>Ava I./Ava C.: [Fisher 2002](https://drive.google.com/open?id=1J31-QWbVoCGT_ovOo0fvVuXovpy-MzSs)<br><br>**Specific Aims due on Friday**
 Mar 5 | No class, Spring break | None
  Mar 12 | Parameter setting | Nikita: [Radford 1995](https://drive.google.com/open?id=1BrWnqNxyKdrO4iQyFVNg9FyWObfIOUe-)<br>Ava/Ryan: [Poeppel & Wexler 1993](https://drive.google.com/open?id=1VdRxu3c7ENIgtxfhsO1fIzDCwlO0L09U)<br>Sarah: [Chien & Wexler 1990](https://drive.google.com/open?id=1cHIWeot3HFoID_Nf4PQCayieKaXZf2CN)
  Mar 19 | OT | Ava/Sarah: [Prince & Smolensky 1997](https://drive.google.com/open?id=10GyxuVO7tbFZLsB6gG7CN9BkAN_ZyGBs)<br>Ryan: [Legendre 2006](https://drive.google.com/open?id=1x69LDeTSLkHx-9gLA7Ey2ddohmjrBDEK)
@@ -93,11 +93,11 @@ Apr 23 | No class | None
 - Wexler, K. (1980). Learnability and Constraints in Language. In U. Bellugi & Studdert-Kennedy, M. (Eds.), _Signed and Spoken Language: Biological Constraints on Linguistics Form_.
 - Yang, C. (2017). Rage against the machine: Evaluation metrics in the 21st century. _Language Acquisition_, _24_(2), 100–125. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk0MDIzNzYwLC0yODY1MDAyOTQsOTUxMj
-AzNTM4LDEyNjk1ODkxMjIsLTEzNTMwOTUwMTQsLTg1NDQ0MTA3
-NCwtMTc1NTUzODIxLC0xMzM0NjQ5MzA5LDE3MzIxMzUwMDcsMT
-I0MzE5MDc1OSwtMTA0NTA5MDk2NiwyOTE0MzY1ODgsMTkwNDI0
-NTc1MywtMzA5ODQxNjQyLC00OTE4MDU0NjEsNDE3Njk4MTE2LC
-00Mzc0MjUxODIsLTE3Mjc3NzU2MzcsMTkxMTU5MDIxNSw1MjEx
-NTUxOTVdfQ==
+eyJoaXN0b3J5IjpbLTE5MzIwODIwOTgsOTk0MDIzNzYwLC0yOD
+Y1MDAyOTQsOTUxMjAzNTM4LDEyNjk1ODkxMjIsLTEzNTMwOTUw
+MTQsLTg1NDQ0MTA3NCwtMTc1NTUzODIxLC0xMzM0NjQ5MzA5LD
+E3MzIxMzUwMDcsMTI0MzE5MDc1OSwtMTA0NTA5MDk2NiwyOTE0
+MzY1ODgsMTkwNDI0NTc1MywtMzA5ODQxNjQyLC00OTE4MDU0Nj
+EsNDE3Njk4MTE2LC00Mzc0MjUxODIsLTE3Mjc3NzU2MzcsMTkx
+MTU5MDIxNV19
 -->
