@@ -49,7 +49,7 @@ Mar 5 | No class, Spring break | None
  Mar 12 | Parameter setting | Nikita: [Radford 1995](https://drive.google.com/open?id=1BrWnqNxyKdrO4iQyFVNg9FyWObfIOUe-)<br>Ava C./Ryan: [Poeppel & Wexler 1993](https://drive.google.com/open?id=1VdRxu3c7ENIgtxfhsO1fIzDCwlO0L09U)<br>Ava I./Sarah: [Chien & Wexler 1990](https://drive.google.com/open?id=1cHIWeot3HFoID_Nf4PQCayieKaXZf2CN)
  Mar 19 | OT | Ava C./Sarah: [Prince & Smolensky 1997](https://drive.google.com/open?id=10GyxuVO7tbFZLsB6gG7CN9BkAN_ZyGBs)<br>Ryan/Ava I.: [Legendre 2006](https://drive.google.com/open?id=1x69LDeTSLkHx-9gLA7Ey2ddohmjrBDEK)
  Mar 26 | TBD |  Ryan: Lidz 2007<br><br>**Deadline to submit proposal draft for feedback (optional)**
- Apr 2 | Neural network models | Ava C./Sarah:[Rumelhart & McClelland 1988](https://drive.google.com/open?id=1XMS_-foPiFi7HI6sFNI_Q-9yWU7ilh78)<br>Ryan: [Pinker & Prince 1988](https://drive.google.com/open?id=1LEU7I4OjxiPVQz-wsXdw4BhbcxcE0PnE)
+ Apr 2 | Neural network models | Ava C./Sarah:[Rumelhart & McClelland 1988](https://drive.google.com/open?id=1XMS_-foPiFi7HI6sFNI_Q-9yWU7ilh78)<br>Ryan/Ava I.: [Pinker & Prince 1988](https://drive.google.com/open?id=1LEU7I4OjxiPVQz-wsXdw4BhbcxcE0PnE)
  Apr 9 | Distributional learning | Ava/Sarah: [Maratsos and Chalkley 1980](https://drive.google.com/open?id=1sR8QACYYmINDsvIKY6h7sJvOZT975q6H)<br>Nikita/Ryan:[Aslin & Newport 2014](https://drive.google.com/open?id=1P0XDUVA6Zc3TXN7KRDssufaCoF1ifxSi)
 Apr 16 | Bayesian approaches |  Ava/Nikita: [Perfors et al 2011](https://drive.google.com/open?id=162ZxXDMFsMEbnxzotKc7Q0TuEHVJFVzs)<br>Ryan: [Yang 2017](https://drive.google.com/open?id=1I4FNdkFQr4LLByEUSHS5O8wIF5SNhaUu)<br><br>**Research Proposals due by midnight**
 Apr 23 | No class | None
@@ -93,7 +93,7 @@ Apr 23 | No class | None
 - Wexler, K. (1980). Learnability and Constraints in Language. In U. Bellugi & Studdert-Kennedy, M. (Eds.), _Signed and Spoken Language: Biological Constraints on Linguistics Form_.
 - Yang, C. (2017). Rage against the machine: Evaluation metrics in the 21st century. _Language Acquisition_, _24_(2), 100–125. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MjAwMDUxOSw5OTQwMjM3NjAsLTI4Nj
+eyJoaXN0b3J5IjpbMTMzNjk4Mzk2NSw5OTQwMjM3NjAsLTI4Nj
 UwMDI5NCw5NTEyMDM1MzgsMTI2OTU4OTEyMiwtMTM1MzA5NTAx
 NCwtODU0NDQxMDc0LC0xNzU1NTM4MjEsLTEzMzQ2NDkzMDksMT
 czMjEzNTAwNywxMjQzMTkwNzU5LC0xMDQ1MDkwOTY2LDI5MTQz
