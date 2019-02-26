@@ -53,7 +53,7 @@ Mar 5 | No class, Spring break | None
  Apr 9 | Distributional learning | Ava C./Sarah: [Maratsos and Chalkley 1980](https://drive.google.com/open?id=1sR8QACYYmINDsvIKY6h7sJvOZT975q6H)<br>Nikita/Ryan:[Aslin & Newport 2014](https://drive.google.com/open?id=1P0XDUVA6Zc3TXN7KRDssufaCoF1ifxSi)
 Apr 16 | Bayesian approaches |  Ava I./Nikita: [Perfors et al 2011](https://drive.google.com/open?id=162ZxXDMFsMEbnxzotKc7Q0TuEHVJFVzs)<br>Ryan/Ava C.: [Yang 2017](https://drive.google.com/open?id=1I4FNdkFQr4LLByEUSHS5O8wIF5SNhaUu)<br><br>**Research Proposals due by midnight on Friday**
 Apr 23 | No class | None
- Apr 30 | Mock study section |  **Written critiques due on April 23 by midnight**
+ Apr 30 | Mock study section |  **Written critiques due on Friday by midnight**
  May 7 | No class, final exam week |   **Response to reviewers' critiques due by midnight**
 
 ## Resources
@@ -93,7 +93,7 @@ Apr 23 | No class | None
 - Wexler, K. (1980). Learnability and Constraints in Language. In U. Bellugi & Studdert-Kennedy, M. (Eds.), _Signed and Spoken Language: Biological Constraints on Linguistics Form_.
 - Yang, C. (2017). Rage against the machine: Evaluation metrics in the 21st century. _Language Acquisition_, _24_(2), 100–125. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMzQ2MTIyMywxMDczMzkzNDMxLDQyMz
+eyJoaXN0b3J5IjpbMTMxMTU1OTY1OSwxMDczMzkzNDMxLDQyMz
 M3NzQ2NywtMjQ0OTMwNzY5LDk5NDAyMzc2MCwtMjg2NTAwMjk0
 LDk1MTIwMzUzOCwxMjY5NTg5MTIyLC0xMzUzMDk1MDE0LC04NT
 Q0NDEwNzQsLTE3NTU1MzgyMSwtMTMzNDY0OTMwOSwxNzMyMTM1
