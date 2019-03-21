@@ -48,7 +48,7 @@ Feb 19 | Syntactic bootstrapping |  Ryan: [Gleitman et al 2005](https://drive.go
 Mar 5 | No class, Spring break | None
  Mar 12 | Parameter setting | Nikita: [Radford 1995](https://drive.google.com/open?id=1BrWnqNxyKdrO4iQyFVNg9FyWObfIOUe-)<br>Ava C./Ryan: [Poeppel & Wexler 1993](https://drive.google.com/open?id=1VdRxu3c7ENIgtxfhsO1fIzDCwlO0L09U)<br>Ava I.: [Chien & Wexler 1990](https://drive.google.com/open?id=1cHIWeot3HFoID_Nf4PQCayieKaXZf2CN)<br><br>**Specific Aims due on Friday**
  Mar 19 | OT | Ava C./Sarah: [Prince & Smolensky 1997](https://drive.google.com/open?id=10GyxuVO7tbFZLsB6gG7CN9BkAN_ZyGBs)<br>Ryan/Ava I.: [Legendre 2006](https://drive.google.com/open?id=1x69LDeTSLkHx-9gLA7Ey2ddohmjrBDEK)
- Mar 26 | TBD |  Ryan: Lidz 2007<br><br>**Friday is the last day to submit proposal draft for feedback (optional)**
+ Mar 26 | TBD |  Ryan: [Lidz 2007]()<br><br>**Friday is the last day to submit proposal draft for feedback (optional)**
  Apr 2 | Neural network models | Ava C./Sarah:[Rumelhart & McClelland 1988](https://drive.google.com/open?id=1XMS_-foPiFi7HI6sFNI_Q-9yWU7ilh78)<br>Ryan/Ava I.: [Pinker & Prince 1988](https://drive.google.com/open?id=1LEU7I4OjxiPVQz-wsXdw4BhbcxcE0PnE)
  Apr 9 | Distributional learning | Ava C./Sarah: [Maratsos and Chalkley 1980](https://drive.google.com/open?id=1sR8QACYYmINDsvIKY6h7sJvOZT975q6H)<br>Nikita/Ryan:[Aslin & Newport 2014](https://drive.google.com/open?id=1P0XDUVA6Zc3TXN7KRDssufaCoF1ifxSi)
 Apr 16 | Bayesian approaches |  Ava I./Nikita: [Perfors et al 2011](https://drive.google.com/open?id=162ZxXDMFsMEbnxzotKc7Q0TuEHVJFVzs)<br>Ryan/Ava C.: [Yang 2017](https://drive.google.com/open?id=1I4FNdkFQr4LLByEUSHS5O8wIF5SNhaUu)<br><br>**Research Proposals due on Friday by midnight**
@@ -93,11 +93,11 @@ Apr 23 | No class | **Written critiques due on Friday by midnight**
 - Wexler, K. (1980). Learnability and Constraints in Language. In U. Bellugi & Studdert-Kennedy, M. (Eds.), _Signed and Spoken Language: Biological Constraints on Linguistics Form_.
 - Yang, C. (2017). Rage against the machine: Evaluation metrics in the 21st century. _Language Acquisition_, _24_(2), 100–125. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNTIxMTMzNCwxMDczMzkzNDMxLDQyMz
-M3NzQ2NywtMjQ0OTMwNzY5LDk5NDAyMzc2MCwtMjg2NTAwMjk0
-LDk1MTIwMzUzOCwxMjY5NTg5MTIyLC0xMzUzMDk1MDE0LC04NT
-Q0NDEwNzQsLTE3NTU1MzgyMSwtMTMzNDY0OTMwOSwxNzMyMTM1
-MDA3LDEyNDMxOTA3NTksLTEwNDUwOTA5NjYsMjkxNDM2NTg4LD
-E5MDQyNDU3NTMsLTMwOTg0MTY0MiwtNDkxODA1NDYxLDQxNzY5
-ODExNl19
+eyJoaXN0b3J5IjpbMTk5NDUzNDA5NSwtMzA1MjExMzM0LDEwNz
+MzOTM0MzEsNDIzMzc3NDY3LC0yNDQ5MzA3NjksOTk0MDIzNzYw
+LC0yODY1MDAyOTQsOTUxMjAzNTM4LDEyNjk1ODkxMjIsLTEzNT
+MwOTUwMTQsLTg1NDQ0MTA3NCwtMTc1NTUzODIxLC0xMzM0NjQ5
+MzA5LDE3MzIxMzUwMDcsMTI0MzE5MDc1OSwtMTA0NTA5MDk2Ni
+wyOTE0MzY1ODgsMTkwNDI0NTc1MywtMzA5ODQxNjQyLC00OTE4
+MDU0NjFdfQ==
 -->
