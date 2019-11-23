@@ -39,10 +39,10 @@ Notes: One name means one primary reader (Primary: Paper), two names mean a prim
 
 Wk | Monday | Wednesday
  --- | --- | ---
-1 | Jan 15 | Intro | 
-2 | Jan 20  No Class MLK Day | Jan 21 Instinct 01
-3 | Jan 27  Instinct 02 | 29 XX
-4 | Feb 3  Acquisition Equivalences | Feb 5  Animal Communication 01 
+1 Jan 15 |   | Intro
+2 Jan 20 & 22 | No Class MLK Day | Instinct 01
+3 Jan 27 & 29 | Instinct 02 | XX
+4 Feb 3 & 5 | Acquisition Equivalences | Animal Communication 01 
 5 | Feb 10 Animal Communication 02 |  Feb 12  Phon 01 
 6 | Feb 17  Phon 02 | Feb 19  Phon 03  
 7 | Feb 24  Midterm Review | Feb 26  Midterm? 
