@@ -22,10 +22,10 @@ dark_nav: false              # keep header and footer dark (applies only when st
 dark_theme: false            # enables dark mode
 
 navigation:                  # (optional) site navigation in the header
-#   Overview: index.html
-#   Schedule: index.html#schedule
-#   Resources: index.html#resources
-#   Readings: index.html#readings
+  LING001: index.html
+  LING105: index.html#schedule
+  LING504: index.html#resources
+  LING507: index.html#readings
 
 icons:                       # show icons in the header, for all possible icons see http://fontawesome.io/icons/
   github: "https://github.com/kschuler"
