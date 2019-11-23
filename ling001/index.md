@@ -37,38 +37,24 @@ If you are taking the course for credit, your final project will be a research p
 
 Notes: One name means one primary reader (Primary: Paper), two names mean a primary and a secondary reader (Primary/Secondary: Paper).  
 
-Date | Topic | Readings & **Deadlines**
+Wk | Monday | Wednesday
  --- | --- | ---
-Jan 15 | Intro | 
-Jan 20 | No Class MLK Day | 
-Jan 27 | Instinct 01 | 
-Jan 29 | Instinct 02| 
-Feb 3 | Acquisition Equivalences | 
-Feb 5 | Animal Communication 01 | 
-Feb 10 | Animal Communication 02 | 
-Feb 12 | Phon 01| 
-Feb 17 | Phon 02 | 
-Feb 19 | Phon 03 | 
-Feb 24 | Midterm Review | 
-Feb 26 | Midterm? | 
-Mar 2 | Morphology 01 | 
-Mar 4 | Morphology 02 | 
-Mar 9 | No Class Spring Break | 
-Mar 10 | No Class Spring Break | 
-Mar 16 | Morphology 03 | 
-Mar 18 | Morphology-Syntax | 
-Mar 23 | Syntax 01 | 
-Mar 25 | Syntax 02 | 
-Mar 30 | Syntax 03 | 
-Apr 1 | Syntax 04 | 
-Apr 6 | Semantics |
-Apr 8 | Pragmatics | 
-Apr 13 | Variation 01 | 
-Apr 15 | Variation 02 | 
-Apr 20 | Historical | 
-Apr 22 | Final Review | 
-Apr 27 | | 
-Apr 29 | Last Day of Class | 
+1 | Jan 15 | Intro | 
+2 | Jan 20  No Class MLK Day | Jan 21 Instinct 01
+3 | Jan 27  Instinct 02 | 29 XX
+4 | Feb 3  Acquisition Equivalences | Feb 5  Animal Communication 01 
+5 | Feb 10 Animal Communication 02 |  Feb 12  Phon 01 
+6 | Feb 17  Phon 02 | Feb 19  Phon 03  
+7 | Feb 24  Midterm Review | Feb 26  Midterm? 
+8 | Mar 2  Morphology 01 | Mar 4  Morphology 02 
+9 | Mar 9  No Class Spring Break | Mar 10  No Class Spring Break  
+10 | Mar 16  Morphology 03 | Mar 18  Morphology-Syntax  
+11 | Mar 23  Syntax 01 | Mar 25  Syntax 02 
+12 | Mar 30  Syntax 03 | Apr 1  Syntax 04 
+13 | Apr 6  Semantics | Apr 8  Pragmatics 
+14 | Apr 13  Variation 01 | Apr 15  Variation 02 
+15 | Apr 20  Historical | Apr 22  Final Review 
+16 | Apr 27  | Apr 29  Last Day of Class 
 
 
 ## Resources
