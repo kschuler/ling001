@@ -43,6 +43,8 @@ Wk | Dates | Monday | Wednesday
 2 | Jan 20 & 22 | No Class MLK Day | Instinct 01
 3 | Jan 27 & 29 | Instinct 02 | XX
 4 | Feb 3 & 5 | Acquisition Equivalences | Animal Communication 01 
+
+
 5 | Feb 10 Animal Communication 02 |  Feb 12  Phon 01 
 6 | Feb 17  Phon 02 | Feb 19  Phon 03  
 7 | Feb 24  Midterm Review | Feb 26  Midterm? 
