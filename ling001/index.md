@@ -40,23 +40,21 @@ Notes: One name means one primary reader (Primary: Paper), two names mean a prim
 Wk | Dates | Monday | Wednesday
  | --- | --- | --- | ---
 1 | Jan 15 |   | Intro
-2 | Jan 20 & 22 | No Class MLK Day | Instinct 01
-3 | Jan 27 & 29 | Instinct 02 | XX
-4 | Feb 3 & 5 | Acquisition Equivalences | Animal Communication 01 
-
-
-5 | Feb 10 Animal Communication 02 |  Feb 12  Phon 01 
-6 | Feb 17  Phon 02 | Feb 19  Phon 03  
-7 | Feb 24  Midterm Review | Feb 26  Midterm? 
-8 | Mar 2  Morphology 01 | Mar 4  Morphology 02 
-9 | Mar 9  No Class Spring Break | Mar 10  No Class Spring Break  
-10 | Mar 16  Morphology 03 | Mar 18  Morphology-Syntax  
-11 | Mar 23  Syntax 01 | Mar 25  Syntax 02 
-12 | Mar 30  Syntax 03 | Apr 1  Syntax 04 
-13 | Apr 6  Semantics | Apr 8  Pragmatics 
-14 | Apr 13  Variation 01 | Apr 15  Variation 02 
-15 | Apr 20  Historical | Apr 22  Final Review 
-16 | Apr 27  | Apr 29  Last Day of Class 
+2 | Jan 20 & 22 | **No Class MLK Day** | Instinct 01
+3 | Jan 27 & 29 | Instinct 02 | Acquisition Equivalences
+4 | Feb 3 & 5 | Animal Communication 01  | Animal Communication 02
+5 | Feb 10 & 12 | Phon 01 |  Phon 02
+6 | Feb 17 & 19|  Phon 03  | Midterm Review
+7 | Feb 24 & 26 | Midterm Review 2 | Midterm
+8 | Mar 2 & 4 |  Morphology 01 | Morphology 02 
+9 | Mar 9 & 11 | **No Class Spring Break** |  **No Class Spring Break**  
+10 | Mar 16 & 18 |  Morphology 03 |  Morphology-Syntax  
+11 | Mar 23 & 25 |  Syntax 01 |   Syntax 02 
+12 | Mar 30 & Apr 1 | Syntax 03 |   Syntax 04 
+13 | Apr 6 & 8 |  Semantics |   Pragmatics 
+14 | Apr 13 & 15 |  Variation 01 |   Variation 02 
+15 | Apr 20 & 22 |  Historical |   Final Review 
+16 | Apr 27 & 29 |  Final Review 2 | Last Day of Class 
 
 
 ## Resources
