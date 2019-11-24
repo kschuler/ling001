@@ -6,7 +6,7 @@ title: LING001
 <h2 align="center">LING001: Intro to Linguistics</h2>
 <h3 align="center">Spring 2020 Syllabus</h3>
 
-**Instructor**: [Kathryn Schuler](mailto:kschuler@sas.upenn.edu)  
+**Instructor**: [Dr. Kathryn Schuler](mailto:kschuler@sas.upenn.edu)  
 3401-C Walnut Street, Office 314
 
 **Time and place**: Mondays & Wednesdays 12-1pm   
