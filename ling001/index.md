@@ -24,30 +24,30 @@ In this seminar, we'll read and discuss classic and contemporary theories of the
 
 ## Schedule
 
-Date | Topic | Resources
+Date | Topic | Readings & Practice Problems
   --- | --- | --- 
 Jan 15 |  Intro | 
 Jan 20  | **No Class MLK Day** | 
-Jan 22 | Instinct I | Reading: [LangFiles Ch. 1]()
-Jan 27  | Instinct II | Reading: [Pinker Ch. 1]()
+Jan 22 | Instinct I | [LangFiles Ch. 1]()
+Jan 27  | Instinct II | [Pinker Ch. 1]()
 Jan 29 | Acquisition Equivalences | 
-Feb 3 | Animal Communication I  | Reading: [LangFiles Ch. 8]()
+Feb 3 | Animal Communication I  | [LangFiles Ch. 8]()
 Feb 5 | Animal Communication II | 
 Feb 10 | **Exam 1** |
-Feb 12 | Phon I |  Reading: [LangFiles Ch. 2]()
+Feb 12 | Phon I |  [LangFiles Ch. 2]()
 Feb 17 | Phon II |
-Feb 19 | Phon III | Reading: [LangFiles Ch. 3]()
+Feb 19 | Phon III | [LangFiles Ch. 3]()
 Feb 24 | Phon IV | 
-Feb 26 | Morphology I | Reading: [LangFiles Ch. 4]()
+Feb 26 | Morphology I | [LangFiles Ch. 4]()
 Mar 2 | Morphology II | 
 Mar 4 | **Exam 2** |
 Mar 9 | **No Class Spring Break** |  
 Mar 11 | **No Class Spring Break**  
 Mar 16 | Morphology-Syntax |  
-Mar 18 | Synax I | Reading: [Santorini & Kroch Ch. 1]()
-Mar 23 | Syntax II |  Reading: [Santorini & Kroch Ch. 2]()
-Mar 25 | Syntax III | Reading: [LangFiles Ch. 5]()
-Mar 30 | Syntax IV | Reading: [Santorini & Kroch Ch. 4 & 5]()
+Mar 18 | Synax I | [Santorini & Kroch Ch. 1]()
+Mar 23 | Syntax II |  [Santorini & Kroch Ch. 2]()
+Mar 25 | Syntax III | [LangFiles Ch. 5]()
+Mar 30 | Syntax IV | [Santorini & Kroch Ch. 4 & 5]()
 Apr 1 | ASL |
 Apr 6 | **Exam 3** |
 Apr 8 | Semantics |   
