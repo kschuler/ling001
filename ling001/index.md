@@ -18,8 +18,8 @@ Location TBD
 In this seminar, we'll read and discuss classic and contemporary theories of the language acquisition process.  Topics include: prosodic, semantic, and syntactic bootstrapping theories, usage-based approaches, formal generative approaches, neural network models and more.  Each week we'll read a paper outlining a theoretical approach paired with either (1) an empirical investigation of the approach, (2) a paper expressing opposition to the approach, or (3) both. We'll discuss the strengths and weakness of both the theories and the empirical studies that investigate them. We'll also consider how one might design future experiments to test these theories.
 
 ### Evaluation 
-- Exams (90%) - Four exams. 30 points each. Lowest exam dropped.
-- Language journal (10%) - 10 points.
+- Exams (90%) - Four exams. 150 points each. Lowest exam dropped.
+- Language journal (10%) - 50 points.
 
 
 ## Schedule
@@ -29,33 +29,19 @@ Wk  | Topic | Readings & Practice Problems
 1 | Jan 15: Intro | 
 2 | Jan 20: **No Class MLK Day**<br>Jan 22: Instinct I | [LangFiles Ch. 1]()
 3 | Jan 27: Instinct II<br>Jan 29: Acquisition Equivalences  | [Pinker Ch. 1]()<br>Problem Set 1
-4 Feb 3: Animal Communication I<br>Feb 5: Animal Communication II   | [LangFiles Ch. 8]()<br>Problem Set 2
-
-
-Feb 10 | **Exam 1** | Practice Exam 1
-Feb 12 | Phon I |  [LangFiles Ch. 2]()
-Feb 17 | Phon II | Problem Set 3
-Feb 19 | Phon III | [LangFiles Ch. 3]()
-Feb 24 | Phon IV | Problem Set 4
-Feb 26 | Morphology I | [LangFiles Ch. 4]()
-Mar 2 | Morphology II | Problem Set 5
-Mar 4 | **Exam 2** | Practice Exam 2
-Mar 9 | **No Class Spring Break** |  
-Mar 11 | **No Class Spring Break**  
-Mar 16 | Morphology-Syntax |  
-Mar 18 | Synax I | [Santorini & Kroch Ch. 1]()<br> Problem Set 6
-Mar 23 | Syntax II |  [Santorini & Kroch Ch. 2]()
-Mar 25 | Syntax III | [LangFiles Ch. 5]()<br> Problem Set 7
-Mar 30 | Syntax IV | [Santorini & Kroch Ch. 4 & 5]()
-Apr 1 | ASL | Problem Set 8
-Apr 6 | **Exam 3** | Practice Exam 3
-Apr 8 | Semantics |  
-Apr 13 | Pragmatics | Reading
-Apr 15 |  Variation I | Problem Set 9
-Apr 20 | Variation II |
-Apr 22 | Historical |  Problem Set 10
-Apr 27 | Final Review | Practice Exam 4
-Apr 29 | **Exam 4** |
+4 | Feb 3: Animal Communication I<br>Feb 5: Animal Communication II   | [LangFiles Ch. 8]()<br>Problem Set 2
+5 | Feb 10: **Exam 1** <br> Feb 12: Phon I |  Practice Exam 1  
+6 | Feb 17: Phon II<br>Feb 19: Phon III [LangFiles Ch. 2]()Problem Set 3
+7 | Feb 24: Phon IV<br>Feb 26: Morphology I [LangFiles Ch. 3]()<br>Problem Set 4 [LangFiles Ch. 4]()
+8 | Mar 2: Morphology II<br>Mar 4: **Exam 2** | Practice Exam 2
+9 | **No Class Spring Break** |  
+10 | Mar 16: Morphology-Syntax<br>Mar 18: Synax I | [Santorini & Kroch Ch. 1]()<br> Problem Set 5
+11 | Mar 23: Syntax II<br>Mar 25: Syntax III |  [Santorini & Kroch Ch. 2]()<br> Problem Set 6
+12 | Mar 30: Syntax IV<br> Apr 1: ASL | [Santorini & Kroch Ch. 4 & 5]()<br>Problem Set 7
+13 | Apr 6: **Exam 3**<br> Apr 8: Semantics | Practice Exam 3
+14 | Apr 13: Pragmatics<br>April 15: | Reading<br> Problem Set 8
+15 | Apr 20:  Variation I<br> Apr 22: VariationII | Reading<br>Problem Set 9
+16 | Apr 27: Historical<br>Apr 29: **Exam 4** | Practice Exam 4
 
 ## Policies
 
