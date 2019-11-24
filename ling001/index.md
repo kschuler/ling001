@@ -12,50 +12,53 @@ title: LING001
 **Time and place**: Mondays & Wednesdays 12-1pm   
 Location TBD
 
-## Overview
+## Course description
 
-### Course description
+### Overview
 In this seminar, we'll read and discuss classic and contemporary theories of the language acquisition process.  Topics include: prosodic, semantic, and syntactic bootstrapping theories, usage-based approaches, formal generative approaches, neural network models and more.  Each week we'll read a paper outlining a theoretical approach paired with either (1) an empirical investigation of the approach, (2) a paper expressing opposition to the approach, or (3) both. We'll discuss the strengths and weakness of both the theories and the empirical studies that investigate them. We'll also consider how one might design future experiments to test these theories.
 
-### Requirements
-All students - including those auditing - are expected to play an active role in class discussion. In each class, one student will be assigned to be the primary reader of each paper.  The primary reader summarizes the reading, leads the discussion, and is primarily responsible for the assigned material.  However, everyone is required to read the assigned material and contribute to the class discussion.
+### Evaluation 
+- Exams (90%) - Four exams. 30 points each. Lowest exam dropped.
+- Language journal (10%) - 
 
-If you are taking the course for credit, your final project will be a research proposal.  Your proposal will be reviewed in an in-class mock study section, and you'll be required to write a formal response to the reviews you receive.
-
-### Evaluation
-
-* **20% Participation in class discussion**: Before each class, you'll post 5-8 discussion questions on the assigned readings.  During class, you're expected to participate in class discussion, even if you are not the primary reader.   
-
-* **40% Research proposal**: You'll write a research proposal in which you propose a 1-2 experiments to test a theory of the acquisition process.  The proposal will follow the format of an NIH R03 application - 1 page for specific aims and 6 pages for the research plan.  More details about the proposal, including format, grading criteria, and samples, are available [here](spring2019/research-proposal).
-
-* **20% In-class peer review**: On the final day of class, we'll conduct a mock study section - an NIH-style peer review panel - to evaluate the research proposals.   Each student will be asked to be the primary reviewer for one proposal and the secondary reviewer for another.  Primary and secondary reviewers will turn in written critiques of their assigned proposals and lead the discussion in the mock study section.  More details about the mock study section are available [here](spring2019/research-proposal#in-class-peer-review).
-
-
-* **20% Written response to reviews**: After the in-class peer review, you'll receive the written reviews of your proposal and  be asked to write a formal response to the reviews’ critiques. More details about the response to reviews are available [here](spring2019/research-proposal#written-response-to-reviews).
 
 ## Schedule
 
-Notes: One name means one primary reader (Primary: Paper), two names mean a primary and a secondary reader (Primary/Secondary: Paper).  
+Date | Topic | Resources
+  --- | --- | --- 
+Jan 15 |  Intro | 
+Jan 20  | **No Class MLK Day** | 
+Jan 22 | Instinct I | 
+Jan 27  | Instinct II |
+Jan 29 | Acquisition Equivalences |
+Feb 3 | Animal Communication 01  | 
+Feb 5 | Animal Communication 02 |
+Feb 10 | ## Exam 2 |
+Feb 12 | Phon I |  
+Feb 17 | Phon II |
+Feb 19 | Phon III | 
+Feb 24 | Morphology I | 
+Feb 26 | Morphology II |
+Mar 2 | Morphology III | 
+Mar 4 | **Exam 2** |
+Mar 9 | **No Class Spring Break** |  
+Mar 11 | **No Class Spring Break**  
+Mar 16 | Morphology-Syntax |  
+Mar 18 | Synax I |
+Mar 23  Syntax II |   
+Mar 25 | Syntax III |
+Mar 30 | Syntax IV 
+Apr 1 | ASL |
+Apr 6 | **Exam 3** |
+Apr 8 | Semantics |   
+Apr 13 Pragmatics |
+Apr 15 |  Variation I |
+Apr 20 | Variation II |
+Apr 22 | Historical |   
+Apr 27 | Final Review |
+Apr 29 | **Exam 4** |
 
-Wk | Dates | Monday | Wednesday
- | --- | --- | --- | ---
-1 | Jan 15 |   | Intro<br>[Slides 1]() ~ [Notes 1]() ~ [Read LangFiles Ch. 1]()
-2 | Jan 20 & 22 | **No Class MLK Day** | Instinct I <br>[Slides 2]() ~ [Notes 2]() ~ [Read Pinker Ch. 1]()
-3 | Jan 27 & 29 | Instinct 02 | Acquisition Equivalences
-4 | Feb 3 & 5 | Animal Communication 01  | Animal Communication 02
-5 | Feb 10 & 12 | Phon 01 |  Phon 02
-6 | Feb 17 & 19|  Phon 03  | Midterm Review
-7 | Feb 24 & 26 | Midterm Review 2 | Midterm
-8 | Mar 2 & 4 |  Morphology 01 | Morphology 02 
-9 | Mar 9 & 11 | **No Class Spring Break** |  **No Class Spring Break**  
-10 | Mar 16 & 18 |  Morphology 03 |  Morphology-Syntax  
-11 | Mar 23 & 25 |  Syntax 01 |   Syntax 02 
-12 | Mar 30 & Apr 1 | Syntax 03 |   Syntax 04 
-13 | Apr 6 & 8 |  Semantics |   Pragmatics 
-14 | Apr 13 & 15 |  Variation 01 |   Variation 02 
-15 | Apr 20 & 22 |  Historical |   Final Review 
-16 | Apr 27 & 29 |  Final Review 2 | Last Day of Class 
-
+## Policies
 
 ## Resources
 
