@@ -48,9 +48,7 @@ Wk  | Topic | Readings & Practice Problems
 ## Resources
 Grading (50 points total):
 • 5 points for each relevant observation (20 max).
-• Up to 15 points for insightfulness, creativity, and/or originality.
-• Up to 15 points for linking your observations with class lectures and/or readings. Assume that
-the reader has the class knowledge – that is, do not explain class materials. Best strategy: start early!
+• Up to 30 points for insightfulness, creativity, and/or originality and for linking your observations with class lectures and/or readings. Assume that the reader has the class knowledge – that is, do not explain class materials. Best strategy: start early!
 
 ### Discussion question instructions
 
