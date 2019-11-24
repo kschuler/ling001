@@ -31,8 +31,8 @@ Wk  | Topic | Readings & Practice Problems
 3 | Jan 27: Instinct II<br>Jan 29: Acquisition Equivalences  | [Pinker Ch. 1]()<br>Problem Set 1
 4 | Feb 3: Animal Communication I<br>Feb 5: Animal Communication II   | [LangFiles Ch. 8]()<br>Problem Set 2
 5 | Feb 10: **Exam 1** <br> Feb 12: Phon I |  Practice Exam 1  
-6 | Feb 17: Phon II<br>Feb 19: Phon III [LangFiles Ch. 2]()Problem Set 3
-7 | Feb 24: Phon IV<br>Feb 26: Morphology I [LangFiles Ch. 3]()<br>Problem Set 4 [LangFiles Ch. 4]()
+6 | Feb 17: Phon II<br>Feb 19: Phon III | [LangFiles Ch. 2]()Problem Set 3
+7 | Feb 24: Phon IV<br>Feb 26: Morphology I | [LangFiles Ch. 3]()<br>Problem Set 4 [LangFiles Ch. 4]()
 8 | Mar 2: Morphology II<br>Mar 4: **Exam 2** | Practice Exam 2
 9 | **No Class Spring Break** |  
 10 | Mar 16: Morphology-Syntax<br>Mar 18: Synax I | [Santorini & Kroch Ch. 1]()<br> Problem Set 5
