@@ -24,15 +24,14 @@ In this seminar, we'll read and discuss classic and contemporary theories of the
 
 ## Schedule
 
-Date | Topic | Readings & Practice Problems
+Wk  | Topic | Readings & Practice Problems
   --- | --- | --- 
-Jan 15 |  Intro | 
-Jan 20  | **No Class MLK Day** | 
-Jan 22 | Instinct I | [LangFiles Ch. 1]()
-Jan 27  | Instinct II | [Pinker Ch. 1]()
-Jan 29 | Acquisition Equivalences | Problem Set 1
-Feb 3 | Animal Communication I  | [LangFiles Ch. 8]()
-Feb 5 | Animal Communication II | Problem Set 2
+1 | Jan 15: Intro | 
+2 | Jan 20: **No Class MLK Day**<br>Jan 22: Instinct I | [LangFiles Ch. 1]()
+3 | Jan 27: Instinct II<br>Jan 29: Acquisition Equivalences  | [Pinker Ch. 1]()<br>Problem Set 1
+4 Feb 3: Animal Communication I<br>Feb 5: Animal Communication II   | [LangFiles Ch. 8]()<br>Problem Set 2
+
+
 Feb 10 | **Exam 1** | Practice Exam 1
 Feb 12 | Phon I |  [LangFiles Ch. 2]()
 Feb 17 | Phon II | Problem Set 3
