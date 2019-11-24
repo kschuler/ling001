@@ -39,8 +39,8 @@ Wk  | Topic | Readings & Practice Problems
 11 | Mar 23: Syntax II<br>Mar 25: Syntax III |  [Santorini & Kroch Ch. 2]()
 12 | Mar 30: Syntax IV<br> Apr 1: ASL | [Santorini & Kroch Ch. 4 & 5]()
 13 | Apr 6: **Exam 3**<br> Apr 8: Semantics | [Exam 3 Study Guide]() / [Practice Questions]() / [Solutions]()
-14 | Apr 13: Pragmatics<br>April 15: | Reading<br> Problem Set 8
-15 | Apr 20:  Variation I<br> Apr 22: VariationII | Reading<br>Problem Set 9
+14 | Apr 13: Pragmatics<br>April 15: | Reading
+15 | Apr 20:  Variation I<br> Apr 22: VariationII | Reading
 16 | Apr 27: Historical<br>Apr 29: **Exam 4** | [Exam 4 Study Guide]() / [Practice Questions]() / [Solutions]()
 
 ## Policies
