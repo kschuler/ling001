@@ -3,9 +3,8 @@ layout: page
 title: LING001 
 ---
 
-<h2 align="center">LING001: Intro to Linguistics</h2>
-<h3 align="center">Spring 2020 Syllabus</h3>
-<h4 align="center">Warning: Syllabus under construction</h4>
+<h2 align="center">Spring 2020 Syllabus</h2>
+<h3 align="center">Warning: Syllabus under construction</h3>
 
 **Instructor**: [Dr. Kathryn Schuler](mailto:kschuler@sas.upenn.edu)  
 3401-C Walnut Street, Office 314
