@@ -30,7 +30,7 @@ A general introduction to the nature, history and use of human language, speech 
 ### Materials
 
 ### Evaluation 
-- Exams (90%) - There are four exams, but the lowest exam score is dropped. The remaining 3 exams are worth 150 points each.
+- Exams (90%) - There are four exams, but the lowest exam score is dropped. The remaining 3 exams are worth 150 points each. Exams will test understanding of concepts discussed in lectures and readings. Exam questions will closely mirror practice questions.
 - Linguistics journal (10%) - Each student is required to keep a linguistics journal with a minimum of four entries and 800 words, worth 50 points.
 
 
@@ -60,24 +60,24 @@ Wk  | Topic | Readings & Resources
 - Attempt the practice problems and check your answers against the solutions
 - Come prepared to recitation. Ask questions about the course material and for help on practice problems you had trouble with
 
-
-## Policies
-
-### Attendance
-There is no formal attendance policy, but attendance is highly correlated with class performance.
-
+## Resources
 ### Exams
-- Exams will test understanding of concepts discussed in lectures and readings. Exam questions will closely mirror practice questions.
-- **Make-up policy**: Only students with a documented family or medical emergancy will be granted the opportunity to make-up an exam. Email your recitation section TA to make these arrangments.
-- **Rescheduling policy**: Only students with a religious conflict or an official university event may reschedule an exam. In these cases, students must provide documentation and *advanced notice*, so email your recitation section TA as soon as possible. Note that multiple exams on the same day is not a valid reason to reschedule. 
-
-### Re-grade requests
-If you feel a grading error has been made, you must make a formal regrade request via canvas. TAs are not allowed to discuss regrading with you until you have made a formal written request.
+Exams will test understanding of concepts discussed in lectures and readings. You will be provided with a study guide, practice questions, and solutions to the practice questions for each exam. Exam questions will closely mirror practice questions. 
 
 ### Linguistics journal
 Grading (50 points total):
 • 5 points for each relevant observation (20 max).
 • Up to 30 points for insightfulness, creativity, and/or originality and for linking your observations with class lectures and/or readings. Assume that the reader has the class knowledge – that is, do not explain class materials. Best strategy: start early!
+
+## Policies
+- **Attendance**: There is no formal attendance policy, but attendance is highly correlated with class performance.
+- **Make-up exams**: Only students with a documented family or medical emergancy will be granted the opportunity to make-up an exam. Email your recitation section TA to make these arrangments.
+- **Rescheduling policy**: Only students with a religious conflict or an official university event may reschedule an exam. In these cases, students must provide documentation and *advanced notice*, so email your recitation section TA as soon as possible. Note that multiple exams on the same day is not a valid reason to reschedule. 
+- **Re-grade requests**: If you feel a grading error has been made, you must make a formal regrade request via canvas. TAs are not allowed to discuss regrading with you until you have made a formal written request.
+- **Accommodations and non-discrimination**: We are happy to provide accommodations to anyone with documentation from Student Disability Services and to make alternate arrangements when class conflicts with a religious holiday. Please notify your recitation section TA as soon as possible to make these arrangements.
+- **Academic Integrity**: We will follow the rules of the University and the [Code of Academic Integrity](https://catalog.upenn.edu/pennbook/code-of-academic-integrity/).  It is your responsibility to be familiar with these policies.
+
+
 
 ## FAQs
 **If I am happy with my grade on the first three exams, do I have to take the fourth?**
