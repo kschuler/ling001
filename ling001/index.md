@@ -91,5 +91,5 @@ Grading (50 points total):
 > We will regrade your exam if you make a formal regrade request via canvas (see regrading policy above).
 
 **What if I miss or fail an exam?**
-> We drop your lowest exam score, so you don't have to worry if this happens. Just make sure it doesn't happen more than once! 
+> We drop your lowest exam score, so this is no problem. Just make sure it doesn't happen more than once! 
 
