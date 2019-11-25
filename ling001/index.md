@@ -19,7 +19,7 @@ A general introduction to the nature, history and use of human language, speech 
 
 ### Time & Place
 
-**Lecture: **
+**Lecture:**
 
   - Mondays & Wednesdays 12-1pm, Location TBD
   
