@@ -26,7 +26,7 @@ A general introduction to the nature, history and use of human language, speech 
 
 Lecture | Recitation
 --- | ---
-M & W 12-1pm, Location TBD | 201: R 9:30-10:30am<br>202: R 10:30-11:30am <br>203: R 9:30-10:30am<br>204: R 10:30-11:30am<br>205: R 9:30-10:30am<br>206: R 10:30-11:30am<br>207: R 11-12pm<br>208: F 12-1pm 
+M & W 12-1pm<br>Location TBD<br><br><br><br><br> | 201: R 9:30-10:30am<br>202: R 10:30-11:30am <br>203: R 9:30-10:30am<br>204: R 10:30-11:30am<br>205: R 9:30-10:30am<br>206: R 10:30-11:30am<br>207: R 11-12pm<br>208: F 12-1pm 
   
 ### Materials
 - This webpage for syllabus, schedule, and links to all assigned materials
