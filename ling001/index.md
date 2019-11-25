@@ -100,5 +100,5 @@ Grading (50 points total):
 **What if I miss or fail an exam?**
 > We drop your lowest exam score, so this is no problem. Just make sure it doesn't happen more than once! 
 
-**Can I turn in my language journal late?** 
-Yes, but there is a 5 point per day late penalty.
+**Can I turn in my language journal early or late?** 
+Yes and yes. There is a 5 point per day penalty for late language journal assignments.
