@@ -23,12 +23,10 @@ Welcome to LING001!
 A general introduction to the nature, history and use of human language, speech and writing. Topics include the biological basis of human language, and analogous systems in other creatures; relations to cognition, communication, and social organization; sounds, forms and meanings in the world's languages; the reconstruction of linguistic history and the family tree of languages; dialect variation and language standardization; language and gender; language learning by children and adults; the neurology of language and language disorders; the nature and history of writing systems. Intended for any undergraduate interested in language or its use, this course is also recommended as an introduction for students who plan to major in linguistics.
 
 ### Time & Place
-Lecture:  M & W 12-1pm, Location TBD
-Recitation:
-  - R 9:30-10:30am (sections 201, 203 & 205)
-  - R 10:30-11:30am (sections 202, 204 & 206)
-  - R 11-12pm (section 207)
-  - F 12-1pm (section 208)
+
+Lecture | Recitation
+--- | ---
+M & W 12-1pm, Location TBD | 201: R 9:30-10:30am<br>202: R 10:30-11:30am <br>203: R 9:30-10:30am<br>204: R 10:30-11:30am<br>205: R 9:30-10:30am<br>206: R 10:30-11:30am<br>207: R 11-12pm<br>208: F 12-1pm 
   
 ### Materials
 - This webpage for syllabus, schedule, and links to all assigned materials
