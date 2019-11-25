@@ -20,11 +20,9 @@ A general introduction to the nature, history and use of human language, speech 
 ### Time & Place
 
 **Lecture:**
-
   - Mondays & Wednesdays 12-1pm, Location TBD
   
 **Recitation:**
-
   - Thursdays 9:30-10:30am (sections 201, 203 & 205)
   - Thursdays 10:30-11:30am (sections 202, 204 & 206)
   - Fridays 11-12pm (207)
