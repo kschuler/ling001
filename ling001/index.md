@@ -18,15 +18,15 @@ A general introduction to the nature, history and use of human language, speech 
 
 ### Time & Place
 
-**Lecture:**
-  - Mondays & Wednesdays 12-1pm, Location TBD
-  
-**Recitation:**
-  - Thursdays 9:30-10:30am (sections 201, 203 & 205)
-  - Thursdays 10:30-11:30am (sections 202, 204 & 206)
-  - Fridays 11-12pm (207)
-  - Fridays 12-1pm (208)
-  
+```
+  Lecture:  M & W 12-1pm, Location TBD
+  Recitation:
+  - R 9:30-10:30am (sections 201, 203 & 205)
+  - R 10:30-11:30am (sections 202, 204 & 206)
+  - R 11-12pm (section 207)
+  - F 12-1pm (section 208)
+```
+
 ### Materials
 
 ### Evaluation 
@@ -63,7 +63,7 @@ Wk  | Topic | Readings & Resources
 
 ## Resources
 ### Exams
-Exams will test understanding of concepts discussed in lectures and readings. You will be provided with a study guide, practice questions, and solutions to the practice questions for each exam. Exam questions will closely mirror practice questions. 
+There are four exams worth 150 points each, but the lowest exam score is dropped. There is no final exam. Exams will test understanding of concepts discussed in lectures and readings. You will be provided with a study guide, practice questions, and solutions to the practice questions for each exam. Exam questions will closely mirror practice questions. 
 
 ### Linguistics journal
 Grading (50 points total):
