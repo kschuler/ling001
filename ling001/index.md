@@ -35,6 +35,7 @@ A general introduction to the nature, history and use of human language, speech 
 
 
 ## Schedule
+Schedule is tentative and subject to change.
 
 Wk  | Topic | Readings & Resources
   --- | --- | --- 
