@@ -66,11 +66,13 @@ Wk  | Topic | Readings & Resources
 ### Attendance
 There is no formal attendance policy, but attendance is highly correlated with class performance.
 
-### Exam policies
+### Exams
 - Exams will test understanding of concepts discussed in lectures and readings. Exam questions will closely mirror practice questions.
 - **Make-up policy**: Only students with a documented family or medical emergancy will be granted the opportunity to make-up an exam. Email your recitation section TA to make these arrangments.
 - **Rescheduling policy**: Only students with a religious conflict or an official university event may reschedule an exam. In these cases, students must provide documentation and *advanced notice*, so email your recitation section TA as soon as possible. Note that multiple exams on the same day is not a valid reason to reschedule. 
-- **Re-grade requests**: If you feel a grading error has been made, you must make a formal regrade request via canvas. TAs are not allowed to discuss regrading with you until you have made a formal written request.
+
+### Re-grade requests
+If you feel a grading error has been made, you must make a formal regrade request via canvas. TAs are not allowed to discuss regrading with you until you have made a formal written request.
 
 ### Linguistics journal
 Grading (50 points total):
@@ -81,5 +83,6 @@ Grading (50 points total):
 #### If I am happy with my grade on the first three exams, do I have to take the fourth?
 Nope! You can skip the fourth exam if you like and it will be dropped. Your grade will be based on the first three exams.
 
-
+#### If I miss my recitation, can I come to another section that week?
+Yes, but the rooms are small so it's best to email the section TA to let them know.
 
