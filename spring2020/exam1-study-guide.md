@@ -3,7 +3,8 @@ layout: page
 title: Exam 1 Study Guide
 ---
 
-# Exam 1 Study Guide
+<h2 align="center">Exam 1 Study Guide</h2>
+<h3 align="center">Last updated: 2019-11-26</h3>
 
 ## Introduction & Overview
 This resource is not available, yet. Check back closer to the assigned week.
