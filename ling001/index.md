@@ -30,7 +30,7 @@ A general introduction to the nature, history and use of human language, speech 
 ### Materials
 
 ### Evaluation 
-- **Exams (90%)** - There are four [exams](#exams) worth 150 points each, but the lowest exam score is dropped.
+- **Exams (90%)** - There are four [exams](#exams) worth 150 points each, but the lowest exam score is dropped. There is no final exam.
 - **Linguistics journal (10%)** - Each student is required to keep a [linguistics journal](#linguistics-journal) with a minimum of four entries and at least 800 words, worth 50 points.
 
 
