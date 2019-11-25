@@ -67,7 +67,7 @@ Wk  | Topic | Readings & Resources
 
 ## Resources
 ### Exams
-There are four exams worth 150 points each, but the lowest exam score is dropped. There is no final exam. Exams will test understanding of concepts discussed in lectures and readings. You will be provided with a study guide, practice questions, and solutions to the practice questions for each exam. Exam questions will closely mirror practice questions. 
+There are four exams worth 150 points each, but the lowest exam score is dropped. There is no final exam. Exams will test understanding of concepts discussed in lectures and readings. You will be provided with a study guide, practice questions, and solutions to the practice questions for each exam. Exam questions will closely resemble practice questions. 
 
 ### Linguistics journal
 Grading (50 points total):
