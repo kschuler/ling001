@@ -9,13 +9,33 @@ title: LING001
 **Instructor**: [Dr. Kathryn Schuler](mailto:kschuler@sas.upenn.edu)  
 3401-C Walnut Street, Office 314
 
-**Time and place**: Mondays & Wednesdays 12-1pm   
+**TAs**:
+[Yiran Chen]()
+[Lefteries P.]()
+[Ollie Sayyed]()
+[Milena]()
+
+**Time and place**: 
+
+Section | Date and time | Instructor
+--- | --- | --- 
+Lecture 001 | Mon & Wed 12-1pm | Schuler
+Rec 201 | Thurs 9:30 - 10:30am | TBD
+Rec 202 | Thurs 10:30 - 11:30am | TBD
+Rec 203 | Thurs 9:30 - 10:30am | TBD
+Rec 204 | Thurs 10:30 - 11:30am | TBD
+Rec 205 | Thurs 9:30 - 11:30am | TBD
+Rec 206 | Thurs 10:30 - 11:30am | TBD
+Rec 207 | Fri 11 - 12pm | TBD
+Rec 208 | Fri 12 - 1pm | TBD
+
+  
 Location TBD
 
 ## Course description
 
 ### Overview
-In this seminar, we'll read and discuss classic and contemporary theories of the language acquisition process.  Topics include: prosodic, semantic, and syntactic bootstrapping theories, usage-based approaches, formal generative approaches, neural network models and more.  Each week we'll read a paper outlining a theoretical approach paired with either (1) an empirical investigation of the approach, (2) a paper expressing opposition to the approach, or (3) both. We'll discuss the strengths and weakness of both the theories and the empirical studies that investigate them. We'll also consider how one might design future experiments to test these theories.
+A general introduction to the nature, history and use of human language, speech and writing. Topics include the biological basis of human language, and analogous systems in other creatures; relations to cognition, communication, and social organization; sounds, forms and meanings in the world's languages; the reconstruction of linguistic history and the family tree of languages; dialect variation and language standardization; language and gender; language learning by children and adults; the neurology of language and language disorders; the nature and history of writing systems. Intended for any undergraduate interested in language or its use, this course is also recommended as an introduction for students who plan to major in linguistics.
 
 ### Evaluation 
 - Exams (90%) - Four exams. 150 points each. Lowest exam dropped.
