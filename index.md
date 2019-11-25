@@ -4,7 +4,7 @@ title: LING001
 ---
 
 <h2 align="center">Spring 2020 Syllabus</h2>
-<h3 align="center">Warning: Syllabus under construction</h3>
+<h3 align="center">Warning: syllabus under construction</h3>
 
 **Instructor**: [Dr. Kathryn Schuler](mailto:kschuler@sas.upenn.edu)  
 3401-C Walnut Street, Office 314
@@ -29,7 +29,7 @@ Lecture | Recitation
 M & W 12-1pm, Location TBD<br><br><br><br><br><br><br> | 201: R 9:30-10:30am<br>202: R 10:30-11:30am <br>203: R 9:30-10:30am<br>204: R 10:30-11:30am<br>205: R 9:30-10:30am<br>206: R 10:30-11:30am<br>207: R 11-12pm<br>208: F 12-1pm 
   
 ### Materials
-- [Course syllabus](https://www.kathrynschuler.com/courses/ling001/) (this page) for schedule, policies, and links to all assigned materials
+- [Course website](https://www.kathrynschuler.com/courses/ling001/) (you are here) for schedule, policies, and links to all assigned materials
 - [Canvas site](https://canvas.upenn.edu/courses/1489351) for announcements and grade related things
 - [Perusall](https://app.perusall.com/courses/intro-to-linguistics-1) for reading assignments (access code released at first class meeting)
   - Reading assignments will come from The Language Instinct by Steven Pinker and The Language Files
