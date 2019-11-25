@@ -73,7 +73,7 @@ Grading (50 points total):
 - **Attendance**: There is no formal attendance policy, but attendance is highly correlated with class performance.
 - **Make-up exams**: Only students with a documented family or medical emergancy will be granted the opportunity to make-up an exam. Email your recitation section TA to make these arrangments.
 - **Rescheduling exams**: Only students with a religious conflict or an official university event may reschedule an exam. In these cases, students must provide documentation and *advanced notice*, so email your recitation section TA as soon as possible. Note that multiple exams on the same day is not a valid reason to reschedule. 
-- **Re-grade requests**: If you feel a grading error has been made, you must make a formal regrade request via canvas. TAs are not allowed to discuss regrading with you until you have made a formal written request.
+- **Re-grade requests**: If you feel a grading error has been made, you must make a formal regrade request via canvas. TAs are not allowed to discuss regrading with you until you have made a formal written request. If you ask about re-grading in person or via email, you'll be directed to make a formal request via canvas.
 - **Accommodations and non-discrimination**: We are happy to provide accommodations to anyone with documentation from Student Disability Services and to make alternate arrangements when class conflicts with a religious holiday. Please notify your recitation section TA as soon as possible to make these arrangements.
 - **Academic Integrity**: We will follow the rules of the University and the [Code of Academic Integrity](https://catalog.upenn.edu/pennbook/code-of-academic-integrity/).  It is your responsibility to be familiar with these policies.
 
@@ -86,3 +86,5 @@ Grading (50 points total):
 **If I miss my recitation, can I come to another section that week?**
 > Yes, but the rooms are small so it's best to email the section TA to let them know.
 
+**I think you made a mistake grading my exam, what should I do?**
+> We will regrade your exam if you make a formal regrade request via canvas (see regrading policy above).
