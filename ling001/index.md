@@ -10,27 +10,19 @@ title: LING001
 3401-C Walnut Street, Office 314
 
 **TAs**:
-[Yiran Chen]()
-[Lefteries P.]()
-[Ollie Sayyed]()
-[Milena]()
+- [Yiran Chen]()
+- [Lefteries P.]()
+- [Ollie Sayyed]()
+- [Milena]()
 
 **Time and place**: 
-
-Section | Date and time | Instructor
---- | --- | --- 
-Lecture 001 | Mon & Wed 12-1pm | Schuler
-Rec 201 | Thurs 9:30 - 10:30am | TBD
-Rec 202 | Thurs 10:30 - 11:30am | TBD
-Rec 203 | Thurs 9:30 - 10:30am | TBD
-Rec 204 | Thurs 10:30 - 11:30am | TBD
-Rec 205 | Thurs 9:30 - 11:30am | TBD
-Rec 206 | Thurs 10:30 - 11:30am | TBD
-Rec 207 | Fri 11 - 12pm | TBD
-Rec 208 | Fri 12 - 1pm | TBD
-
-  
-Location TBD
+- Lecture: 
+  - Mondays & Wednesdays 12-1pm, Location TBD
+- Recitation:
+  - Thursdays 9:30-10:30am (201, 203, 205)
+  - Thursdays 10:30-11:30am (202, 204, 206)
+  - Fridays 11-12pm (207)
+  - Fridays 12-1pm (208)
 
 ## Course description
 
