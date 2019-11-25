@@ -31,6 +31,9 @@ Recitation:
   - F 12-1pm (section 208)
   
 ### Materials
+- This webpage for syllabus, schedule, and links to all assigned materials
+- Canvas site for announcements and grading related things
+- Perusall for reading assignments
 
 ### Evaluation 
 - **Exams (90%)** - There are four [exams](#exams) worth 150 points each, but the lowest exam score is dropped. There is no final exam.
