@@ -80,9 +80,9 @@ Grading (50 points total):
 • Up to 30 points for insightfulness, creativity, and/or originality and for linking your observations with class lectures and/or readings. Assume that the reader has the class knowledge – that is, do not explain class materials. Best strategy: start early!
 
 ## FAQs
-#### If I am happy with my grade on the first three exams, do I have to take the fourth?
-Nope! You can skip the fourth exam if you like and it will be dropped. Your grade will be based on the first three exams.
+**If I am happy with my grade on the first three exams, do I have to take the fourth?**
+> Nope! You can skip the fourth exam if you like and it will be dropped. Your grade will be based on the first three exams.
 
-#### If I miss my recitation, can I come to another section that week?
-Yes, but the rooms are small so it's best to email the section TA to let them know.
+**If I miss my recitation, can I come to another section that week?**
+> Yes, but the rooms are small so it's best to email the section TA to let them know.
 
