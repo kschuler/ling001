@@ -89,3 +89,7 @@ Grading (50 points total):
 
 **I think you made a mistake grading my exam, what should I do?**
 > We will regrade your exam if you make a formal regrade request via canvas (see regrading policy above).
+
+**What if I miss or fail an exam?**
+> We drop your lowest exam score, so you don't have to worry if this happens. Just make sure it doesn't happen more than once! 
+
