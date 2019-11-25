@@ -9,8 +9,7 @@ title: LING001
 **Instructor**: [Dr. Kathryn Schuler](mailto:kschuler@sas.upenn.edu)  
 3401-C Walnut Street, Office 314
 
-**TAs**: [Yiran Chen](), [Lefteries P.](), [Ollie Sayyed]() & [Milena]()
-
+**TAs**: TBA
 
 ## Course description
 
@@ -27,15 +26,17 @@ A general introduction to the nature, history and use of human language, speech 
   - Thursdays 10:30-11:30am (sections 202, 204 & 206)
   - Fridays 11-12pm (207)
   - Fridays 12-1pm (208)
+  
+### Materials
 
 ### Evaluation 
-- Exams (90%) - Four exams. 150 points each. Lowest exam dropped.
-- Language journal (10%) - 50 points.
+- Exams (90%) - There are four exams, but the lowest exam score is dropped. The remaining 3 exams are worth 150 points each.
+- Linguistics journal (10%) - Each student is required to keep a linguistics journal with a minimum of four entries and 800 words, worth 50 points.
 
 
 ## Schedule
 
-Wk  | Topic | Readings & Practice Problems
+Wk  | Topic | Readings & Resources
   --- | --- | --- 
 1 | Jan 15: Intro | 
 2 | Jan 20: **No Class MLK Day**<br>Jan 22: Instinct I | [LangFiles Ch. 1]()
@@ -54,22 +55,31 @@ Wk  | Topic | Readings & Practice Problems
 15 | Apr 20:  Variation I<br> Apr 22: VariationII | Reading
 16 | Apr 27: Historical<br>Apr 29: **Exam 4** | [Exam 4 Study Guide]()<br>[Practice Questions]() / [Solutions]()
 
+## How to do well
+- Come to class and do the assigned readings
+- Attempt the practice problems and check your answers against the solutions
+- Come prepared to recitation. Ask questions about the course material and for help on practice problems you had trouble with
+
+
 ## Policies
 
-## Resources
+### Attendance
+There is no formal attendance policy, but attendance is highly correlated with class performance.
+
+### Exam policies
+- Exams will test understanding of concepts discussed in lectures and readings. Exam questions will closely mirror practice questions.
+- **Make-up policy**: Only students with a documented family or medical emergancy will be granted the opportunity to make-up an exam. Email your recitation section TA to make these arrangments.
+- **Rescheduling policy**: Only students with a religious conflict or an official university event may reschedule an exam. In these cases, students must provide documentation and *advanced notice*, so email your recitation section TA as soon as possible. Note that multiple exams on the same day is not a valid reason to reschedule. 
+- **Re-grade requests**: If you feel a grading error has been made, you must make a formal regrade request via canvas. TAs are not allowed to discuss regrading with you until you have made a formal written request.
+
+### Linguistics journal
 Grading (50 points total):
 • 5 points for each relevant observation (20 max).
 • Up to 30 points for insightfulness, creativity, and/or originality and for linking your observations with class lectures and/or readings. Assume that the reader has the class knowledge – that is, do not explain class materials. Best strategy: start early!
 
-### Discussion question instructions
-
-* Please post 5-8 discussion questions on [Canvas](https://canvas.upenn.edu/) by midnight on Monday before class. Your questions should reflect your understanding and thoughts on the assigned readings and will serve as the basis for our in-class discussion. These posting are meant to be very informal – a simple list of questions will suffice, but a narrative style is fine, too, if you prefer that.  There are no formatting restrictions.
-
-### Research proposal instructions
-
-* [Research proposal](spring2019/research-proposal.html)
-* [In-class peer review](spring2019/research-proposal.html#in-class-peer-review)
-* [Written response to reviews](spring2019/research-proposal.html#written-response-to-reviews)
+## FAQs
+#### If I am happy with my grade on the first three exams, do I have to take the fourth?
+Nope! You can skip the fourth exam if you like and it will be dropped. Your grade will be based on the first three exams.
 
 
-## Readings
+
