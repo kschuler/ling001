@@ -21,7 +21,7 @@ dark_nav: false              # keep header and footer dark (applies only when st
 dark_theme: false            # enables dark mode
 
 navigation:                  # (optional) site navigation in the header
-   Announcements: index.htm#announcements
+   Announcements: index.html#announcements
    Schedule: index.html#schedule
    Canvas: https://canvas.upenn.edu/courses/1489351
    Readings: https://app.perusall.com/courses/intro-to-linguistics-1/_/dashboard/assignments
