@@ -12,16 +12,19 @@ title: LING001
 **TAs**: [Yiran Chen](), [Lefteries P.](), [Ollie Sayyed]() & [Milena]()
 
 
-
 ## Course description
 
 ### Overview
 A general introduction to the nature, history and use of human language, speech and writing. Topics include the biological basis of human language, and analogous systems in other creatures; relations to cognition, communication, and social organization; sounds, forms and meanings in the world's languages; the reconstruction of linguistic history and the family tree of languages; dialect variation and language standardization; language and gender; language learning by children and adults; the neurology of language and language disorders; the nature and history of writing systems. Intended for any undergraduate interested in language or its use, this course is also recommended as an introduction for students who plan to major in linguistics.
 
 ### Time & Place
+
 **Lecture: **
+
   - Mondays & Wednesdays 12-1pm, Location TBD
+  
 **Recitation:**
+
   - Thursdays 9:30-10:30am (sections 201, 203 & 205)
   - Thursdays 10:30-11:30am (sections 202, 204 & 206)
   - Fridays 11-12pm (207)
