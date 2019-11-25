@@ -9,25 +9,23 @@ title: LING001
 **Instructor**: [Dr. Kathryn Schuler](mailto:kschuler@sas.upenn.edu)  
 3401-C Walnut Street, Office 314
 
-**TAs**:
-- [Yiran Chen]()
-- [Lefteries P.]()
-- [Ollie Sayyed]()
-- [Milena]()
+**TAs**: [Yiran Chen](), [Lefteries P.](), [Ollie Sayyed]() & [Milena]()
 
-**Time and place**: 
-- Lecture: 
-  - Mondays & Wednesdays 12-1pm, Location TBD
-- Recitation:
-  - Thursdays 9:30-10:30am (201, 203, 205)
-  - Thursdays 10:30-11:30am (202, 204, 206)
-  - Fridays 11-12pm (207)
-  - Fridays 12-1pm (208)
+
 
 ## Course description
 
 ### Overview
 A general introduction to the nature, history and use of human language, speech and writing. Topics include the biological basis of human language, and analogous systems in other creatures; relations to cognition, communication, and social organization; sounds, forms and meanings in the world's languages; the reconstruction of linguistic history and the family tree of languages; dialect variation and language standardization; language and gender; language learning by children and adults; the neurology of language and language disorders; the nature and history of writing systems. Intended for any undergraduate interested in language or its use, this course is also recommended as an introduction for students who plan to major in linguistics.
+
+### Time & Place
+**Lecture: **
+  - Mondays & Wednesdays 12-1pm, Location TBD
+**Recitation:**
+  - Thursdays 9:30-10:30am (sections 201, 203 & 205)
+  - Thursdays 10:30-11:30am (sections 202, 204 & 206)
+  - Fridays 11-12pm (207)
+  - Fridays 12-1pm (208)
 
 ### Evaluation 
 - Exams (90%) - Four exams. 150 points each. Lowest exam dropped.
