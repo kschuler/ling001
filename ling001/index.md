@@ -34,7 +34,7 @@ M & W 12-1pm, Location TBD<br><br><br><br><br><br><br> | 201: R 9:30-10:30am<br>
 - [Perusall](https://app.perusall.com/courses/intro-to-linguistics-1) for reading assignments (access code released at first class meeting)
 
 ### Evaluation 
-- **Exams (90%)** - There are four [exams](#exams) worth 150 points each, but the lowest exam score is dropped. There is no final exam.
+- **Exams (90%)** - There are four [exams](#exams) worth 150 points each, but the lowest exam score is dropped. 
 - **Linguistics journal (10%)** - Each student is required to keep a [linguistics journal](#linguistics-journal) with a minimum of four entries and at least 800 words, worth 50 points.
 
 
@@ -55,10 +55,10 @@ Wk  | Topic | Readings & Resources
 10 | Mar 16: Morphology-Syntax<br>Mar 18: Synax I | [Santorini & Kroch Ch. 1]()
 11 | Mar 23: Syntax II<br>Mar 25: Syntax III |  [Santorini & Kroch Ch. 2]()
 12 | Mar 30: Syntax IV<br> Apr 1: ASL | [Santorini & Kroch Ch. 4 & 5]()
-13 | Apr 6: **Exam 3**<br> Apr 8: Semantics | [Exam 3 Study Guide]()<br>[Practice Questions]() / [Solutions]()
+13 | Apr 6: **Exam 3**<br> Apr 8: Semantics | [Exam 3 Study Guide](404)<br>[Practice Questions]() / [Solutions]()
 14 | Apr 13: Pragmatics<br>April 15: | Reading
 15 | Apr 20:  Variation I<br> Apr 22: VariationII | Reading
-16 | Apr 27: Historical<br>Apr 29: **Exam 4** | [Exam 4 Study Guide]()<br>[Practice Questions]() / [Solutions]()
+16 | Apr 27: Historical<br>Apr 29: **Exam 4** | [Exam 4 Study Guide](404)<br>[Practice Questions]() / [Solutions]()
 
 ## How to do well
 - Come to class and do the assigned readings
