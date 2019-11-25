@@ -43,8 +43,8 @@ Schedule is tentative and subject to change.
 
 Wk  | Topic | Readings & Resources
   --- | --- | --- 
-1 | Jan 15: Introduction & Overview | 
-2 | Jan 20: **No Class MLK Day**<br>Jan 22: Language as an Instinct | The Language Instinct Ch. 1<br>The Language Files Ch. 1
+1 | Jan 15: Introduction & Overview | The Language Files Ch. 1
+2 | Jan 20: **No Class MLK Day**<br>Jan 22: Language as an Instinct | The Language Instinct Ch. 1
 3 | Jan 27: Language Acquisition I<br>Jan 29: Language Acquisition II  | The Language Instinct Ch. 9<br>The Language Files Ch. 8
 4 | Feb 3: General Features of Human Languages<br>Feb 5: Animal Communication   | The Language Instinct Ch. 2 & 11<br> The Language Files Ch. 14
 5 | Feb 10: **Exam 1** <br> Feb 12: Phon I |  [Exam 1 Study Guide](not-yet)<br>[Practice Questions](not-yet) / [Solutions](not-yet)
