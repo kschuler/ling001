@@ -26,12 +26,12 @@ A general introduction to the nature, history and use of human language, speech 
 
 Lecture | Recitation
 --- | ---
-M & W 12-1pm<br>Location TBD<br><br><br><br><br> | 201: R 9:30-10:30am<br>202: R 10:30-11:30am <br>203: R 9:30-10:30am<br>204: R 10:30-11:30am<br>205: R 9:30-10:30am<br>206: R 10:30-11:30am<br>207: R 11-12pm<br>208: F 12-1pm 
+M & W 12-1pm, Location TBD<br><br><br><br><br><br><br> | 201: R 9:30-10:30am<br>202: R 10:30-11:30am <br>203: R 9:30-10:30am<br>204: R 10:30-11:30am<br>205: R 9:30-10:30am<br>206: R 10:30-11:30am<br>207: R 11-12pm<br>208: F 12-1pm 
   
 ### Materials
-- This webpage for syllabus, schedule, and links to all assigned materials
-- Canvas site for announcements and grading related things
-- Perusall for reading assignments
+- [Course syllabus](https://www.kathrynschuler.com/courses/ling001/) (this page) for schedule, policies, and links to all assigned materials
+- [Canvas site](https://canvas.upenn.edu/courses/1489351) for announcements and grade related things
+- [Perusall](https://app.perusall.com/courses/intro-to-linguistics-1) for reading assignments (access code released at first class meeting)
 
 ### Evaluation 
 - **Exams (90%)** - There are four [exams](#exams) worth 150 points each, but the lowest exam score is dropped. There is no final exam.
