@@ -5,6 +5,7 @@ title: LING001
 
 <h2 align="center">LING001: Intro to Linguistics</h2>
 <h3 align="center">Spring 2020 Syllabus</h3>
+<h4 align="center">Warning: Syllabus under construction<h4>
 
 **Instructor**: [Dr. Kathryn Schuler](mailto:kschuler@sas.upenn.edu)  
 3401-C Walnut Street, Office 314
@@ -35,8 +36,10 @@ M & W 12-1pm, Location TBD<br><br><br><br><br><br><br> | 201: R 9:30-10:30am<br>
 
 ### Evaluation 
 - **Exams (90%)** - There are four [exams](#exams) worth 150 points each, but the lowest exam score is dropped. 
-- **Linguistics journal (10%)** - Each student is required to keep a [linguistics journal](#linguistics-journal) with a minimum of four entries and at least 800 words, worth 50 points.
+- **Language journal (10%)** - Each student is required to keep a [language journal](#language-journal) with a minimum of four entries and at least 800 words, worth 50 points.
 
+### Extra Credit
+-  Earn 5 bonus points for each hour of research participation via SONA and 5 bonus points for attending any [ILST seminar](http://web.sas.upenn.edu/lcs/news-events/ilst-seminar/) or other language relevant talk (limit 15 points per semester). You may also write about these experiences as entries in your language journal.
 
 ## Schedule
 Schedule is tentative and subject to change.
@@ -69,7 +72,7 @@ Wk  | Topic | Readings & Resources
 ### Exams
 There are four exams worth 150 points each, but the lowest exam score is dropped. There is no final exam. Exams will test understanding of concepts discussed in lectures and readings. You will be provided with a study guide, practice questions, and solutions to the practice questions for each exam. Exam questions will closely resemble practice questions. 
 
-### Linguistics journal
+### Language journal
 Grading (50 points total):
 • 5 points for each relevant observation (20 max).
 • Up to 30 points for insightfulness, creativity, and/or originality and for linking your observations with class lectures and/or readings. Assume that the reader has the class knowledge – that is, do not explain class materials. Best strategy: start early!
