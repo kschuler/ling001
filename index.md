@@ -75,9 +75,7 @@ Wk  | Topic | Readings & Resources
 There are four exams worth 150 points each, but the lowest exam score is dropped. There is no final exam. Exams will test understanding of concepts discussed in lectures and readings. You will be provided with a study guide, practice questions, and solutions to the practice questions for each exam. Exam questions will closely resemble practice questions. 
 
 ### Language journal
-Grading (50 points total):
-• 5 points for each relevant observation (20 max).
-• Up to 30 points for insightfulness, creativity, and/or originality and for linking your observations with class lectures and/or readings. Assume that the reader has the class knowledge – that is, do not explain class materials. Best strategy: start early!
+Each student is required to keep a [language journal](resources/language-journal-assignment) with a minimum of four entries and at least 800 words, worth 50 points. You will receive 5 points for each relevant observation (20 max) and up to 30 points for being insightful, creative, and linking your observations with lecture and/or readings. 
 
 ## Policies
 - **Attendance**: There is no formal attendance policy, but attendance is highly correlated with class performance.
