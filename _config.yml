@@ -23,11 +23,9 @@ dark_theme: false            # enables dark mode
 
 navigation:                  # (optional) site navigation in the header
    Home: index.html
-   Announcements: index.html#announcements
    Schedule: index.html#schedule
    Policies: index.html#policies
    Canvas: https://canvas.upenn.edu/courses/1489351
-   Readings: https://app.perusall.com/courses/intro-to-linguistics-1/_/dashboard/assignments
 
 icons:                       # show icons in the header, for all possible icons see http://fontawesome.io/icons/
   github: "https://github.com/kschuler"
