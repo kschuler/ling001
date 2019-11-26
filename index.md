@@ -29,7 +29,7 @@ Lecture | Recitation sections
 Mondays & Wednesdays 12-1pm with Katie<br>Location TBD<br><br><br><br><br><br> | 201 - Thursdays 9:30-10:30am<br>202 - Thursdays 10:30-11:30am <br>203 - Thursdays 9:30-10:30am<br>204 - Thursdays 10:30-11:30am<br>205 - Thursdays 9:30-10:30am<br>206 - Thursdays 10:30-11:30am<br>207 - Fridays 11-12pm<br>208 - Fridays 12-1pm 
   
 ### Materials
-- [Course website](https://www.kathrynschuler.com/courses/ling001/) (you are here) for schedule, policies, and links to all assigned materials
+- [Course website](index.html) (you are here) for schedule, policies, and links to all assigned materials
 - [Canvas site](https://canvas.upenn.edu/courses/1489351) for announcements and grade related things
 - [Perusall](https://app.perusall.com/courses/intro-to-linguistics-1) for reading assignments (access code released at first class meeting)
   - Reading assignments will come from The Language Instinct by Steven Pinker and The Language Files
@@ -39,7 +39,7 @@ Mondays & Wednesdays 12-1pm with Katie<br>Location TBD<br><br><br><br><br><br> |
 - **Language journal (10%)** - Each student is required to keep a [language journal](#language-journal) with a minimum of four entries and at least 800 words, worth 50 points.
 
 ### Extra Credit
--  Earn 5 bonus points for each hour of research participation via SONA and 5 bonus points for attending any [ILST seminar](http://web.sas.upenn.edu/lcs/news-events/ilst-seminar/) or other language relevant talk (limit 15 points per semester). You may also write about these experiences as entries in your language journal.
+-  Earn 5 bonus points for each hour of research participation via SONA and 5 bonus points for attending any [ILST seminar](http://web.sas.upenn.edu/lcs/news-events/ilst-seminar/) or other language relevant talk on canvas (limit 15 points per semester). You may also write about these experiences as entries in your language journal.
 
 ## Schedule
 Schedule is tentative and subject to change.
