@@ -115,4 +115,4 @@ F | < 61% to 0%
 > Yes, but there is a 5 point per day late penalty.
 
 **I participated in an experiment (or attended a talk). When will I get my bonus points?**
-To receive bonus points, you must (1) make a bonus points declaration on canvas and (2) write about your research experience in your language journal. Your bonus points will be awarded as soon as you make your declaration, but we will check your journal (and SONA records, if you participated in an experiment) to confirm these points at the end of the semester.
+> To receive bonus points, you must (1) make a bonus points declaration on canvas and (2) write about your research experience in your language journal. Your bonus points will be awarded as soon as you make your declaration, but we will check your journal (and SONA records, if you participated in an experiment) to confirm these points at the end of the semester.
