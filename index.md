@@ -89,10 +89,10 @@ F | < 61% to 0%
 
 ## Policies
 - **Attendance**: There is no formal attendance policy, but attendance is highly correlated with class performance.
-- **Make-up exams**: Only students with a documented family or medical emergancy will be granted the opportunity to make-up an exam. Email your recitation section TA to make these arrangments.
-- **Rescheduling exams**: Only students with a religious conflict or an official university event may reschedule an exam. In these cases, students must provide documentation and *advanced notice*, so email your recitation section TA as soon as possible. Note that multiple exams on the same day is not a valid reason to reschedule. 
+- **Make-up exams**: Only students with a documented family or medical emergancy will be granted the opportunity to make-up an exam. Send a Canvas message to your recitation section TA to make these arrangments.
+- **Rescheduling exams**: Only students with a religious conflict or an official university event may reschedule an exam. In these cases, students must provide documentation and *advanced notice*, so send a Canvas message to your recitation section TA as soon as possible. Note that multiple exams on the same day is not a valid reason to reschedule. 
 - **Late assignments**: Late language journals will be accepted with a 5 point per day late penalty.
-- **Re-grade requests**: If you feel a grading error has been made, you must make a formal regrade request via canvas *within four days of receiving your graded exam or assignment*. TAs are not allowed to discuss your grade with you until you have made a formal written request. If you ask about grading in person or via email, you'll be directed to make a formal request via canvas. 
+- **Re-grade requests**: If you feel a grading error has been made, you must make a formal regrade request via canvas *within four days of receiving your graded exam or assignment*. TAs are not allowed to discuss your grade with you until you have made a formal written request. If you ask about grading in person or via email or Canvas, you'll be directed to make a formal request via canvas. 
 - **Accommodations and non-discrimination**: We are happy to provide accommodations to anyone with documentation from Student Disability Services and to make alternate arrangements when class conflicts with a religious holiday. Please notify your recitation section TA as soon as possible to make these arrangements.
 - **Academic Integrity**: We will follow the rules of the University and the [Code of Academic Integrity](https://catalog.upenn.edu/pennbook/code-of-academic-integrity/).  It is your responsibility to be familiar with these policies.
 
@@ -109,7 +109,7 @@ F | < 61% to 0%
 > We will regrade your exam if you make a formal regrade request via Canvas within the regrading window.
 
 **I missed or failed an exam. What can I do to make it up?**
-> Nothing. We don't allow make-up exams or retakes. However, we drop your lowest exam score, so this shouldn't be a problem. Just make sure it doesn't happen more than once! 
+> Nothing. We don't allow make-up exams or retakes. However, we drop your lowest exam score, so you can still do well in the class. Just make sure it doesn't happen more than once! 
 
 **Can I turn in my language journal late?** 
 > Yes, but there is a 5 point per day late penalty.
