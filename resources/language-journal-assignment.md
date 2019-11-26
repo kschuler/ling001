@@ -7,7 +7,7 @@ title: Language Journal Assignment
 <h3 align="center">Spring 2020</h3>
 
 ## Observing language in the wild
-Language is such a central part of our everyday experience that we often take it for granted. This semester, pay special attention to the language in the world around you and think about how what you hear (or see) is connected to what we learn about in class.
+Language is such a central part of our everyday experience that we often take it for granted. This semester, pay special attention to the language in the world around you and think about how what you hear (or see) is connected to what we learn about in class. Some suggestions (but you are not limited by these!):
 - Notice whether language is used in the same or different ways across different groups of people (age groups, peer groups, etc)
 - If you visit family over the holiday break, notice how the language or dialect you grew up with is different from what you hear at Penn.
 - Find out whether your roomates grammar allows something that yours doesn't (e.g. "I'm done my homework").
