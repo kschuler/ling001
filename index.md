@@ -78,7 +78,7 @@ There are four exams worth 150 points each, but the lowest exam score is dropped
 Each student is required to keep a [language journal](resources/language-journal-assignment) with a minimum of four entries and at least 800 words, worth 50 points. You will receive 5 points for each relevant observation (20 max) and up to 30 points for being insightful, creative, and linking your observations with lecture and/or readings. 
 
 ### Grading scale
-
+Minimum score before rounding.
 
 A+ | 100% to 97% | A | < 97% to 93% | A- | < 93% to 90%
 --- | --- | --- | --- | --- | ---
