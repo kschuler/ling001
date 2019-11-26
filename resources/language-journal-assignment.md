@@ -14,7 +14,7 @@ Language is such a central part of our everyday experience that we often take it
 - Participate in a linguistics research experiment via SONA 
 - Conduct your own linguistics experiment. Analyze existing data or conduct an experiment with your family or friends 
 - Read a research article on a linguistics topic that interests you
-- Browse the language log blog at Penn for interesting articles
+- Browse the [language log](https://languagelog.ldc.upenn.edu/nll/) at Penn for interesting ideas
 - Attend a talk or event related to language at Penn 
 - Any creative idea you have! Feel free to include diagrams, sound clips, or figures if it will help make your point.
 
