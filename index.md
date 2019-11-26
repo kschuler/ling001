@@ -80,7 +80,7 @@ Each student is required to keep a [language journal](resources/language-journal
 ### Grading scale
 
 Letter | Percentage
----: | :---
+:--- | :---
 A+ | 100% to 97%
 A | < 97% to 93%
 A- | < 93% to 90%
