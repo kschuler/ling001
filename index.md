@@ -17,9 +17,9 @@ title: LING001
 Welcome to LING001!
 ```
 
-## Course description
+## Overview
 
-### Overview
+### Description
 A general introduction to the nature, history and use of human language, speech and writing. Topics include the biological basis of human language, and analogous systems in other creatures; relations to cognition, communication, and social organization; sounds, forms and meanings in the world's languages; the reconstruction of linguistic history and the family tree of languages; dialect variation and language standardization; language and gender; language learning by children and adults; the neurology of language and language disorders; the nature and history of writing systems. Intended for any undergraduate interested in language or its use, this course is also recommended as an introduction for students who plan to major in linguistics.
 
 ### Time & Place
@@ -29,9 +29,12 @@ Lecture | Recitation sections
 Mondays & Wednesdays 12-1pm with Katie<br>Location TBD<br><br><br><br><br><br> | 201 - Thursdays 9:30-10:30am<br>202 - Thursdays 10:30-11:30am <br>203 - Thursdays 9:30-10:30am<br>204 - Thursdays 10:30-11:30am<br>205 - Thursdays 9:30-10:30am<br>206 - Thursdays 10:30-11:30am<br>207 - Fridays 11-12pm<br>208 - Fridays 12-1pm 
   
 ### Materials
-- [Course website](index.html) (you are here) for schedule, policies, and links to all assigned materials
-- [Canvas site](https://canvas.upenn.edu/courses/1489351) for announcements and grade related things
-- [Perusall](https://app.perusall.com/courses/intro-to-linguistics-1) for reading assignments (access code released at first class meeting)
+
+**[Course website](index.html)** (you are here) for schedule, policies, and links to all assigned materials
+
+**[Canvas site](https://canvas.upenn.edu/courses/1489351)** for announcements and grade related things
+
+**[Perusall](https://app.perusall.com/courses/intro-to-linguistics-1)** for reading assignments (access code released at first class meeting)
   - Reading assignments will come from The Language Instinct by Steven Pinker and The Language Files
 
 ### Evaluation 
@@ -82,24 +85,24 @@ Grading (50 points total):
 - **Make-up exams**: Only students with a documented family or medical emergancy will be granted the opportunity to make-up an exam. Email your recitation section TA to make these arrangments.
 - **Rescheduling exams**: Only students with a religious conflict or an official university event may reschedule an exam. In these cases, students must provide documentation and *advanced notice*, so email your recitation section TA as soon as possible. Note that multiple exams on the same day is not a valid reason to reschedule. 
 - **Late assignments**: Late language journals will be accepted with a 5 point per day late penalty.
-- **Re-grade requests**: If you feel a grading error has been made, you must make a formal regrade request via canvas *within one week of receiving your graded exam or assignment*. TAs are not allowed to discuss regrading with you until you have made a formal written request. If you ask about regrading in person or via email, you'll be directed to make a formal request via canvas.
+- **Re-grade requests**: If you feel a grading error has been made, you must make a formal regrade request via canvas *within four days of receiving your graded exam or assignment*. TAs are not allowed to discuss your grade with you until you have made a formal written request. If you ask about grading in person or via email, you'll be directed to make a formal request via canvas. 
 - **Accommodations and non-discrimination**: We are happy to provide accommodations to anyone with documentation from Student Disability Services and to make alternate arrangements when class conflicts with a religious holiday. Please notify your recitation section TA as soon as possible to make these arrangements.
 - **Academic Integrity**: We will follow the rules of the University and the [Code of Academic Integrity](https://catalog.upenn.edu/pennbook/code-of-academic-integrity/).  It is your responsibility to be familiar with these policies.
 
 
 
 ## FAQs
-**If I am happy with my grade on the first three exams, do I have to take the fourth?**
-> Nope! You can skip the fourth exam and it will be dropped. Your grade will be based on the first three exams.
+**Can I skip the fourth exam if I am happy with my grade on the first three?**
+> Yes! You can skip the fourth exam and it will be dropped. Your grade will be based on the first three exams.
 
-**If I miss my recitation, can I come to another section that week?**
+**If I miss recitation can I come to another recitation section that week?**
 > Yes, but the rooms are small so it's best to email the section TA to let them know.
 
-**I think you made a mistake grading my exam, what should I do?**
-> We will regrade your exam if you make a formal regrade request via canvas by the deadline (see regrading policy above).
+**I noticed a mistake in the grading of my exam. How do I get this fixed?**
+> We will regrade your exam if you make a formal regrade request via Canvas within the regrading window.
 
-**What if I miss or fail an exam?**
-> We drop your lowest exam score, so this is no problem. Just make sure it doesn't happen more than once! 
+**I missed or failed an exam. What can I do to make it up?**
+> Nothing. We don't allow make-up exams or retakes. However, we drop your lowest exam score, so this shouldn't be a problem. Just make sure it doesn't happen more than once! 
 
 **Can I turn in my language journal late?** 
 > Yes, but there is a 5 point per day late penalty.
