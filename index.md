@@ -37,10 +37,10 @@ M & W 12-1pm with Katie<br>Location TBD<br><br><br><br><br><br> | 201 - R 9:30-1
 
 ### Evaluation 
 - **Exams (90%)** - There are four [exams](#exams) worth 150 points each, but the lowest exam score is dropped. 
-- **Language journal (10%)** - Each student is required to keep a [language journal](#language-journal) with a minimum of four entries and at least 800 words, worth 50 points.
+- **Language journal (10%)** - Each student is required to keep a [language journal](#resources/language-journal-assignment) with a minimum of four entries and at least 800 words, worth 50 points.
 
 ### Extra Credit
--  **Research bonus:** Earn 5 bonus points for each hour of research participation via SONA and/or 5 bonus points for attending a language-related talk or event on campus (limit 15 total points per semester). You must also write about these experiences as entries in your language journal.
+-  **Research bonus:** Earn 5 bonus points for each hour of research participation via SONA and/or 5 bonus points for attending a language-related talk or event on campus (limit 15 total points per semester).
 - **Reading bonus:** Earn 10 bonus points by being a member of the recitation section with the most engagement on perusall.
 
 ## Schedule
@@ -68,16 +68,18 @@ Wk  | Topic | Readings & Resources
 ## How to do well in LING 1
 - Come to class and do the assigned readings
 - Attempt the practice problems and check your answers against the solutions
-- Come prepared to recitation. Ask questions about the course material and for help on practice problems you had trouble with
+- Come prepared to recitation. Ask questions about the course material and for help on practice problems you had trouble with 
 
-## Resources
-### Exams
-There are four exams worth 150 points each, but the lowest exam score is dropped. There is no final exam. Exams will test understanding of concepts discussed in lectures and readings. You will be provided with a study guide, practice questions, and solutions to the practice questions for each exam. Exam questions will closely resemble practice questions. 
+## Policies
+- **Attendance**: There is no formal attendance policy, but attendance is highly correlated with class performance.
+- **Make-up exams**: Only students with a documented family or medical emergancy will be granted the opportunity to make-up an exam. Send a Canvas message to your recitation section TA to make these arrangments.
+- **Rescheduling exams**: Only students with a religious conflict or an official university event may reschedule an exam. In these cases, students must provide documentation and *advanced notice*, so send a Canvas message to your recitation section TA as soon as possible. Note that multiple exams on the same day is not a valid reason to reschedule. 
+- **Late assignments**: Late language journals will be accepted with a 5 point per day late penalty.
+- **Re-grade requests**: If you feel a grading error has been made, you must make a formal regrade request via canvas *within four days of receiving your graded exam or assignment*. TAs are not allowed to discuss your grade with you until you have made a formal written request. If you ask about grading in person or via email, you'll be directed to make a formal request via the regrade request form. 
+- **Accommodations and non-discrimination**: We are happy to provide accommodations to anyone with documentation from Student Disability Services and to make alternate arrangements when class conflicts with a religious holiday. Please notify your recitation section TA as soon as possible to make these arrangements.
+- **Academic Integrity**: We will follow the rules of the University and the [Code of Academic Integrity](https://catalog.upenn.edu/pennbook/code-of-academic-integrity/).  It is your responsibility to be familiar with these policies.
 
-### Language journal
-Each student is required to keep a [language journal](resources/language-journal-assignment) with a minimum of four entries and at least 800 words, worth 50 points. You will receive 5 points for each relevant observation (20 max) and up to 30 points for being insightful, creative, and linking your observations with lecture and/or readings. 
-
-### Grading scale
+## Grading scale
 Minimum score before rounding.
 
 A+ | 100% to 97% | A | < 97% to 93% | A- | < 93% to 90%
@@ -86,16 +88,6 @@ B+ | < 90% to 87% | B | < 87% to 84% | B- | < 84% to 80%
 C+ | < 80% to 77% | C | < 77% to 74% | C- | < 74% to 70%
 D+ | < 70% to 67% | D | < 67% to 64% | D- | < 64% to 61%
 F | < 61% to 0%
-
-## Policies
-- **Attendance**: There is no formal attendance policy, but attendance is highly correlated with class performance.
-- **Make-up exams**: Only students with a documented family or medical emergancy will be granted the opportunity to make-up an exam. Send a Canvas message to your recitation section TA to make these arrangments.
-- **Rescheduling exams**: Only students with a religious conflict or an official university event may reschedule an exam. In these cases, students must provide documentation and *advanced notice*, so send a Canvas message to your recitation section TA as soon as possible. Note that multiple exams on the same day is not a valid reason to reschedule. 
-- **Late assignments**: Late language journals will be accepted with a 5 point per day late penalty.
-- **Re-grade requests**: If you feel a grading error has been made, you must make a formal regrade request via canvas *within four days of receiving your graded exam or assignment*. TAs are not allowed to discuss your grade with you until you have made a formal written request. If you ask about grading in person or via email or Canvas, you'll be directed to make a formal request via the regrade request form. 
-- **Accommodations and non-discrimination**: We are happy to provide accommodations to anyone with documentation from Student Disability Services and to make alternate arrangements when class conflicts with a religious holiday. Please notify your recitation section TA as soon as possible to make these arrangements.
-- **Academic Integrity**: We will follow the rules of the University and the [Code of Academic Integrity](https://catalog.upenn.edu/pennbook/code-of-academic-integrity/).  It is your responsibility to be familiar with these policies.
-
 
 
 ## FAQs
