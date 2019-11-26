@@ -46,22 +46,22 @@ Schedule is tentative and subject to change.
 
 Wk  | Topic | Readings & Resources
   --- | --- | --- 
-1 | Jan 15: Introduction & Overview | The Language Files Ch. 1
-2 | Jan 20: **No Class MLK Day**<br>Jan 22: Language as an Instinct | The Language Instinct Ch. 1
-3 | Jan 27: Language Acquisition I<br>Jan 29: Language Acquisition II  | The Language Instinct Ch. 9<br>The Language Files Ch. 8
-4 | Feb 3: General Features of Human Languages<br>Feb 5: Animal Communication   | The Language Instinct Ch. 2 & 11<br> The Language Files Ch. 14
-5 | Feb 10: **Exam 1** <br> Feb 12: Phon I |  [Exam 1 Study Guide](resources/exam1-study-guide)<br>[Practice Questions](resources/exam1-practice-questions) / [Solutions](not-yet)
+1 | Jan 15: Introduction & Overview | Lang Files 1
+2 | Jan 20: **No Class MLK Day**<br>Jan 22: Language as an Instinct | Lang Instinct 1
+3 | Jan 27: Language Acquisition I<br>Jan 29: Language Acquisition II  | Lang Instinct 9<br>Lang Files 8
+4 | Feb 3: Features of Human Languages<br>Feb 5: Animal Communication   | The Language Instinct 2 & 11<br> Lang Files 14
+5 | Feb 10: **Exam 1** <br> Feb 12: Phon I |  [Study Guide](resources/exam1-study-guide)<br>[Practice Questions](resources/exam1-practice-questions) / [Solutions](not-yet)
 6 | Feb 17: Phon II<br>Feb 19: Phon III | 
 7 | Feb 24: Phon IV<br>Feb 26: Morphology I | 
-8 | Mar 2: Morphology II<br>Mar 4: **Exam 2** | [Exam 2 Study Guide](not-yet)<br>[Practice Questions](not-yet) / [Solutions](not-yet)
+8 | Mar 2: Morphology II<br>Mar 4: **Exam 2** | [Study Guide](not-yet)<br>[Practice Questions](not-yet) / [Solutions](not-yet)
 9 | **No Class Spring Break** |  
 10 | Mar 16: Morphology-Syntax<br>Mar 18: Synax I | 
 11 | Mar 23: Syntax II<br>Mar 25: Syntax III |  
 12 | Mar 30: Syntax IV<br> Apr 1: ASL | 
-13 | Apr 6: **Exam 3**<br> Apr 8: Semantics | [Exam 3 Study Guide](not-yet)<br>[Practice Questions](not-yet) / [Solutions](not-yet)
+13 | Apr 6: **Exam 3**<br> Apr 8: Semantics | [Study Guide](not-yet)<br>[Practice Questions](not-yet) / [Solutions](not-yet)
 14 | Apr 13: Pragmatics<br>April 15: | [Language journal](resources/language-journal-assignment) (due April 13)
 15 | Apr 20:  Variation I<br> Apr 22: Variation II |
-16 | Apr 27: Historical<br>Apr 29: **Exam 4** | [Exam 4 Study Guide](not-yet)<br>[Practice Questions](not-yet) / [Solutions](not-yet)
+16 | Apr 27: Historical<br>Apr 29: **Exam 4** | [Study Guide](not-yet)<br>[Practice Questions](not-yet) / [Solutions](not-yet)
 
 ## How to do well
 - Come to class and do the assigned readings
