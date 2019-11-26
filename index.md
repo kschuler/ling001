@@ -9,7 +9,7 @@ title: LING 1
 **Instructor**: [Dr. Kathryn Schuler](mailto:kschuler@sas.upenn.edu)  
 3401-C Walnut Street, Office 314
 
-**TAs**: TBA
+**TAs**: 
 
 ## Announcements
 
@@ -26,15 +26,13 @@ A general introduction to the nature, history and use of human language, speech 
 
 Lecture | Recitation sections
 --- | ---
-Mondays & Wednesdays 12-1pm with Katie<br>Location TBD<br><br><br><br><br><br> | 201 - Thursdays 9:30-10:30am<br>202 - Thursdays 10:30-11:30am <br>203 - Thursdays 9:30-10:30am<br>204 - Thursdays 10:30-11:30am<br>205 - Thursdays 9:30-10:30am<br>206 - Thursdays 10:30-11:30am<br>207 - Fridays 11-12pm<br>208 - Fridays 12-1pm 
+M & W 12-1pm with Katie<br>Location TBD<br><br><br><br><br><br> | 201 - R 9:30-10:30am<br>202 - R 10:30-11:30am <br>203 - R 9:30-10:30am<br>204 - R 10:30-11:30am<br>205 - R 9:30-10:30am<br>206 - R 10:30-11:30am<br>207 - F 11-12pm<br>208 - F 12-1pm 
   
 ### Materials
 
-**[Course website](index.html)** (you are here) for schedule, policies, and links to all assigned materials
-
-**[Canvas site](https://canvas.upenn.edu/courses/1489351)** for announcements and grade related things
-
-**[Perusall](https://app.perusall.com/courses/intro-to-linguistics-1)** for reading assignments (access code released at first class meeting)
+- **[Course website](index.html)** (you are here) for schedule, policies, and links to all assigned materials
+- **[Canvas site](https://canvas.upenn.edu/courses/1489351)** for announcements and grade related things
+- **[Perusall](https://app.perusall.com/courses/intro-to-linguistics-1)** for reading assignments (access code released at first class meeting)
   - Reading assignments will come from The Language Instinct by Steven Pinker and The Language Files
 
 ### Evaluation 
