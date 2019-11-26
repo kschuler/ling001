@@ -11,8 +11,8 @@ Language is such a central part of our everyday experience that we often take it
 - Notice whether language is used in the same or different ways across different groups of people (age groups, peer groups, etc)
 - If you visit family over the holiday break, notice how the language or dialect you grew up with is different from what you hear at Penn.
 - Find out whether your roomates grammar allows something that yours doesn't (e.g. "I'm done my homework").
-- Participate in a linguistics research experiment via SONA (bonus point worthy) 
-- Conduct your own linguistics experiment. Analyze existing data or conduct an experiment with your family or friends (bons point worthy)
+- Participate in a linguistics research experiment via SONA 
+- Conduct your own linguistics experiment. Analyze existing data or conduct an experiment with your family or friends 
 - Read a research article on a linguistics topic that interests you
 - Browse the language log blog at Penn for interesting articles
 - Attend a talk or event related to language at Penn 
