@@ -40,8 +40,8 @@ M & W 12-1pm with Katie<br>Location TBD<br><br><br><br><br><br> | 201 - R 9:30-1
 - **Language journal (10%)** - Each student is required to keep a [language journal](#language-journal) with a minimum of four entries and at least 800 words, worth 50 points.
 
 ### Extra Credit
--  Earn 5 bonus points for each hour of research participation via SONA and 5 bonus points for attending any [ILST seminar](http://web.sas.upenn.edu/lcs/news-events/ilst-seminar/) or other language relevant talk on canvas (limit 15 points per semester). You may also write about these experiences as entries in your language journal.
-- Earn 10 bonus points by being a member of the recitation section with the most engagement on perusall.
+-  **Research bonus:** Earn 5 bonus points for each hour of research participation via SONA and/or 5 bonus points for attending a language-related talk or event on campus (limit 15 total points per semester). You must also write about these experiences as entries in your language journal.
+- **Reading bonus:** Earn 10 bonus points by being a member of the recitation section with the most engagement on perusall.
 
 ## Schedule
 Schedule is tentative and subject to change.
@@ -103,3 +103,6 @@ Each student is required to keep a [language journal](resources/language-journal
 
 **Can I turn in my language journal late?** 
 > Yes, but there is a 5 point per day late penalty.
+
+**I participated in an experiment (or attended a talk). When will I get my bonus points?**
+To receive bonus points, you must (1) make a bonus points declaration on canvas and (2) write about your research experience in your language journal. Your bonus points will be awarded as soon as you make your declaration, but we will check your journal (and SONA records, if you participated in an experiment) to confirm these points at the end of the semester.
