@@ -33,7 +33,7 @@ M & W 12-1pm with Katie<br>Location TBD<br><br><br><br><br><br> | 201 - R 9:30-1
 - **[Course website](index.html)** (you are here) for schedule, policies, and links to all assigned materials
 - **[Canvas site](https://canvas.upenn.edu/courses/1489351)** for announcements and grade related things
 - **[Perusall](https://app.perusall.com/courses/intro-to-linguistics-1)** for reading assignments (access code released at first class meeting)
-  - Reading assignments will come from The Language Instinct by Steven Pinker and The Language Files
+  - Readings will come from [The Language Instinct](https://www.indiebound.org/book/9780061336461) by Steven Pinker and [Language Files 12th edition](https://ohiostatepress.org/books/titles/9780814252703.html).
 
 ### Evaluation 
 - **Exams (90%)** - There are four [exams](#exams) worth 150 points each, but the lowest exam score is dropped. 
@@ -41,6 +41,7 @@ M & W 12-1pm with Katie<br>Location TBD<br><br><br><br><br><br> | 201 - R 9:30-1
 
 ### Extra Credit
 -  Earn 5 bonus points for each hour of research participation via SONA and 5 bonus points for attending any [ILST seminar](http://web.sas.upenn.edu/lcs/news-events/ilst-seminar/) or other language relevant talk on canvas (limit 15 points per semester). You may also write about these experiences as entries in your language journal.
+- Earn 10 bonus points by being a member of the recitation section with the most engagement on perusall.
 
 ## Schedule
 Schedule is tentative and subject to change.
