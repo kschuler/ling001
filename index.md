@@ -1,6 +1,6 @@
 ---
 layout: page
-title: LING001 
+title: LING 1
 ---
 
 <h2 align="center">Spring 2020 Syllabus</h2>
@@ -14,7 +14,7 @@ title: LING001
 ## Announcements
 
 ```
-Welcome to LING001!
+Welcome to LING 1!
 ```
 
 ## Overview
@@ -66,7 +66,7 @@ Wk  | Topic | Readings & Resources
 15 | Apr 20:  Variation I<br> Apr 22: Variation II |
 16 | Apr 27: Historical<br>Apr 29: **Exam 4** | [Study Guide](not-yet)<br>[Practice Questions](not-yet) / [Solutions](not-yet)
 
-## How to do well
+## How to do well in LING 1
 - Come to class and do the assigned readings
 - Attempt the practice problems and check your answers against the solutions
 - Come prepared to recitation. Ask questions about the course material and for help on practice problems you had trouble with
