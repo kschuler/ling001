@@ -24,7 +24,7 @@ A general introduction to the nature, history and use of human language, speech 
 
 ### Time & Place
 
-Lecture | Recitation
+Lecture | Recitation sections
 --- | ---
 Mondays & Wednesdays 12-1pm with Katie<br>Location TBD<br><br><br><br><br><br> | 201 - Thursdays 9:30-10:30am<br>202 - Thursdays 10:30-11:30am <br>203 - Thursdays 9:30-10:30am<br>204 - Thursdays 10:30-11:30am<br>205 - Thursdays 9:30-10:30am<br>206 - Thursdays 10:30-11:30am<br>207 - Fridays 11-12pm<br>208 - Fridays 12-1pm 
   
