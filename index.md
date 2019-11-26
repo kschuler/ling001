@@ -59,7 +59,7 @@ Wk  | Topic | Readings & Resources
 11 | Mar 23: Syntax II<br>Mar 25: Syntax III |  
 12 | Mar 30: Syntax IV<br> Apr 1: ASL | 
 13 | Apr 6: **Exam 3**<br> Apr 8: Semantics | [Exam 3 Study Guide](not-yet)<br>[Practice Questions](not-yet) / [Solutions](not-yet)
-14 | Apr 13: Pragmatics<br>April 15: | **Language journal due April 13**
+14 | Apr 13: Pragmatics<br>April 15: | **[Language journal](resources/language-journal-assignment) due April 13**
 15 | Apr 20:  Variation I<br> Apr 22: Variation II |
 16 | Apr 27: Historical<br>Apr 29: **Exam 4** | [Exam 4 Study Guide](not-yet)<br>[Practice Questions](not-yet) / [Solutions](not-yet)
 
