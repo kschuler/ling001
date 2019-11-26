@@ -9,7 +9,7 @@ title: LING 1
 **Instructor**: [Dr. Kathryn Schuler](mailto:kschuler@sas.upenn.edu)  
 3401-C Walnut Street, Office 314
 
-**TAs**: 
+**TAs**: TBA
 
 ## Announcements
 
