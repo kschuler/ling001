@@ -6,9 +6,21 @@ title: Language Journal Assignment
 <h2 align="center">Language Journal Assignment</h2>
 <h3 align="center">Spring 2020</h3>
 
-This resource is not available, yet. Check back closer to the assigned week
+## Observing language in the wild
+Language is such a central part of our everyday experience that we often take it for granted. This semester, pay special attention to the language in the world around you and think about how what you hear (or see) is connected to what we learn about in class.
+- Notice whether language is used in the same or different ways across different groups of people (age groups, peer groups, etc)
+- If you visit family over the holiday break, notice how the language or dialect you grew up with is different from what you hear at Penn.
+- Find out whether your roomates grammar allows something that yours doesn't (e.g. "I'm done my homework").
+- Participate in a linguistics research experiment via SONA (bonus point worthy) 
+- Conduct your own linguistics experiment. Analyze existing data or conduct an experiment with your family or friends (bons point worthy)
+- Read a research article on a linguistics topic that interests you
+- Browse the language log blog at Penn for interesting articles
+- Attend a talk or event related to language at Penn 
+- Any creative idea you have! Feel free to include diagrams, sound clips, or figures if it will help make your point.
 
-## Rubric
+## Grading
+
+Each student is required to submit their language journal as a .pdf via Canvas. Journals should have with a minimum of four observations (see above) and at least 800 words, worth 50 points. You will receive 5 points for each relevant observation (20 max) and up to 30 points for being insightful, creative, and linking your observations with lecture and/or readings (see below).
 
 Advanced<br>30 | Thorough<br>35 | Proficient<br>20 | Basic<br>15| No Evidence <br>10
 --- | --- | --- | --- | ---
