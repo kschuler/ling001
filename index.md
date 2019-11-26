@@ -77,6 +77,24 @@ There are four exams worth 150 points each, but the lowest exam score is dropped
 ### Language journal
 Each student is required to keep a [language journal](resources/language-journal-assignment) with a minimum of four entries and at least 800 words, worth 50 points. You will receive 5 points for each relevant observation (20 max) and up to 30 points for being insightful, creative, and linking your observations with lecture and/or readings. 
 
+### Grading scale
+
+Letter | Percentage
+---: | :---
+A+ | 100% to 97%
+A | < 97% to 93%
+A- | < 93% to 90%
+B+ | < 90% to 87%
+B | < 87% to 84%
+B- | < 84% to 80%
+C+ | < 80% to 77%
+C | < 77% to 74%
+C- | < 74% to 70%
+D+ | < 70% to 67%
+D | < 67% to 64%
+D- | < 64% to 61%
+F | < 61% to 0%
+
 ## Policies
 - **Attendance**: There is no formal attendance policy, but attendance is highly correlated with class performance.
 - **Make-up exams**: Only students with a documented family or medical emergancy will be granted the opportunity to make-up an exam. Email your recitation section TA to make these arrangments.
