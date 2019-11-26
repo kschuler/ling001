@@ -10,6 +10,6 @@ This resource is not available, yet. Check back closer to the assigned week
 
 ## Rubric
 
-Advanced (Wow!)<br>30 | Thorough (Great!)<br>35 | Proficient (Pretty Good!)<br>20 | Basic (Not Bad!)<br>15| No Evidence (Not Great)<br>10
+Advanced<br>30 | Thorough<br>35 | Proficient<br>20 | Basic<br>15| No Evidence <br>10
 --- | --- | --- | --- | ---
-You can insightfully analyze and explain in depth how your observations relate to what we learned in class and readings | You showed an understanding of how your observations relate to what we learned in class and readings | You attempted to analyze and explain how your observations relate to what you learned, but you don’t provide enough support from class material | You attempted to analyze and explain how your observations relate to what you learned, but you are incorrect, or you have very little to no support from class material | You attempted to analyze and explain how your observations relate to what you learned in class.
+**Wow!** You can insightfully analyze and explain in depth how your observations relate to what we learned in class and readings | **Great!** You showed an understanding of how your observations relate to what we learned in class and readings | **Pretty Good!** You attempted to analyze and explain how your observations relate to what you learned, but you don’t provide enough connection to class material | **Not Bad** You attempted to analyze and explain how your observations relate to what you learned, but you are incorrect, or you have very little to no connection to class material | You did not attempt to analyze and explain how your observations relate to what you learned in class.
