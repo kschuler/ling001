@@ -50,7 +50,7 @@ Wk  | Topic | Readings & Resources
 2 | Jan 20: **No Class MLK Day**<br>Jan 22: Language as an Instinct | The Language Instinct Ch. 1
 3 | Jan 27: Language Acquisition I<br>Jan 29: Language Acquisition II  | The Language Instinct Ch. 9<br>The Language Files Ch. 8
 4 | Feb 3: General Features of Human Languages<br>Feb 5: Animal Communication   | The Language Instinct Ch. 2 & 11<br> The Language Files Ch. 14
-5 | Feb 10: **Exam 1** <br> Feb 12: Phon I |  [Exam 1 Study Guide](https://docs.google.com/document/u/1/d/e/2PACX-1vT1z77QGPY6gGvx_XSNUE3dfj6EZIhKiov-woO6bqIOpGbzzeRI7YQZTQrIuSMLejaBgU5otTKxdHAU/pub)<br>[Practice Questions](not-yet) / [Solutions](not-yet)
+5 | Feb 10: **Exam 1** <br> Feb 12: Phon I |  [Exam 1 Study Guide](spring2020/exam1-study-guide)<br>[Practice Questions](not-yet) / [Solutions](not-yet)
 6 | Feb 17: Phon II<br>Feb 19: Phon III | 
 7 | Feb 24: Phon IV<br>Feb 26: Morphology I | 
 8 | Mar 2: Morphology II<br>Mar 4: **Exam 2** | [Exam 2 Study Guide](not-yet)<br>[Practice Questions](not-yet) / [Solutions](not-yet)
