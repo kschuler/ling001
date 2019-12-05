@@ -48,10 +48,10 @@ Schedule is tentative and subject to change.
 
 Wk  | Topic | Readings & Resources
   --- | --- | --- 
-1 | Jan 15: Introduction & Overview | Lang Files 1
-2 | Jan 20: **No Class MLK Day**<br>Jan 22: Language as an Instinct | Lang Instinct 1
-3 | Jan 27: Language Acquisition I<br>Jan 29: Language Acquisition II  | Lang Instinct 9<br>Lang Files 8
-4 | Feb 3: Features of Human Languages<br>Feb 5: Animal Communication   | The Language Instinct 2 & 11<br> Lang Files 14
+1 | Jan 15: Introduction & Overview | 
+2 | Jan 20: **No Class MLK Day**<br>Jan 22: Language as an Instinct | Pinker 1
+3 | Jan 27: Language Acquisition I<br>Jan 29: Language Acquisition II  | Lang Instinct 9
+4 | Feb 3: Features of Human Languages<br>Feb 5: Animal Communication   | The Language Instinct 2 & 11
 5 | Feb 10: **Exam 1** <br> Feb 12: Phon I |  [Study Guide](resources/exam1-study-guide) / [Practice Questions](resources/exam1-practice-questions) / [Solutions](not-yet)
 6 | Feb 17: Phon II<br>Feb 19: Phon III | 
 7 | Feb 24: Phon IV<br>Feb 26: Morphology I | 
