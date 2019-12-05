@@ -49,7 +49,7 @@ Schedule is tentative and subject to change.
 Wk  | Topic | Readings & Resources
   --- | --- | --- 
 1 | Jan 15: Introduction & Overview | 
-2 | Jan 20: **No Class MLK Day**<br>Jan 22: Language as an Instinct | Pinker 1
+2 | Jan 20: **No Class MLK Day**<br>Jan 22: Language as an Instinct | [Pinker 1](https://app.perusall.com/courses/intro-to-linguistics-1/pinker-ch01?assignmentId=5ib5rPaDkYoZxZc9X&part=1)
 3 | Jan 27: Language Acquisition I<br>Jan 29: Language Acquisition II  | Pinker 9
 4 | Feb 3: Features of Human Languages<br>Feb 5: Animal Communication   | Pinker 2 & 11
 5 | Feb 10: **Exam 1** <br> Feb 12: Morphology I |  [Study Guide](resources/exam1-study-guide) / [Practice Questions](resources/exam1-practice-questions) / [Solutions](not-yet)
