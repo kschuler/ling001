@@ -9,7 +9,7 @@ title: LING 1
 **Instructor**: [Dr. Kathryn Schuler](mailto:kschuler@sas.upenn.edu)  
 3401-C Walnut Street, Office 314
 
-**TAs**: TBA
+**TAs**: [Yiran Chen](cheny39@sas.upenn.edu), [Ollie Sayeed](sayeedo@sas.upenn.edu), [Nari Rhee](nrhee@sas.upenn.edu), [Milena Šereikaitė](milenas@sas.upenn.edu)
 
 ## Announcements
 
