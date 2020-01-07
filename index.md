@@ -56,13 +56,13 @@ Wk  | Topic | Readings & Resources
 7 | Feb 24: Phonology I<br>Feb 26: Phonology II | 
 8 | Mar 2: **Exam 2** <br>Mar 4: ASL| [Study Guide](not-yet) / [Practice Questions](not-yet) / [Solutions](not-yet)
 9 | **No Class Spring Break** |  
-10 | Mar 16: Morphology I<br>Mar 18: Morp | 
-11 | Mar 23: Phonetics I<br>Mar 25: Phonetics II |  
-12 | Mar 30: Phontetics I<br> Apr 1: Phonology | 
+10 | Mar 16: Morphology I<br>Mar 18: Morphology II | 
+11 | Mar 23: Syntax I<br>Mar 25: Syntax II |  
+12 | Mar 30: Syntax III<br> Syntax IV | 
 13 | Apr 6: **Exam 3**<br> Apr 8: Writing Systems | [Study Guide](not-yet) / [Practice Questions](not-yet) / [Solutions](not-yet)
-14 | Apr 13: Dialects<br>April 15: Socio | [Language journal](resources/language-journal-assignment) (due April 13)
-15 | Apr 20:  SocioAAE<br> Apr 22: Semantics|
-16 | Apr 27: Pragmatics<br>Apr 29: **Exam 4** | [Study Guide](not-yet) / [Practice Questions](not-yet) / [Solutions](not-yet)
+14 | Apr 13: Semantics<br>April 15: Pragmatics | [Language journal](resources/language-journal-assignment) (due April 13)
+15 | Apr 20:  Variation I<br> Apr 22: Variation II|
+16 | Apr 27: Historical<br>Apr 29: **Exam 4** | [Study Guide](not-yet) / [Practice Questions](not-yet) / [Solutions](not-yet)
 
 ## How to do well in LING 1
 - Come to class and do the assigned readings
@@ -108,6 +108,6 @@ F | < 61% to 0%
 **I participated in an experiment (or attended a talk). When will I get my bonus points?**
 > To receive bonus points, you must (1) make a bonus points declaration on canvas and (2) write about your research experience in your language journal. Your bonus points will be awarded as soon as you make your declaration, but we will check your journal (and SONA records, if you participated in an experiment) to confirm these points at the end of the semester.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTU1NDIzMzYsLTEwNjIwNDEyMjEsMz
+eyJoaXN0b3J5IjpbLTE0NDg1MzcwMTIsLTEwNjIwNDEyMjEsMz
 M0MzEyMDY0LDkwNjAxNDE2OSwtMzAxODY4NDRdfQ==
 -->
