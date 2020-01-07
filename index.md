@@ -36,7 +36,7 @@ M & W 12-1pm with Katie<br>in STIT B6<br><br><br><br><br><br> | 201 - R 9:30-10:
 
 ### Evaluation 
 - **Exams (90%)** - There are four [exams](#exams) worth 150 points each, but the lowest exam score is dropped. 
-- **Language journal (10%)** - Each student is required to keep a [language journal](#resources/language-journal-assignment) with a minimum of four entries and at least 800 words, worth 50 points.
+- **Language journal (10%)** - Each student is required to keep a [language journal](resources/language-journal-assignment) with a minimum of four entries and at least 800 words, worth 50 points.
 
 ### Extra Credit
 -  **Research bonus:** Earn 5 bonus points for each hour of research participation via SONA and/or 5 bonus points for attending a language-related talk or event on campus (limit 15 total points per semester).
@@ -52,15 +52,15 @@ Wk  | Topic | Readings & Resources
 3 | Jan 27: Language Acquisition I<br>Jan 29: Language Acquisition II  | [Chapter 8](https://app.perusall.com/courses/intro-to-linguistics-1/chapter-8-15?assignmentId=ckDfokjY25EnrzRdB&part=1)
 4 | Feb 3: Animal Communication I<br>Feb 5: Animal Communication II   | [Chapter 14](https://app.perusall.com/courses/intro-to-linguistics-1/chapter-14-13?assignmentId=7ag64J2jqfoSDxxoo&part=1)
 5 | Feb 10: **Exam 1** <br> Feb 12: Phonetics I|  [Study Guide](resources/exam1-study-guide) / [Practice Questions](resources/exam1-practice-questions) / [Solutions](not-yet)
-6 | Feb 17: Phonetics II<br>Feb 19: Phonetics III | 
-7 | Feb 24: Phonology I<br>Feb 26: Phonology II | 
+6 | Feb 17: Phonetics II<br>Feb 19: Phonetics III | Chapter 2
+7 | Feb 24: Phonology I<br>Feb 26: Phonology II | Chapter 3
 8 | Mar 2: **Exam 2** <br>Mar 4: ASL| [Study Guide](not-yet) / [Practice Questions](not-yet) / [Solutions](not-yet)
 9 | **No Class Spring Break** |  
-10 | Mar 16: Morphology I<br>Mar 18: Morphology II | 
-11 | Mar 23: Syntax I<br>Mar 25: Syntax II |  
-12 | Mar 30: Syntax III<br> Syntax IV | 
-13 | Apr 6: **Exam 3**<br> Apr 8: Writing Systems | [Study Guide](not-yet) / [Practice Questions](not-yet) / [Solutions](not-yet)
-14 | Apr 13: Semantics<br>April 15: Pragmatics | [Language journal](resources/language-journal-assignment) (due April 13)
+10 | Mar 16: Morphology I<br>Mar 18: Morphology II | Chapter 4
+11 | Mar 23: Syntax I<br>Mar 25: Syntax II |  Chapter 5
+12 | Mar 30: Syntax III<br> Syntax IV | Chapter 5
+13 | Apr 6: **Exam 3**<br> Apr 8: Writing Systems | [Study Guide](not-yet) / [Practice Questions](not-yet) / [Solutions](not-yet)<br> Chapter 15
+14 | Apr 13: Semantics<br>April 15: Pragmatics | Chapters 6 & 7<br> [Language journal](resources/language-journal-assignment) (due April 13)
 15 | Apr 20:  Variation I<br> Apr 22: Variation II|
 16 | Apr 27: Historical<br>Apr 29: **Exam 4** | [Study Guide](not-yet) / [Practice Questions](not-yet) / [Solutions](not-yet)
 
@@ -108,7 +108,7 @@ F | < 61% to 0%
 **I participated in an experiment (or attended a talk). When will I get my bonus points?**
 > To receive bonus points, you must (1) make a bonus points declaration on canvas and (2) write about your research experience in your language journal. Your bonus points will be awarded as soon as you make your declaration, but we will check your journal (and SONA records, if you participated in an experiment) to confirm these points at the end of the semester.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NzI2Mzk1OCwtMTQ0ODUzNzAxMiwtMT
-A2MjA0MTIyMSwzMzQzMTIwNjQsOTA2MDE0MTY5LC0zMDE4Njg0
-NF19
+eyJoaXN0b3J5IjpbOTMxNDcwNTMzLC04NTcyNjM5NTgsLTE0ND
+g1MzcwMTIsLTEwNjIwNDEyMjEsMzM0MzEyMDY0LDkwNjAxNDE2
+OSwtMzAxODY4NDRdfQ==
 -->
