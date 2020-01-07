@@ -49,7 +49,7 @@ Wk  | Topic | Readings & Resources
   --- | --- | --- 
 1 | Jan 15: Introduction & Overview | 
 2 | Jan 20: **No Class MLK Day**<br>Jan 22: Language as an Instinct | [Chapter 1](https://app.perusall.com/courses/intro-to-linguistics-1/pinker-ch01?assignmentId=5ib5rPaDkYoZxZc9X&part=1)
-3 | Jan 27: Language Acquisition I<br>Jan 29: Language Acquisition II  | Chapter 8
+3 | Jan 27: Language Acquisition I<br>Jan 29: Language Acquisition II  | [Chapter 8](https://app.perusall.com/courses/intro-to-linguistics-1/chapter-8-15?assignmentId=ckDfokjY25EnrzRdB&part=1)
 4 | Feb 3: Animal Communication I<br>Feb 5: Animal Communication II   | Chapter 14
 5 | Feb 10: **Exam 1** <br> Feb 12: Phonetics I|  [Study Guide](resources/exam1-study-guide) / [Practice Questions](resources/exam1-practice-questions) / [Solutions](not-yet)
 6 | Feb 17: Phonetics II<br>Feb 19: Phonetics III | 
@@ -108,6 +108,7 @@ F | < 61% to 0%
 **I participated in an experiment (or attended a talk). When will I get my bonus points?**
 > To receive bonus points, you must (1) make a bonus points declaration on canvas and (2) write about your research experience in your language journal. Your bonus points will be awarded as soon as you make your declaration, but we will check your journal (and SONA records, if you participated in an experiment) to confirm these points at the end of the semester.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDg1MzcwMTIsLTEwNjIwNDEyMjEsMz
-M0MzEyMDY0LDkwNjAxNDE2OSwtMzAxODY4NDRdfQ==
+eyJoaXN0b3J5IjpbLTIwNjU2MzM2MjMsLTE0NDg1MzcwMTIsLT
+EwNjIwNDEyMjEsMzM0MzEyMDY0LDkwNjAxNDE2OSwtMzAxODY4
+NDRdfQ==
 -->
