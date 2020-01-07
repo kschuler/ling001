@@ -61,8 +61,8 @@ Wk  | Topic | Readings & Resources
 12 | Mar 30: Syntax III<br> Syntax IV | Chapter 5
 13 | Apr 6: **Exam 3**<br> Apr 8: Writing Systems | [Study Guide](not-yet) / [Practice Questions](not-yet) / [Solutions](not-yet)<br> Chapter 15
 14 | Apr 13: Semantics<br>April 15: Pragmatics | Chapters 6 & 7<br> [Language journal](resources/language-journal-assignment) (due April 13)
-15 | Apr 20:  Variation I<br> Apr 22: Variation II|
-16 | Apr 27: Historical<br>Apr 29: **Exam 4** | [Study Guide](not-yet) / [Practice Questions](not-yet) / [Solutions](not-yet)
+15 | Apr 20:  Variation I<br> Apr 22: Variation II| Chapter 10
+16 | Apr 27: Historical<br>Apr 29: **Exam 4** | Chapter 13 <br>[Study Guide](not-yet) / [Practice Questions](not-yet) / [Solutions](not-yet)
 
 ## How to do well in LING 1
 - Come to class and do the assigned readings
@@ -71,7 +71,7 @@ Wk  | Topic | Readings & Resources
 
 ## Policies
 - **Attendance**: There is no formal attendance policy, but attendance is highly correlated with class performance.
-- **Make-up exams**: Only students with a documented family or medical emergancy will be granted the opportunity to make-up an exam. Send a Canvas message to your recitation section TA to make these arrangments.
+- **Make-up exams**: Only students with a documented family or medical emergency will be granted the opportunity to make-up an exam. Send a Canvas message to your recitation section TA to make these arrangements.
 - **Rescheduling exams**: Only students with a religious conflict or an official university event may reschedule an exam. In these cases, students must provide documentation and *advanced notice*, so send a Canvas message to your recitation section TA as soon as possible. Note that multiple exams on the same day is not a valid reason to reschedule. 
 - **Late assignments**: Late language journals will be accepted with a 5 point per day late penalty.
 - **Re-grade requests**: If you feel a grading error has been made, you must make a formal regrade request via canvas *within four days of receiving your graded exam or assignment*. TAs are not allowed to discuss your grade with you until you have made a formal written request. If you ask about grading in person or via email, you'll be directed to make a formal request via the regrade request form. 
@@ -108,7 +108,7 @@ F | < 61% to 0%
 **I participated in an experiment (or attended a talk). When will I get my bonus points?**
 > To receive bonus points, you must (1) make a bonus points declaration on canvas and (2) write about your research experience in your language journal. Your bonus points will be awarded as soon as you make your declaration, but we will check your journal (and SONA records, if you participated in an experiment) to confirm these points at the end of the semester.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMxNDcwNTMzLC04NTcyNjM5NTgsLTE0ND
-g1MzcwMTIsLTEwNjIwNDEyMjEsMzM0MzEyMDY0LDkwNjAxNDE2
-OSwtMzAxODY4NDRdfQ==
+eyJoaXN0b3J5IjpbMTExMzExNzQ5OSwtODU3MjYzOTU4LC0xND
+Q4NTM3MDEyLC0xMDYyMDQxMjIxLDMzNDMxMjA2NCw5MDYwMTQx
+NjksLTMwMTg2ODQ0XX0=
 -->
