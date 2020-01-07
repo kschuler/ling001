@@ -32,8 +32,7 @@ M & W 12-1pm with Katie<br>in STIT B6<br><br><br><br><br><br> | 201 - R 9:30-10:
 
 - **[Course website](index.html)** (you are here) for schedule, policies, and links to all assigned materials
 - **[Canvas site](https://canvas.upenn.edu/courses/1489351)** for announcements and grade related things
-- **[Perusall](https://app.perusall.com/courses/intro-to-linguistics-1)** for reading assignments (access code released at first class meeting)
-  - Readings will come from [ [Language Files 12th edition](https://ohiostatepress.org/books/titles/9780814252703.html).
+- **[Perusall](https://app.perusall.com/courses/intro-to-linguistics-1)** for reading assignments (access code released at first class meeting), most of which come from [Language Files 12th edition](https://ohiostatepress.org/books/titles/9780814252703.html) (in case you prefer a paper copy
 
 ### Evaluation 
 - **Exams (90%)** - There are four [exams](#exams) worth 150 points each, but the lowest exam score is dropped. 
@@ -109,5 +108,5 @@ F | < 61% to 0%
 **I participated in an experiment (or attended a talk). When will I get my bonus points?**
 > To receive bonus points, you must (1) make a bonus points declaration on canvas and (2) write about your research experience in your language journal. Your bonus points will be awarded as soon as you make your declaration, but we will check your journal (and SONA records, if you participated in an experiment) to confirm these points at the end of the semester.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMTg2ODQ0XX0=
+eyJoaXN0b3J5IjpbMjAwNTg1NzUyNCwtMzAxODY4NDRdfQ==
 -->
