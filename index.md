@@ -51,14 +51,14 @@ Wk  | Topic | Readings & Resources
 2 | Jan 20: **No Class MLK Day**<br>Jan 22: Language as an Instinct | [Chapter 1](https://app.perusall.com/courses/intro-to-linguistics-1/pinker-ch01?assignmentId=5ib5rPaDkYoZxZc9X&part=1)
 3 | Jan 27: Language Acquisition I<br>Jan 29: Language Acquisition II  | Chapter 8
 4 | Feb 3: Features of Human Languages<br>Feb 5: Animal Communication   | Chapter 14
-5 | Feb 10: **Exam 1** <br> Feb 12: Phonology I: |  [Study Guide](resources/exam1-study-guide) / [Practice Questions](resources/exam1-practice-questions) / [Solutions](not-yet)
-6 | Feb 17: ASL<br>Feb 19: Morphology II | 
+5 | Feb 10: **Exam 1** <br> Feb 12: Phonetics I:|  [Study Guide](resources/exam1-study-guide) / [Practice Questions](resources/exam1-practice-questions) / [Solutions](not-yet)
+6 | Feb 17: Phonetics II<br>Feb 19: Phonetics III: | 
 7 | Feb 24: Syntax I<br>Feb 26: Syntax II | 
 8 | Mar 2: Syntax III<br>Mar 4: **Exam 2** | [Study Guide](not-yet) / [Practice Questions](not-yet) / [Solutions](not-yet)
 9 | **No Class Spring Break** |  
 10 | Mar 16: Syntax IV<br>Mar 18: Synax V | 
 11 | Mar 23: Phonetics I<br>Mar 25: Phonetics II |  
-12 | Mar 30: Phontetics III<br> Apr 1: Phonology | 
+12 | Mar 30: Phontetics I<br> Apr 1: Phonology | 
 13 | Apr 6: **Exam 3**<br> Apr 8: Writing Systems | [Study Guide](not-yet) / [Practice Questions](not-yet) / [Solutions](not-yet)
 14 | Apr 13: Dialects<br>April 15: Socio | [Language journal](resources/language-journal-assignment) (due April 13)
 15 | Apr 20:  SocioAAE<br> Apr 22: Semantics|
@@ -108,6 +108,6 @@ F | < 61% to 0%
 **I participated in an experiment (or attended a talk). When will I get my bonus points?**
 > To receive bonus points, you must (1) make a bonus points declaration on canvas and (2) write about your research experience in your language journal. Your bonus points will be awarded as soon as you make your declaration, but we will check your journal (and SONA records, if you participated in an experiment) to confirm these points at the end of the semester.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM0MzEyMDY0LDkwNjAxNDE2OSwtMzAxOD
-Y4NDRdfQ==
+eyJoaXN0b3J5IjpbLTEwNjIwNDEyMjEsMzM0MzEyMDY0LDkwNj
+AxNDE2OSwtMzAxODY4NDRdfQ==
 -->
