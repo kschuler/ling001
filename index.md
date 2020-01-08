@@ -59,12 +59,12 @@ Wk  | Topic | Readings & Resources
 5 | Feb 10: **Exam 1** <br> Feb 12: Phonetics I|  [Study Guide](resources/exam1-study-guide) / [Practice Questions](resources/exam1-practice-questions) / [Solutions](not-yet)
 6 | Feb 17: Phonetics II<br>Feb 19: Phonetics III | Chapter 2
 7 | Feb 24: Phonology I<br>Feb 26: Phonology II | Chapter 3
-8 | Mar 2: **Exam 2** <br>Mar 4: ASL *with Dr. Fisher & Dr. Santorini*| [Study Guide](not-yet) / [Practice Questions](not-yet) / [Solutions](not-yet)
+8 | Mar 2: **Exam 2** <br>Mar 4: ASL with Drs. [Fisher](https://web.sas.upenn.edu/asl-deafstudies/) & [Santorini](https://www.ling.upenn.edu/~beatrice/)*| [Study Guide](not-yet) / [Practice Questions](not-yet) / [Solutions](not-yet)
 9 | **No Class Spring Break** |  
 10 | Mar 16: Morphology I<br>Mar 18: Morphology II | Chapter 4
 11 | Mar 23: Syntax I<br>Mar 25: Syntax II |  Chapter 5
 12 | Mar 30: Syntax III<br> Syntax IV | Chapter 5
-13 | Apr 6: **Exam 3**<br> Apr 8: Writing Systems *with Dr. Buckley* | [Study Guide](not-yet) / [Practice Questions](not-yet) / [Solutions](not-yet)<br> Chapter 15
+13 | Apr 6: **Exam 3**<br> Apr 8: Writing Systems with [Dr. Buckley](https://www.ling.upenn.edu/~gene/home.html)| [Study Guide](not-yet) / [Practice Questions](not-yet) / [Solutions](not-yet)<br> Chapter 15
 14 | Apr 13: Semantics<br>April 15: Pragmatics | Chapters 6 & 7<br> [Language journal](resources/language-journal-assignment) (due April 13)
 15 | Apr 20:  Variation I<br> Apr 22: Variation II| Chapter 10
 16 | Apr 27: Historical<br>Apr 29: **Exam 4** | Chapter 13 <br>[Study Guide](not-yet) / [Practice Questions](not-yet) / [Solutions](not-yet)
