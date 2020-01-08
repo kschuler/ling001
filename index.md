@@ -47,7 +47,7 @@ Schedule is tentative and subject to change.
 
 Wk  | Topic | Readings & Resources
   --- | --- | --- 
-1 | Jan 15: Introduction & Overview | 
+1 | Jan 15: [Introduction & Overview](https://docs.google.com/presentation/d/e/2PACX-1vRk0QUPbpFjtaZVcJ0OrkGrcdEH_hCmv2414iKpVIIYDhbns3yNRY9nnvGLl74YJv0qJydKl1UOPnJt/pub?start=false&loop=false&delayms=3000) | 
 2 | Jan 20: **No Class MLK Day**<br>Jan 22: Language as an Instinct | [Chapter 1](https://app.perusall.com/courses/intro-to-linguistics-1/pinker-ch01?assignmentId=5ib5rPaDkYoZxZc9X&part=1)
 3 | Jan 27: Language Acquisition I<br>Jan 29: Language Acquisition II  | [Chapter 8](https://app.perusall.com/courses/intro-to-linguistics-1/chapter-8-15?assignmentId=ckDfokjY25EnrzRdB&part=1)
 4 | Feb 3: Animal Communication I<br>Feb 5: Animal Communication II   | [Chapter 14](https://app.perusall.com/courses/intro-to-linguistics-1/chapter-14-13?assignmentId=7ag64J2jqfoSDxxoo&part=1)
