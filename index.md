@@ -26,7 +26,7 @@ A general introduction to the nature, history and use of human language, speech 
 
 Lecture | Recitation sections
 --- | ---
-M & W 12-1pm with Katie<br>in STIT B6<br><br><br><br><br><br> | 201 - R 9:30-10:30am MEYH B6<br>202 - R 10:30-11:30am MEYH B6 <br>203 - R 9:30-10:30am TOWN 307<br>204 - R 10:30-11:30am TOWN 307<br>205 - R 9:30-10:30am WILL 205<br>206 - R 10:30-11:30am WILL 205<br>207 - F 11-12pm FAGN 112<br>208 - F 12-1pm FAGN 112
+M & W 12-1pm with Katie<br>in STIT B6<br><br><br><br><br><br> | With Ollie in MEYH B6<br>201 - R 9:30-10:30am<br>202 - R 10:30-11:30am<br>with Yiran in TOWN 307<br>203 - R 9:30-10:30am<br>204 - R 10:30-11:30am <br>With Milena in WILL 205<br>205 - R 9:30-10:30am<br>206 - R 10:30-11:30am<br>With Nari in FAGN 112<br>207 - F 11-12pm<br>208 - F 12-1pm
   
 ### Materials
 
