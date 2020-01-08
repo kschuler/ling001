@@ -25,16 +25,16 @@ A general introduction to the nature, history and use of human language, speech 
 
 ### Recitations
 
-Section | Time | TA & Location
+Section | Time | Location | TA
 --- | --- | ---
-201| Thursdays 9:30-10:30am| with Ollie in MEYH B6
-202 | Thursdays 10:30-11:30am | with Ollie in MEYH B6
-203 | Thursdays 9:30-10:30am | with Yiran in TOWN 307
-204 | Thursdays 10:30-11:30am | with Yiran in TOWN 307
-205 | Thursdays 9:30-10:30am | with Milena in WILL 205
-206 | Thursdays 10:30-11:30am | with Milena in WILL 205
-207 | Fridays 11-12pm | with Nari in FAGN 112
-208 | Fridays 12-1pm | with Nari in FAGN 112
+201| Thursdays 9:30-10:30am| MEYH B6 | Ollie
+202 | Thursdays 10:30-11:30am | MEYH B6 | Ollie
+203 | Thursdays 9:30-10:30am | TOWN 307 | Yiran
+204 | Thursdays 10:30-11:30am | TOWN 307 | Yiran
+205 | Thursdays 9:30-10:30am | WILL 205 | Milena
+206 | Thursdays 10:30-11:30am | WILL 205 | Milena
+207 | Fridays 11-12pm | FAGN 112 | Nari
+208 | Fridays 12-1pm | FAGN 112 | Nari
 
   
 ### Materials
