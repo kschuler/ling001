@@ -90,12 +90,9 @@ Wk  | Topic | Readings & Resources
 ## Grading scale
 Minimum score before rounding.
 
-A+ | 97% | A | 93% | A- |90%
+A+ 97% | A 93% | A- 90% | B+ 87% | B 84% | B- 80%
 --- | --- | --- | --- | --- | ---
-B+ | 87% | B | 84% | B- | <80%
-C+ | 77% | C | 74% | C- | 70%
-D+ | 67% | D |  64% | D- | 61%
-F | 0%
+C+ 77% | C 74% | C- 70% | D+ 67% | D 64% | D- 61%
 
 
 ## FAQs
