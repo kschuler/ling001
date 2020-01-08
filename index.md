@@ -6,8 +6,9 @@ title: LING 1
 <h2 align="center">Spring 2020 Syllabus</h2>
 <h3 align="center">Warning: syllabus under construction</h3>
 
-**Instructor**: [Dr. Kathryn Schuler](mailto:kschuler@sas.upenn.edu)  
+**Instructors**: [Dr. Kathryn Schuler](mailto:kschuler@sas.upenn.edu)  
 3401-C Walnut Street, Office 314
+Office Hours: Friday 10am-12pm
 
 **TAs**: [Yiran Chen](cheny39@sas.upenn.edu), [Ollie Sayeed](sayeedo@sas.upenn.edu), [Nari Rhee](nrhee@sas.upenn.edu), [Milena Šereikaitė](milenas@sas.upenn.edu)
 
@@ -62,8 +63,8 @@ Wk  | Topic | Readings & Resources
 8 | Mar 2: **Exam 2** <br>Mar 4: ASL with [Dr. Fisher](https://web.sas.upenn.edu/asl-deafstudies/) & [Dr. Santorini](https://www.ling.upenn.edu/~beatrice/)| [Study Guide](not-yet) / [Practice Questions](not-yet) / [Solutions](not-yet)
 9 | **No Class Spring Break** |  
 10 | Mar 16: Morphology I<br>Mar 18: Morphology II | Chapter 4
-11 | Mar 23: Syntax I<br>Mar 25: Syntax II |  Chapter 5
-12 | Mar 30: Syntax III<br> Syntax IV | Chapter 5
+11 | Mar 23: Syntax I: Word Order and Co-occurance<br>Mar 25: Syntax II: Constituency |  Chapter 5
+12 | Mar 30: Syntax III: Categories<br>Apr 1: Syntax IV: | Chapter 5
 13 | Apr 6: **Exam 3**<br> Apr 8: Writing Systems with [Dr. Buckley](https://www.ling.upenn.edu/~gene/home.html)| [Study Guide](not-yet) / [Practice Questions](not-yet) / [Solutions](not-yet)<br> Chapter 15
 14 | Apr 13: Semantics<br>April 15: Pragmatics | Chapters 6 & 7<br> [Language journal](resources/language-journal-assignment) (due April 13)
 15 | Apr 20:  Variation I<br> Apr 22: Variation II| Chapter 10
