@@ -26,7 +26,7 @@ A general introduction to the nature, history and use of human language, speech 
 
 Section | Time | Instructor
 --- | --- | ---
-001 Lecture | M & W 12-1pm | with Katie in STIT B6
+**Lecture 001** | **M & W 12-1pm** | **with Katie in STIT B6**
 201<br>202 | R 9:30-10:30am<br>R 10:30-11:30am | with Ollie in MEYH B6
 203<br>204 | R 9:30-10:30am<br>R 10:30-11:30am | with Yiran in TOWN 307
 205<br>206 | R 9:30-10:30am<br>R 10:30-11:30am | with Milena in WILL 205
