@@ -4,7 +4,7 @@ title: LING 1
 ---
 
 <h2 align="center">Spring 2020 Syllabus</h2>
-<h3 align="center">Warning: syllabus under construction</h3>
+<h3 align="center">Mondays & Wednesdays in STIT B6</h3>
 
 **Instructors**: [Dr. Kathryn Schuler](mailto:kschuler@sas.upenn.edu)  
 3401-C Walnut Street, Office 314
@@ -23,15 +23,18 @@ Welcome to LING 1!
 ### Description
 A general introduction to the nature, history and use of human language, speech and writing. Topics include the biological basis of human language, and analogous systems in other creatures; relations to cognition, communication, and social organization; sounds, forms and meanings in the world's languages; the reconstruction of linguistic history and the family tree of languages; dialect variation and language standardization; language and gender; language learning by children and adults; the neurology of language and language disorders; the nature and history of writing systems. Intended for any undergraduate interested in language or its use, this course is also recommended as an introduction for students who plan to major in linguistics.
 
-### Time & Place
+### Recitations
 
-Section | Time | Instructor
+Section | Time | TA & Location
 --- | --- | ---
-**Lecture 001** | **M & W 12-1pm** | **with Katie in STIT B6**
-201<br>202 | R 9:30-10:30am<br>R 10:30-11:30am | with Ollie in MEYH B6
-203<br>204 | R 9:30-10:30am<br>R 10:30-11:30am | with Yiran in TOWN 307
-205<br>206 | R 9:30-10:30am<br>R 10:30-11:30am | with Milena in WILL 205
-207<br>208 | F 11-12pm<br>F 12-1pm | with Nari in FAGN 112
+201| Thursdays 9:30-10:30am| with Ollie in MEYH B6
+202 | Thursdays 10:30-11:30am | with Ollie in MEYH B6
+203 | Thursdays 9:30-10:30am | with Yiran in TOWN 307
+204 | Thursdays 10:30-11:30am | with Yiran in TOWN 307
+205 | Thursdays 9:30-10:30am | with Milena in WILL 205
+206 | Thursdays 10:30-11:30am | with Milena in WILL 205
+207 | Fridays 11-12pm | with Nari in FAGN 112
+208 | Fridays 12-1pm | with Nari in FAGN 112
 
   
 ### Materials
@@ -87,12 +90,12 @@ Wk  | Topic | Readings & Resources
 ## Grading scale
 Minimum score before rounding.
 
-A+ | 100% to 97% | A | < 97% to 93% | A- | < 93% to 90%
+A+ | 97% | A | 93% | A- |90%
 --- | --- | --- | --- | --- | ---
-B+ | < 90% to 87% | B | < 87% to 84% | B- | < 84% to 80%
-C+ | < 80% to 77% | C | < 77% to 74% | C- | < 74% to 70%
-D+ | < 70% to 67% | D | < 67% to 64% | D- | < 64% to 61%
-F | < 61% to 0%
+B+ | 87% | B | 84% | B- | <80%
+C+ | 77% | C | 74% | C- | 70%
+D+ | 67% | D |  64% | D- | 61%
+F | 0%
 
 
 ## FAQs
