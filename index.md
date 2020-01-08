@@ -43,7 +43,7 @@ M & W 12-1pm with Katie<br>in STIT B6<br><br><br><br><br><br> | 201 - R 9:30-10:
 - **Reading bonus:** Earn 10 bonus points by being a member of the recitation section with the most engagement on perusall.
 
 ## Schedule
-Schedule is tentative and subject to change.
+Schedule is subject to change. All lectures will be recorded and [posted here](https://upenn.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=99e28b4b-8d65-4ac1-9fe4-ab3c00e43bf5) a few minutes after each class.
 
 Wk  | Topic | Readings & Resources
   --- | --- | --- 
