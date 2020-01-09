@@ -16,6 +16,7 @@ Office Hours: Friday 10am-12pm
 
 ```
 Welcome to LING 1!
+Recitations begin January 23
 ```
 
 ## Overview
@@ -44,12 +45,12 @@ Section | Time | Location | TA
 - **[Perusall](https://app.perusall.com/courses/intro-to-linguistics-1)** for reading assignments (access code released at first class meeting), most of which come from [Language Files 12th edition](https://ohiostatepress.org/books/titles/9780814252703.html) (in case you prefer a paper copy).
 
 ### Evaluation 
-- **Exams (90%)** - There are four [exams](#exams) worth 150 points each, but the lowest exam score is dropped. 
-- **Language journal (10%)** - Each student is required to keep a [language journal](resources/language-journal-assignment) with a minimum of four entries and at least 800 words, worth 50 points.
+- **Exams (90%)** - There are four exams, but the lowest exam score is dropped. 
+- **Language journal (10%)** - Each student is required to keep a [language journal](resources/language-journal-assignment) with a minimum of four entries and at least 800 words.
 
 ### Extra Credit
--  **Research bonus:** Earn 5 bonus points for each hour of research participation via SONA and/or 5 bonus points for attending a language-related talk or event on campus (limit 15 total points per semester).
-- **Reading bonus:** Earn 10 bonus points by being a member of the recitation section with the most engagement on perusall.
+-  **Research bonus:** Add up to 3% points to your final grade. Earn 1% bonus for each hour of research participation via SONA and/or a 1% bonus for attending a language-related talk or event on campus.
+- **Reading bonus:** Add 1% point to your final grade by being a member of the recitation section with the most engagement on perusall (computed at weeks 9 and 16).
 
 ## Schedule
 Schedule is subject to change. All lectures will be recorded and [posted here](https://upenn.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=99e28b4b-8d65-4ac1-9fe4-ab3c00e43bf5) a few minutes after each class.
