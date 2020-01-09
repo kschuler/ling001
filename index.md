@@ -69,7 +69,7 @@ Wk  | Topic | Readings & Resources
 11 | Mar 23: Syntax I: Word Order and Co-occurance<br>Mar 25: Syntax II: Constituency |  Chapter 5
 12 | Mar 30: Syntax III: Categories<br>Apr 1: Syntax IV: | Chapter 5
 13 | Apr 6: **Exam 3**<br> Apr 8: Writing Systems with [Dr. Buckley](https://www.ling.upenn.edu/~gene/home.html)| [Study Guide](not-yet) / [Practice Questions](not-yet) / [Solutions](not-yet)<br> Chapter 15
-14 | Apr 13: Semantics<br>April 15: Pragmatics | Chapters 6 & 7<br> [Language journal](resources/language-journal-assignment) (due April 13)
+14 | Apr 13: Semantics<br>April 15: Pragmatics with Yiran and Milena | Chapters 6 & 7<br> [Language journal](resources/language-journal-assignment) (due April 13)
 15 | Apr 20:  Variation I<br> Apr 22: Variation II| Chapter 10
 16 | Apr 27: Historical<br>Apr 29: **Exam 4** | Chapter 13 <br>[Study Guide](not-yet) / [Practice Questions](not-yet) / [Solutions](not-yet)
 
