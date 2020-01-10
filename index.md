@@ -8,7 +8,7 @@ title: LING 1
 
 **Instructors**: [Dr. Kathryn Schuler](mailto:kschuler@sas.upenn.edu)  
 3401-C Walnut Street, Office 314<br>
-Office Hours: Friday 10am-12pm
+Office Hours: Fridays 10am-12pm
 
 **TAs**: [Yiran Chen](cheny39@sas.upenn.edu), [Ollie Sayeed](sayeedo@sas.upenn.edu), [Nari Rhee](nrhee@sas.upenn.edu), [Milena Šereikaitė](milenas@sas.upenn.edu)
 
