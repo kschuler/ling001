@@ -6,7 +6,7 @@ title: LING 1
 <h2 align="center">Spring 2020 Syllabus</h2>
 <h3 align="center">Mondays & Wednesdays in STIT B6</h3>
 
-**Instructors**: [Dr. Kathryn Schuler](mailto:kschuler@sas.upenn.edu)  
+[Dr. Kathryn Schuler](mailto:kschuler@sas.upenn.edu)  
 3401-C Walnut Street, Office 314<br>
 Office Hours: Fridays 10am-12pm
 
@@ -50,7 +50,7 @@ Section | Time | Location | TA
 
 ### Extra Credit
 -  **Research bonus:** Add up to 3% points to your final grade. Earn 1% bonus for each hour of research participation via SONA and/or a 1% bonus for attending a language-related talk or event on campus.
-- **Reading bonus:** Add 1% point to your final grade by being a member of the recitation section with the most engagement on perusall (computed at weeks 9 and 16).
+- **Reading bonus:** Add 1% point to your final grade by being a member of the recitation section with the most engagement on perusall.
 
 ## Schedule
 Schedule is subject to change. All lectures will be recorded and [posted here](https://upenn.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=99e28b4b-8d65-4ac1-9fe4-ab3c00e43bf5) a few minutes after each class.
