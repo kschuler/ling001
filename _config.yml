@@ -26,6 +26,7 @@ navigation:                  # (optional) site navigation in the header
    Schedule: index.html#schedule
    Policies: index.html#policies
    Canvas: https://canvas.upenn.edu/courses/1489351
+   Perusall: https://app.perusall.com/courses/intro-to-linguistics-1/_/dashboard/assignments/dz49CdFcboQ3sRP8C
 
 icons:                       # show icons in the header, for all possible icons see http://fontawesome.io/icons/
   github: "https://github.com/kschuler"
