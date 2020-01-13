@@ -62,7 +62,7 @@ Wk  | Topic | Readings & Resources
 3 | Jan 27: Language Acquisition I<br>Jan 29: Language Acquisition II  | [Chapter 8](https://app.perusall.com/courses/intro-to-linguistics-1/chapter-8-15?assignmentId=ckDfokjY25EnrzRdB&part=1)
 4 | Feb 3: Animal Communication I<br>Feb 5: Animal Communication II   | [Chapter 14](https://app.perusall.com/courses/intro-to-linguistics-1/chapter-14-13?assignmentId=7ag64J2jqfoSDxxoo&part=1)
 5 | Feb 10: **Exam 1** <br> Feb 12: Phonetics I: Consonants|  [Study Guide](resources/exam1-study-guide) / [Practice Questions](resources/exam1-practice-questions) / [Solutions](not-yet)
-6 | Feb 17: Phonetics II: Vowels<br>Feb 19: Phonetics III: Suprasegmental | Chapter 2
+6 | Feb 17: Phonetics II: Vowels with Ollie & Nari<br>Feb 19: Phonetics III: Suprasegmental | Chapter 2
 7 | Feb 24: Phonology I: Allophones & Phonemes<br>Feb 26: Phonology II: Rules & Analysis | Chapter 3
 8 | Mar 2: **Exam 2** <br>Mar 4: ASL with [Dr. Fisher](https://web.sas.upenn.edu/asl-deafstudies/) & [Dr. Santorini](https://www.ling.upenn.edu/~beatrice/)| [Study Guide](not-yet) / [Practice Questions](not-yet) / [Solutions](not-yet)
 9 | **No Class Spring Break** |  
@@ -70,7 +70,7 @@ Wk  | Topic | Readings & Resources
 11 | Mar 23: Syntax I: Word Order and Co-occurance<br>Mar 25: Syntax II: Constituency |  Chapter 5
 12 | Mar 30: Syntax III: Categories<br>Apr 1: Syntax IV: | Chapter 5
 13 | Apr 6: **Exam 3**<br> Apr 8: Writing Systems with [Dr. Buckley](https://www.ling.upenn.edu/~gene/home.html)| [Study Guide](not-yet) / [Practice Questions](not-yet) / [Solutions](not-yet)<br> Chapter 15
-14 | Apr 13: Semantics<br>April 15: Pragmatics with Yiran and Milena | Chapters 6 & 7<br> [Language journal](resources/language-journal-assignment) (due April 13)
+14 | Apr 13: Semantics<br>April 15: Pragmatics with Yiran & Milena | Chapters 6 & 7<br> [Language journal](resources/language-journal-assignment) (due April 13)
 15 | Apr 20:  Variation I<br> Apr 22: Variation II| Chapter 10
 16 | Apr 27: Historical<br>Apr 29: **Exam 4** | Chapter 13 <br>[Study Guide](not-yet) / [Practice Questions](not-yet) / [Solutions](not-yet)
 
