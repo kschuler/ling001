@@ -10,7 +10,7 @@ title: LING 1
 3401-C Walnut Street, Office 314<br>
 Office Hours: Fridays 10am-12pm
 
-**TAs**: [Yiran Chen](cheny39@sas.upenn.edu), [Ollie Sayeed](sayeedo@sas.upenn.edu), [Nari Rhee](nrhee@sas.upenn.edu), [Milena Šereikaitė](milenas@sas.upenn.edu)
+**TAs**: [Yiran Chen](mailto:cheny39@sas.upenn.edu), [Ollie Sayeed](mailto:sayeedo@sas.upenn.edu), [Nari Rhee](mailto:nrhee@sas.upenn.edu), [Milena Šereikaitė](mailto:milenas@sas.upenn.edu)
 
 ## Announcements
 
