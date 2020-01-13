@@ -81,10 +81,9 @@ Wk  | Topic | Readings & Resources
 
 ## Policies
 - **Attendance**: There is no formal attendance policy, but attendance is highly correlated with class performance.
-- **Make-up exams**: Only students with a documented family or medical emergency will be granted the opportunity to make-up an exam. Send a Canvas message to your recitation section TA to make these arrangements.
-- **Rescheduling exams**: Only students with a religious conflict or an official university event may reschedule an exam. In these cases, students must provide documentation and *advanced notice*, so send a Canvas message to your recitation section TA as soon as possible. Note that multiple exams on the same day is not a valid reason to reschedule. 
-- **Late assignments**: Late language journals will be accepted with a 5 point per day late penalty.
-- **Re-grade requests**: If you feel a grading error has been made, you must make a formal regrade request via canvas *within four days of receiving your graded exam or assignment*. TAs are not allowed to discuss your grade with you until you have made a formal written request. If you ask about grading in person or via email, you'll be directed to make a formal request via the regrade request form. 
+- **Rescheduling or make-up exams**: Because we drop your lowest exam, we do not offer retakes or make-up exams. But please contact us if something extreme happens - a family or medical emergency, for example - and we can discuss some options provided you have documentation. Note that we do not consider multiple exams on the same day an extreme happening. 
+- **Late assignments**: Late language journals will be accepted with a 2% point per day late penalty.
+- **Re-grade requests**: If you notice a grading error, we'd be happy to look at your exam again. To request a re-grade, please fill out the re-grade request form via canvas *within one week of receiving your graded exam or assignment*. This class is really big, so we need a way to formally keep track of these things. If you ask about grading in person or via email, you'll be directed to make a formal request via the regrade request form. 
 - **Accommodations and non-discrimination**: We are happy to provide accommodations to anyone with documentation from Student Disability Services and to make alternate arrangements when class conflicts with a religious holiday. Please notify your recitation section TA as soon as possible to make these arrangements.
 - **Academic Integrity**: We will follow the rules of the University and the [Code of Academic Integrity](https://catalog.upenn.edu/pennbook/code-of-academic-integrity/).  It is your responsibility to be familiar with these policies.
 
@@ -104,16 +103,16 @@ C+ 77% | C 74% | C- 70% | D+ 67% | D 64% | D- 61%
 > Yes, but the rooms are small so it's best to email the section TA to let them know.
 
 **I noticed a mistake in the grading of my exam. How do I get this fixed?**
-> We will regrade your exam if you make a formal regrade request via Canvas within the regrading window.
+> We will look at your exam again if you make a formal re-grade request via Canvas within one week of getting your exam back.
 
 **I missed or failed an exam. What can I do to make it up?**
 > Nothing. We don't allow make-up exams or retakes. However, we drop your lowest exam score, so you can still do well in the class. Just make sure it doesn't happen more than once! 
 
 **Can I turn in my language journal late?** 
-> Yes, but there is a 5 point per day late penalty.
+> Yes, but there is a 2% point per day late penalty. 
 
 **I participated in an experiment (or attended a talk). When will I get my bonus points?**
-> To receive bonus points, you must (1) make a bonus points declaration on canvas and (2) write about your research experience in your language journal. Your bonus points will be awarded as soon as you make your declaration, but we will check your journal (and SONA records, if you participated in an experiment) to confirm these points at the end of the semester.
+> To receive bonus points, you must (1) make a bonus points declaration on Canvas and (2) write about your research experience in your language journal. Your bonus points will be awarded as soon as you make your declaration, but we will check your journal (and SONA records, if you participated in an experiment) to confirm these points at the end of the semester.
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTExMzExNzQ5OSwtODU3MjYzOTU4LC0xND
 Q4NTM3MDEyLC0xMDYyMDQxMjIxLDMzNDMxMjA2NCw5MDYwMTQx
