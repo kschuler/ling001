@@ -29,6 +29,9 @@ Recitations begin January 23
 ### Description
 A general introduction to the nature, history and use of human language, speech and writing. Topics include the biological basis of human language, and analogous systems in other creatures; relations to cognition, communication, and social organization; sounds, forms and meanings in the world's languages; the reconstruction of linguistic history and the family tree of languages; dialect variation and language standardization; language and gender; language learning by children and adults; the neurology of language and language disorders; the nature and history of writing systems. Intended for any undergraduate interested in language or its use, this course is also recommended as an introduction for students who plan to major in linguistics.
 
+### When can I get help?
+<iframe src="https://calendar.google.com/calendar/embed?src=p4ktmpjedk05j4slsgdud2vk5k%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
 ### Recitations
 
 Section | Time | Location | TA
