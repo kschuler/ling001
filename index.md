@@ -8,7 +8,7 @@ title: LING 1
 
 [Dr. Kathryn Schuler](mailto:kschuler@sas.upenn.edu)  
 3401-C Walnut Street, Office 314<br>
-Office Hours: Fridays 10am-12pm
+Office Hours: Wednesdays 1:30-3:30pm
 
 **TAs**: [Yiran Chen](mailto:cheny39@sas.upenn.edu), [Ollie Sayeed](mailto:sayeedo@sas.upenn.edu), [Nari Rhee](mailto:nrhee@sas.upenn.edu), [Milena Šereikaitė](mailto:milenas@sas.upenn.edu)
 
@@ -86,6 +86,7 @@ Wk  | Topic | Readings & Resources
 - **Re-grade requests**: If you notice a grading error, we'd be happy to look at your exam again. To request a re-grade, please fill out the re-grade request form via canvas *within one week of receiving your graded exam or assignment*. This class is really big, so we need a way to formally keep track of these things. If you ask about grading in person or via email, you'll be directed to make a formal request via the regrade request form. 
 - **Accommodations and non-discrimination**: We are happy to provide accommodations to anyone with documentation from Student Disability Services and to make alternate arrangements when class conflicts with a religious holiday. Please notify your recitation section TA as soon as possible to make these arrangements.
 - **Academic Integrity**: We will follow the rules of the University and the [Code of Academic Integrity](https://catalog.upenn.edu/pennbook/code-of-academic-integrity/).  It is your responsibility to be familiar with these policies.
+- **Support**: Asking for help is a sign of strength! We hope you'll reach out to us if you need help. We also want you to be aware of Penn's [Academic](https://www.college.upenn.edu/index.php/support) & [Wellness Resources](https://www.wellnessatpenn.com/)
 
 ## Grading scale
 Minimum score before rounding.
