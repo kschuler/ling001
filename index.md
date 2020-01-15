@@ -10,8 +10,8 @@ title: LING 1
 3401-C Walnut Street, Office 314<br>
 Office Hours: Wednesdays 1:30-3:30pm
 
-**TAs**: 
-
+**TAs**: <br>
+*TA Office Hours held in 3401-C Walnut Street, Office 325-C*
 - [Yiran Chen](mailto:cheny39@sas.upenn.edu) - Office Hours Tuesdays & Thursdays 2-3pm
 - [Ollie Sayeed](mailto:sayeedo@sas.upenn.edu) - Office Hours Fridays 3-5pm
 - [Nari Rhee](mailto:nrhee@sas.upenn.edu) - Office Hours Wednesdays 10am-12pm
