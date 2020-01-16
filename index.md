@@ -5,6 +5,7 @@ title: LING 1
 
 <h2 align="center">Spring 2020 Syllabus</h2>
 <h3 align="center">Mondays & Wednesdays in STIT B6</h3>
+<h4 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeVc3oYaYWrOn3wdttjDUDXKD2WiYhw-uehQ7ulLJoC9auehg/viewform?usp=sf_link">Join the Waitlist</a></h4>
 
 [Dr. Kathryn Schuler](mailto:kschuler@sas.upenn.edu)  
 3401-C Walnut Street, Office 314<br>
