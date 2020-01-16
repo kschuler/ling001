@@ -25,6 +25,7 @@ navigation:                  # (optional) site navigation in the header
    Home: index.html
    Schedule: index.html#schedule
    Policies: index.html#policies
+   Get Help: index.html#when-we-can-help
    Canvas: https://canvas.upenn.edu/courses/1489351
    Readings: https://app.perusall.com/courses/intro-to-linguistics-1/_/dashboard/assignments/dz49CdFcboQ3sRP8C
 
