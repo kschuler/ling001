@@ -11,12 +11,13 @@ title: LING 1
 3401-C Walnut Street, Office 314<br>
 Office Hours: Wednesdays 1:30-3:30pm
 
-**TAs**: <br>
-*TA Office Hours held in 3401-C Walnut Street, Office 325-C*
+### TAs
 - [Yiran Chen](mailto:cheny39@sas.upenn.edu) - Office Hours Tuesdays & Thursdays 2-3pm
 - [Ollie Sayeed](mailto:sayeedo@sas.upenn.edu) - Office Hours Fridays 3-5pm
 - [Nari Rhee](mailto:nrhee@sas.upenn.edu) - Office Hours Wednesdays 10am-12pm
 - [Milena Šereikaitė](mailto:milenas@sas.upenn.edu) - Office Hours Mondays 3-5pm
+*TA Office Hours held in 3401-C Walnut Street, Office 325-C*
+
 
 ## Announcements
 
@@ -25,8 +26,8 @@ Welcome to LING 1!
 Recitations begin January 23
 Join the waitlist here: https://forms.gle/aPGFCeL5MPseNeSv6
 ```
-<br>
-<iframe src="https://calendar.google.com/calendar/embed?height=400&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FNew_York&amp;src=cDRrdG1wamVkazA1ajRzbHNnZHVkMnZrNWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%2330487E&amp;title=When%20we%20can%20help%20this%20week&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=WEEK" style="border-width:0" width="700" height="400" frameborder="0" scrolling="no"></iframe>
+## When we can help
+<iframe src="https://calendar.google.com/calendar/embed?height=400&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FNew_York&amp;src=cDRrdG1wamVkazA1ajRzbHNnZHVkMnZrNWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%2330487E&amp;showTz=0&amp;showCalendars=0&amp;showTabs=0&amp;showPrint=0&amp;mode=WEEK&amp;showTitle=0" style="border-width:0" width="600" height="400" frameborder="0" scrolling="no"></iframe>
 
 
 ## Overview
