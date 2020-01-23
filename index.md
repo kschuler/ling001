@@ -69,17 +69,17 @@ Schedule is subject to change. All lectures will be recorded and [posted here](h
 Wk  | Lecture | Readings | Resources
   --- | --- | --- | ---
 1 | Jan 15: [Introduction & Overview](resources/Ling001-20A-01-Intro.pdf) | | [Study Guide](resources/studyguide-week1.pdf)<br>No practice problems 
-2 | Jan 20: **No Class MLK Day**<br>Jan 22: [Language as an Instinct](resources/Ling001-20A-02-Instinct.pdf) | [Chapter 1](https://app.perusall.com/courses/intro-to-linguistics-1/pinker-ch01?assignmentId=5ib5rPaDkYoZxZc9X&part=1) | [Study Guide](resources/studyguide-week2.pdf)<br>[Practice Problems](resources/practiceproblems-week2.pdf)
-3 | Jan 27: Language Acquisition I<br>Jan 29: Language Acquisition II  | [Chapter 8](https://app.perusall.com/courses/intro-to-linguistics-1/chapter-8-15?assignmentId=ckDfokjY25EnrzRdB&part=1) | 
-4 | Feb 3: Animal Communication I<br>Feb 5: Animal Communication II   | [Chapter 14](https://app.perusall.com/courses/intro-to-linguistics-1/chapter-14-13?assignmentId=7ag64J2jqfoSDxxoo&part=1) |
-5 | Feb 10: **Exam 1** <br> Feb 12: Phonetics I: Consonants| |
-6 | Feb 17: Phonetics II: Vowels with Ollie & Nari<br>Feb 19: Phonetics III: Suprasegmental | Chapter 2 |
-7 | Feb 24: Phonology I: Allophones & Phonemes<br>Feb 26: Phonology II: Rules & Analysis | Chapter 3 |
+2 | Jan 20: **No Class MLK Day**<br>Jan 22: [Language as an Instinct](resources/Ling001-20A-02-Instinct.pdf) | [Ch 1](https://app.perusall.com/courses/intro-to-linguistics-1/pinker-ch01?assignmentId=5ib5rPaDkYoZxZc9X&part=1) | [Study Guide](resources/studyguide-week2.pdf)<br>[Practice Problems](resources/practiceproblems-week2.pdf)
+3 | Jan 27: Language Acquisition I<br>Jan 29: Language Acquisition II  | [Ch 8](https://app.perusall.com/courses/intro-to-linguistics-1/chapter-8-15?assignmentId=ckDfokjY25EnrzRdB&part=1) | 
+4 | Feb 3: Animal Communication I<br>Feb 5: Animal Communication II   | [Ch 14](https://app.perusall.com/courses/intro-to-linguistics-1/chapter-14-13?assignmentId=7ag64J2jqfoSDxxoo&part=1) |
+5 | Feb 10: **Exam 1** <br> Feb 12: Phonetics I: Consonants| [2.1 & 2.2](https://app.perusall.com/courses/intro-to-linguistics-1/_/dashboard/assignments/39n2C4wgg4umcp5Kz) |
+6 | Feb 17: Phonetics II: Vowels with Ollie & Nari<br>Feb 19: Phonetics III: Suprasegmental | [2.3 - 2.7]() |
+7 | Feb 24: Phonology I: Allophones & Phonemes<br>Feb 26: Phonology II: Rules & Analysis | [Ch 3]()|
 8 | Mar 2: **Exam 2** <br>Mar 4: ASL with [Dr. Fisher](https://web.sas.upenn.edu/asl-deafstudies/) & [Dr. Santorini](https://www.ling.upenn.edu/~beatrice/)|  |
 9 | **No Class Spring Break** |  |
-10 | Mar 16: Morphology I<br>Mar 18: Morphology II | Chapter 4 |
-11 | Mar 23: Syntax I: Word Order and Co-occurance<br>Mar 25: Syntax II: Constituency |  Chapter 5 |
-12 | Mar 30: Syntax III: Categories<br>Apr 1: Syntax IV: | Chapter 5 |
+10 | Mar 16: Morphology I<br>Mar 18: Morphology II | [Ch 4]() |
+11 | Mar 23: Syntax I: Word Order and Co-occurance<br>Mar 25: Syntax II: Constituency |  [5.1 - 5.3]() |
+12 | Mar 30: Syntax III: Categories<br>Apr 1: Syntax IV: | [5.4 & 5.5]() |
 13 | Apr 6: **Exam 3**<br> Apr 8: Writing Systems with [Dr. Buckley](https://www.ling.upenn.edu/~gene/home.html)| Chapter 15 |
 14 | Apr 13: Semantics<br>April 15: Pragmatics with Yiran & Milena | Chapters 6 & 7 | [Language journal](resources/language-journal-assignment) (due April 13)
 15 | Apr 20:  Variation I<br> Apr 22: Variation II| Chapter 10 |
