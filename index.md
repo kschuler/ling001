@@ -72,8 +72,8 @@ Wk  | Lecture | Readings | Resources
 2 | Jan 20: **No Class MLK Day**<br>Jan 22: [Language as an Instinct](resources/Ling001-20A-02-Instinct.pdf) | [Ch 1](https://app.perusall.com/courses/intro-to-linguistics-1/pinker-ch01?assignmentId=5ib5rPaDkYoZxZc9X&part=1) | [Study Guide](resources/studyguide-week2.pdf)<br>[Practice Problems](resources/practiceproblems-week2.pdf)
 3 | Jan 27: Language Acquisition I<br>Jan 29: Language Acquisition II  | [Ch 8](https://app.perusall.com/courses/intro-to-linguistics-1/chapter-8-15?assignmentId=ckDfokjY25EnrzRdB&part=1) | 
 4 | Feb 3: Animal Communication I<br>Feb 5: Animal Communication II   | [Ch 14](https://app.perusall.com/courses/intro-to-linguistics-1/chapter-14-13?assignmentId=7ag64J2jqfoSDxxoo&part=1) |
-5 | Feb 10: **Exam 1** <br> Feb 12: Phonetics I: Consonants| [2.1 - 2.2](https://app.perusall.com/courses/intro-to-linguistics-1/_/dashboard/assignments/39n2C4wgg4umcp5Kz) |
-6 | Feb 17: Phonetics II: Vowels with Ollie & Nari<br>Feb 19: Phonetics III: Suprasegmental | [2.3 - 2.7]() |
+5 | Feb 10: **Exam 1** <br> Feb 12: Phonetics I: Consonants| [2.1 - 2.2](https://app.perusall.com/courses/intro-to-linguistics-1/chapter-2-2-0-to-2-2?assignmentId=39n2C4wgg4umcp5Kz&part=1) |
+6 | Feb 17: Phonetics II: Vowels with Ollie & Nari<br>Feb 19: Phonetics III: Suprasegmental | [2.3 - 2.7](https://app.perusall.com/courses/intro-to-linguistics-1/chapter-2-2-3-to-2-7?assignmentId=yzAbFgYmhd9ax6sLy&part=1) |
 7 | Feb 24: Phonology I: Allophones & Phonemes<br>Feb 26: Phonology II: Rules & Analysis | [Ch 3]()|
 8 | Mar 2: **Exam 2** <br>Mar 4: ASL with [Dr. Fisher](https://web.sas.upenn.edu/asl-deafstudies/) & [Dr. Santorini](https://www.ling.upenn.edu/~beatrice/)|  |
 9 | **No Class Spring Break** |  |
