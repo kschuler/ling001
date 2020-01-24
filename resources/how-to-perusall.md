@@ -21,11 +21,11 @@ The recitation section with the highest average engagement score will receive a 
 
 **What does “on time” mean?**
 
->The work done in class depends on you having done the reading in advance, so it is necessary to complete the reading and post your annotations before the deadline to receive credit. Your instructor may choose to allow a late annotation period during which the credit for your annotations linearly decreases from 100% at the deadline to 0% at the end of the late annotation period. To encourage discourse, your instructor may provide a reply window after each deadline during which you can continue to reply, for full credit, to questions posted by others. 
+> The work done in class depends on you having done the reading in advance, so it is necessary to complete the reading and post your annotations before the deadline to receive credit. Your instructor may choose to allow a late annotation period during which the credit for your annotations linearly decreases from 100% at the deadline to 0% at the end of the late annotation period. To encourage discourse, your instructor may provide a reply window after each deadline during which you can continue to reply, for full credit, to questions posted by others. 
 
 **When will I get an answer to the question I asked on perusall?**
 
-Hopefully another student in your recitation section will offer an answer. If your question goes unanswered a few days after the assignment deadline, the TAs will begin answering questions. If you are waiting for an answer for longer than this, feel free to "mention" a TA to bring it to their attention.
+> Hopefully another student in your recitation section will offer an answer. If your question goes unanswered a few days after the assignment deadline, the TAs will begin answering questions. If you are waiting for an answer for longer than this, feel free to "mention" a TA to bring it to their attention.
 
 
 
