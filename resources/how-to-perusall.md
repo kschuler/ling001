@@ -14,18 +14,18 @@ For each assignment we will evaluate the annotations you submit on time (see bel
 The recitation section with the highest average engagement score will receive a 1% bonus on their final grade. But, you are only ellible for this bonus if you engage with most of the readings. Students who haven't joined Perusall or haven't engaged with many of the readings will not be ellible for bonus points.
 
 
-### How many annotations do I need to enter?	
+**How many annotations do I need to enter?**
 
-When we look at your annotations we want them to reflect the effort you put in your study of the text. It is unlikely that that effort will be reflected by just a few thoughtful annotations per assignment. On the other extreme, 20 per assignment is probably too many, unless a number of them are superficial or short comments or questions (which is fine, because it is OK to engage in chat with your peers). Somewhere in between these two extremes is about right and, thoughtful questions or comments that stimulate discussion or thoughtful and helpful answers to other students’ questions will earn you a higher score for the assignment. Note, also, that to lay the foundation for understanding the class material, you must familiarize yourself with each assignment in its entirety. Failing to annotate the entire assignment will result in a lower score.
+> When we look at your annotations we want them to reflect the effort you put in your study of the text. It is unlikely that that effort will be reflected by just a few thoughtful annotations per assignment. On the other extreme, 20 per assignment is probably too many, unless a number of them are superficial or short comments or questions (which is fine, because it is OK to engage in chat with your peers). Somewhere in between these two extremes is about right and, thoughtful questions or comments that stimulate discussion or thoughtful and helpful answers to other students’ questions will earn you a higher score for the assignment. Note, also, that to lay the foundation for understanding the class material, you must familiarize yourself with each assignment in its entirety. Failing to annotate the entire assignment will result in a lower score.
 
 
-### What does “on time” mean?
+**What does “on time” mean?**
 
-The work done in class depends on you having done the reading in advance, so it is necessary to complete the reading and post your annotations before the deadline to receive credit. Your instructor may choose to allow a late annotation period during which the credit for your annotations linearly decreases from 100% at the deadline to 0% at the end of the late annotation period. To encourage discourse, your instructor may provide a reply window after each deadline during which you can continue to reply, for full credit, to questions posted by others. 
+>The work done in class depends on you having done the reading in advance, so it is necessary to complete the reading and post your annotations before the deadline to receive credit. Your instructor may choose to allow a late annotation period during which the credit for your annotations linearly decreases from 100% at the deadline to 0% at the end of the late annotation period. To encourage discourse, your instructor may provide a reply window after each deadline during which you can continue to reply, for full credit, to questions posted by others. 
 
-### When will I get an answer to my question?
+**When will I get an answer to the question I asked on perusall?**
 
-Hopefully someone in your recitation section will offer an answer. If your question goes unanswered a few days after the assignment deadline, the TAs will begin answering questions. If you are waiting for an answer for longer than this, feel free to "mention" a TA to bring it to their attention.
+Hopefully another student in your recitation section will offer an answer. If your question goes unanswered a few days after the assignment deadline, the TAs will begin answering questions. If you are waiting for an answer for longer than this, feel free to "mention" a TA to bring it to their attention.
 
 
 
