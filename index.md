@@ -78,8 +78,8 @@ Wk  | Lecture | Readings | Resources
 8 | Mar 2: **Exam 2** <br>Mar 4: ASL with [Dr. Fisher](https://web.sas.upenn.edu/asl-deafstudies/) & [Dr. Santorini](https://www.ling.upenn.edu/~beatrice/)|  |
 9 | **No Class Spring Break** |  |
 10 | Mar 16: Morphology I<br>Mar 18: Morphology II | [Ch 4](https://app.perusall.com/courses/intro-to-linguistics-1/chapter-4-4-1-4-5?assignmentId=pxa2xEZE3KQXDioBC&part=1) |
-11 | Mar 23: Syntax I: Word Order and Co-occurance<br>Mar 25: Syntax II: Constituency |  [5.1 - 5.3]() |
-12 | Mar 30: Syntax III: Categories<br>Apr 1: Syntax IV: | [5.4 - 5.5]() |
+11 | Mar 23: Syntax I: Word Order and Co-occurance<br>Mar 25: Syntax II: Constituency |  [5.1 - 5.3](https://app.perusall.com/courses/intro-to-linguistics-1/chapter-5-5-1-to-5-3?assignmentId=sraLaXSow6MP6aYEA&part=1) |
+12 | Mar 30: Syntax III: Categories<br>Apr 1: Syntax IV: | [5.4 - 5.5](https://app.perusall.com/courses/intro-to-linguistics-1/chapter-5-5-4-to-5-5?assignmentId=bEAzTcWvBp8PyXuna&part=1) |
 13 | Apr 6: **Exam 3**<br> Apr 8: Writing Systems with [Dr. Buckley](https://www.ling.upenn.edu/~gene/home.html)| Chapter 15 |
 14 | Apr 13: Semantics<br>April 15: Pragmatics with Yiran & Milena | Chapters 6 & 7 | [Language journal](resources/language-journal-assignment) (due April 13)
 15 | Apr 20:  Variation I<br> Apr 22: Variation II| Chapter 10 |
