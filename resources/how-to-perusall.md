@@ -6,10 +6,10 @@ Research shows that by annotating thoughtfully, you’ll learn more and get bett
 
 For each assignment we will evaluate the annotations you submit on time (see below). Based on the overall body of your annotations, you will receive a score for each assignment as follows
 
-3 =	demonstrates exceptionally thoughtful and thorough reading of the entire assignment
-2 = 	demonstrates thoughtful and thorough reading of the entire assignment
-1 =	demonstrates superficial reading of the entire assignment OR thoughtful reading of only part of the assignment
-0 = 	demonstrates superficial reading of only part of the assignment
+- 3 =	demonstrates exceptionally thoughtful and thorough reading of the entire assignment
+- 2 = 	demonstrates thoughtful and thorough reading of the entire assignment
+- 1 =	demonstrates superficial reading of the entire assignment OR thoughtful reading of only part of the assignment
+- 0 = 	demonstrates superficial reading of only part of the assignment
 
 The recitation section with the highest average engagement score will receive a 1% bonus on their final grade. But, you are only ellible for this bonus if you engage with most of the readings. Students who haven't joined Perusall or haven't engaged with many of the readings will not be ellible for bonus points.
 
