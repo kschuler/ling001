@@ -5,7 +5,6 @@ title: LING 1
 
 <h2 align="center">Spring 2020 Syllabus</h2>
 <h3 align="center">Mondays & Wednesdays in STIT B6</h3>
-<h4 align="center"><a href="https://forms.gle/aPGFCeL5MPseNeSv6">** Join the Waitlist **</a></h4>
 
 [Dr. Kathryn Schuler](mailto:kschuler@sas.upenn.edu)  
 3401-C Walnut Street, Office 314<br>
@@ -17,12 +16,6 @@ Office Hours: Wednesdays 1:30-3:30pm
 [Nari Rhee](mailto:nrhee@sas.upenn.edu) - Office Hours Wednesdays 10am-12pm<br>
 [Milena Šereikaitė](mailto:milenas@sas.upenn.edu) - Office Hours Mondays 3-5pm
 
-
-## Announcements
-
-- Welcome to LING 1!
-- Recitations begin January 23
-- Join the waitlist here: https://forms.gle/aPGFCeL5MPseNeSv6
 
 ## When we can help
 The best way to get help is to come to Office Hours! Drop by during any Office Hour below, no appointment necessary. *TA Office Hours held in 3401-C Walnut Street, Office 325-C*
@@ -70,7 +63,7 @@ Wk  | Lecture | Readings | Resources
   --- | --- | --- | ---
 1 | Jan 15: [Introduction & Overview](resources/Ling001-20A-01-Intro.pdf) | | [Study Guide](resources/studyguide-week1.pdf)<br>No practice problems 
 2 | Jan 20: **No Class MLK Day**<br>Jan 22: [Language as an Instinct](resources/Ling001-20A-02-Instinct.pdf) | [Ch 1](https://app.perusall.com/courses/intro-to-linguistics-1/pinker-ch01?assignmentId=5ib5rPaDkYoZxZc9X&part=1)<br>[Lenneberg 1969](https://app.perusall.com/courses/intro-to-linguistics-1/lenneberg-1969?assignmentId=DivTEeqBn7szJmMQv&part=1) | [Study Guide](resources/studyguide-week2.pdf)<br>[Practice Problems](resources/practiceproblems-week2.pdf)<br>[Solutions](resources/solutions-week2.pdf)
-3 | Jan 27: Language Acquisition I<br>Jan 29: Language Acquisition II  | [Ch 8](https://app.perusall.com/courses/intro-to-linguistics-1/chapter-8-15?assignmentId=ckDfokjY25EnrzRdB&part=1) | 
+3 | Jan 27: [Language Acquisition](resources/LING001-20A-03-Acquisition.pdf)<br>Jan 29: [General Features of Language](resources/LING001-20A-04-GeneralFeatures.pdf)  | [Ch 8](https://app.perusall.com/courses/intro-to-linguistics-1/chapter-8-15?assignmentId=ckDfokjY25EnrzRdB&part=1) | 
 4 | Feb 3: Animal Communication I<br>Feb 5: Animal Communication II   | [Ch 14](https://app.perusall.com/courses/intro-to-linguistics-1/chapter-14-13?assignmentId=7ag64J2jqfoSDxxoo&part=1) |
 5 | Feb 10: **Exam 1** <br> Feb 12: Phonetics I: Consonants| [2.1 - 2.2](https://app.perusall.com/courses/intro-to-linguistics-1/chapter-2-2-0-to-2-2?assignmentId=39n2C4wgg4umcp5Kz&part=1) |
 6 | Feb 17: Phonetics II: Vowels with Ollie & Nari<br>Feb 19: Phonetics III: Suprasegmental | [2.3 - 2.7](https://app.perusall.com/courses/intro-to-linguistics-1/chapter-2-2-3-to-2-7?assignmentId=yzAbFgYmhd9ax6sLy&part=1) |
