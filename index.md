@@ -8,7 +8,7 @@ title: LING 1
 
 [Dr. Kathryn Schuler](mailto:kschuler@sas.upenn.edu)  
 3401-C Walnut Street, Office 314<br>
-Office Hours: Wednesdays 1:30-3:30pm
+Office Hours: Wednesdays 1-3pm
 
 ### TAs
 [Yiran Chen](mailto:cheny39@sas.upenn.edu) - Office Hours Tuesdays & Thursdays 2-3pm<br>
