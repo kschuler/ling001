@@ -33,7 +33,7 @@ Office Hours: Wednesdays 1-3pm
 
 - **Piazza:** The best way to get help anytime is to ask a question on the [new Piazza discussion board](https://piazza.com/class/k7or64b9ygz2mn). TAs will respond to questions within 24 hours. 
 
-- **Video Office Hours:** The best way to get help face-to-face is to sign up for Video Office Hours! Choose an appointment slot on the [Virtual Office Hours Calendar](https://calendar.google.com/calendar/selfsched?sstoken=UUdVTkNTMmd5ZmU0fGRlZmF1bHR8OTZiYjc4YjJlMGFhNzE0YTU0NzdlNDk5Y2ViYjJkYWI) to make an appointment to video chat.
+- **Video Office Hours:** The best way to get help face-to-face is to sign up for Video Office Hours! Choose an appointment slot on the [Virtual Office Hours Calendar](https://calendar.google.com/calendar/selfsched?sstoken=UU5rWUNsQUxDU21FfGRlZmF1bHR8YTQyOGQ5ZWRlNTAzNjAyNTMwMDljYjM5MDgyNWRmNzU) to make an appointment to video chat.
 
 
 ## Overview
