@@ -3,10 +3,10 @@ layout: page
 title: LING 1
 ---
 
-<h2 align="center">Spring 2020 Syllabus</h2>
+<h2 align="center">Spring 2020 Updated Online Syllabus</h2>
 <h3 align="center">Mondays & Wednesdays <b>Online</b></h3>
 
-## Ling001 Updated Online Syllabus
+<hr>
 After the extended Spring Break, Ling001 will be moving fully online.
 
 **What will stay the same?** 
@@ -16,7 +16,7 @@ After the extended Spring Break, Ling001 will be moving fully online.
 > The remaining two exams will now be take-home. Recitations and office hours will become live online discussions (so those in other time zones can catch up with what they missed later). Finally, your instructors will be available via video chat for individual appointments. Specific details about these changes will be coming next week. 
 
 **Stay safe, everyone!**
-
+<hr>
 
 [Dr. Kathryn Schuler](mailto:kschuler@sas.upenn.edu)  
 3401-C Walnut Street, Office 314<br>
