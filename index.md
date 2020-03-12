@@ -30,9 +30,10 @@ Office Hours: Wednesdays 1-3pm
 
 
 ## When we can help
-The best way to get help is to come to Office Hours! Drop by during any Office Hour below, no appointment necessary. *TA Office Hours held in 3401-C Walnut Street, Office 325-C*
-<br>
-<iframe src="https://calendar.google.com/calendar/embed?height=400&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FNew_York&amp;src=cDRrdG1wamVkazA1ajRzbHNnZHVkMnZrNWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%2330487E&amp;showTz=0&amp;showCalendars=0&amp;showTabs=0&amp;showPrint=0&amp;mode=WEEK&amp;showTitle=0" style="border-width:0" width="650" height="400" frameborder="0" scrolling="no"></iframe>
+
+The best way to get help anytime is to ask a question on the [new Piazza discussion board](https://piazza.com/class/k7or64b9ygz2mn). TAs will respond to questions within 24 hours. 
+
+The best way to get help face-to-face is to sign up for Video Office Hours! Choose an appointment slot on the [Virtual Office Hours Calendar](https://calendar.google.com/calendar/selfsched?sstoken=UUdVTkNTMmd5ZmU0fGRlZmF1bHR8OTZiYjc4YjJlMGFhNzE0YTU0NzdlNDk5Y2ViYjJkYWI) to make an appointment to video chat.
 
 
 ## Overview
@@ -42,16 +43,18 @@ A general introduction to the nature, history and use of human language, speech 
 
 ### Recitations
 
+TAs will be on Piazza for live discussion during your regularly scheduled recitation section.
+
 Section | Time | Location | TA
 --- | --- | ---
-201| Thursdays 9:30-10:30am| MEYH B6 | Ollie
-202 | Thursdays 10:30-11:30am | MEYH B6 | Ollie
-203 | Thursdays 9:30-10:30am | TOWN 307 | Yiran
-204 | Thursdays 10:30-11:30am | TOWN 307 | Yiran
-205 | Thursdays 9:30-10:30am | WILL 205 | Milena
-206 | Thursdays 10:30-11:30am | WILL 205 | Milena
-207 | Fridays 11-12pm | FAGN 112 | Nari
-208 | Fridays 12-1pm | FAGN 112 | Nari
+201| Thursdays 9:30-10:30am| on Piazza | Ollie
+202 | Thursdays 10:30-11:30am | on Piazza | Ollie
+203 | Thursdays 9:30-10:30am | on Piazza | Yiran
+204 | Thursdays 10:30-11:30am | on Piazza | Yiran
+205 | Thursdays 9:30-10:30am | on Piazza | Milena
+206 | Thursdays 10:30-11:30am | on Piazza | Milena
+207 | Fridays 11-12pm | on Piazza | Nari
+208 | Fridays 12-1pm | on Piazza | Nari
 
   
 ### Materials
@@ -59,6 +62,7 @@ Section | Time | Location | TA
 - **[Course website](index.html)** (you are here) for schedule, policies, and links to all assigned materials
 - **[Canvas site](https://canvas.upenn.edu/courses/1489351)** for announcements and grade related things
 - **[Perusall](https://app.perusall.com/courses/intro-to-linguistics-1)** for reading assignments (access code released at first class meeting), most of which come from [Language Files 12th edition](https://ohiostatepress.org/books/titles/9780814252703.html) (in case you prefer a paper copy).
+- **[Piazza](https://piazza.com/class/k7or64b9ygz2mn)** for online discussion and virtual recitations
 
 ### Evaluation 
 - **Exams (90%)** - There are four exams, but the lowest exam score is dropped. 
