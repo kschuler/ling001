@@ -10,10 +10,12 @@ title: LING 1
 After the extended Spring Break, Ling001 will be moving fully online.
 
 **What will stay the same?** 
-> You'll access course materials in exactly the same way you did before. Lectures will be [posted here](https://upenn.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=99e28b4b-8d65-4ac1-9fe4-ab3c00e43bf5) at our usual class time for you to watch and links to all class materials (readings, study guides, and practice problems/solutions will be right here on the website, as before.
+> You'll access course materials in exactly the same way you did before. Lectures will be [posted here](https://upenn.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=99e28b4b-8d65-4ac1-9fe4-ab3c00e43bf5) at our usual class time for you to watch and links to all class materials (readings, study guides, and practice problems/solutions) will be right here on the website, as before.
 
 **What will change?**
-> The remaining two exams will now be take-home. Recitations and office hours will become live online discussions (so those in other time zones can catch up with what they missed later). Finally, your instructors will be available via video chat for individual appointments. Specific details about these changes will be coming next week.
+> The remaining two exams will now be take-home. Recitations and office hours will become live online discussions (so those in other time zones can catch up with what they missed later). Finally, your instructors will be available via video chat for individual appointments. Specific details about these changes will be coming next week. 
+
+**Stay safe, everyone!**
 
 
 [Dr. Kathryn Schuler](mailto:kschuler@sas.upenn.edu)  
