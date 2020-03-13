@@ -69,11 +69,11 @@ Section | Time | Location | TA
 - **Language journal (10%)** - Each student is required to keep a [language journal](resources/language-journal-assignment) with a minimum of four entries and at least 800 words.
 
 ### Extra Credit
--  **Research bonus:** Add up to 3% points to your final grade. Earn 1% bonus for each hour of research participation via SONA (online options) and/or a 1% bonus for attending a language-related talk or event ~~on campus~~ online (list of talks coming soon).
+-  **Research bonus:** Add up to 3% points to your final grade. Earn 1% bonus for each hour of research participation via SONA and/or a 1% bonus for attending a language-related talk ~~or event on campus~~ online (list of talks coming soon).
 - **Reading bonus:** Add 1% point to your final grade by being a member of the recitation section with the [most engagement on perusall](resources/how-perusall-works.pdf). You must engage with most readings to be elligible.
 
 ## Schedule
-Schedule is subject to change. All lectures will be recorded and [posted here](https://upenn.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=99e28b4b-8d65-4ac1-9fe4-ab3c00e43bf5) a few minutes after each class.
+Schedule is subject to change. All lectures will be recorded and [posted here](https://upenn.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=99e28b4b-8d65-4ac1-9fe4-ab3c00e43bf5) ~~a few minutes after each class~~ at the begining of the week.
 
 Wk  | Lecture | Readings | Resources
   --- | --- | --- | ---
@@ -95,14 +95,14 @@ Wk  | Lecture | Readings | Resources
 16 | Apr 27: Historical<br>Apr 29: **Exam 4** | TBD  |
 
 ## How to do well in LING 1
-- Come to class and do the assigned readings
+- ~~Come to class~~ Watch the videos and do the assigned readings
 - Attempt the practice problems and check your answers against the solutions
-- Come prepared to recitation. Ask questions about the course material and for help on practice problems you had trouble with 
+- Come prepared to recitation (on Piazza). Ask questions about the course material and for help on practice problems you had trouble with 
 
 ## Policies
 - **Attendance**: There is no formal attendance policy, but attendance is highly correlated with class performance.
 - **Rescheduling or make-up exams**: Because we drop your lowest exam, we do not offer retakes or make-up exams. But please contact us if something extreme happens - a family or medical emergency, for example - and we can discuss some options provided you have documentation. Note that we do not consider multiple exams on the same day an extreme happening. 
-- **Late assignments**: Late language journals will be accepted with a 2% point per day late penalty.
+- **Late assignments**: Late language journals will be accepted ~~with a 2% point per day late penalty~~ without penalty through the end of the semester.
 - **Re-grade requests**: If you notice a grading error, we'd be happy to look at your exam again. To request a re-grade, please fill out the re-grade request form via canvas *within one week of receiving your graded exam or assignment*. This class is really big, so we need a way to formally keep track of these things. If you ask about grading in person or via email, you'll be directed to make a formal request via the regrade request form. 
 - **Accommodations and non-discrimination**: We are happy to provide accommodations to anyone with documentation from Student Disability Services and to make alternate arrangements when class conflicts with a religious holiday. Please notify your recitation section TA as soon as possible to make these arrangements.
 - **Academic Integrity**: We will follow the rules of the University and the [Code of Academic Integrity](https://catalog.upenn.edu/pennbook/code-of-academic-integrity/).  It is your responsibility to be familiar with these policies.
@@ -132,7 +132,7 @@ C+ 77% | C 74% | C- 70% | D+ 67% | D 64% | D- 61%
 > Nothing. We don't allow make-up exams or retakes. However, we drop your lowest exam score, so you can still do well in the class. Just make sure it doesn't happen more than once! 
 
 **Can I turn in my language journal late?** 
-> Language journals will be accepted without penalty through the end of the semester (April 29th). ~~Yes, but there is a 2% point per day late penalty. ~~
+> Language journals will be accepted without penalty through the end of the semester (April 29th). ~~Yes, but there is a 2% point per day late penalty.~~
 
 **I participated in an experiment (or attended a talk). When will I get my bonus points?**
 > To receive bonus points, you must (1) make a [bonus points declaration](https://canvas.upenn.edu/courses/1489351/quizzes/2285014?module_item_id=17260181) on Canvas and (2) write about your research experience in your [language journal](resources/language-journal-assignment). Your bonus points will be awarded as soon as you make your declaration, but we will check your journal (and SONA records, if you participated in an experiment) to confirm these points at the end of the semester.
