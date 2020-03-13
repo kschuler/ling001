@@ -89,10 +89,10 @@ Wk  | Lecture | Readings | Resources
 10 | **No Class Extended Spring Break** | |
 11 | Mar 23: Morphology | [Ch 4](https://app.perusall.com/courses/intro-to-linguistics-1/chapter-4-4-1-4-5?assignmentId=pxa2xEZE3KQXDioBC&part=1) |
 12 | Mar 30: Syntax |  |
-13 | Apr 6: **Exam 3**<br> Apr 8: Writing Systems with [Dr. Buckley](https://www.ling.upenn.edu/~gene/home.html)| TBD| 
+13 | Apr 6: More Syntax<br> **Exam 3 due**| TBD| 
 14 | Apr 13: Semantics & Pragmatics with Yiran & Milena | TBD | [Language journal](resources/language-journal-assignment) (due April 13)
-15 | Apr 20:  Variation| TBD |
-16 | Apr 27: Historical<br>Apr 29: **Exam 4** | TBD  |
+15 | Apr 20: Variation| TBD |
+16 | Apr 27: Historical<br>**Exam 4 due** | TBD  |
 
 ## How to do well in LING 1
 - ~~Come to class~~ Watch the videos and do the assigned readings
