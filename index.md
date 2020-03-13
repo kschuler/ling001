@@ -69,7 +69,7 @@ Section | Time | Location | TA
 - **Language journal (10%)** - Each student is required to keep a [language journal](resources/language-journal-assignment) with a minimum of four entries and at least 800 words.
 
 ### Extra Credit
--  **Research bonus:** Add up to 3% points to your final grade. Earn 1% bonus for each hour of research participation via SONA and/or a 1% bonus for attending a language-related talk or event on campus.
+-  **Research bonus:** Add up to 3% points to your final grade. Earn 1% bonus for each hour of research participation via SONA (online options) and/or a 1% bonus for attending a language-related talk or event ~~on campus~~ online (list of talks coming soon).
 - **Reading bonus:** Add 1% point to your final grade by being a member of the recitation section with the [most engagement on perusall](resources/how-perusall-works.pdf). You must engage with most readings to be elligible.
 
 ## Schedule
@@ -130,7 +130,7 @@ C+ 77% | C 74% | C- 70% | D+ 67% | D 64% | D- 61%
 > Nothing. We don't allow make-up exams or retakes. However, we drop your lowest exam score, so you can still do well in the class. Just make sure it doesn't happen more than once! 
 
 **Can I turn in my language journal late?** 
-> Yes, but there is a 2% point per day late penalty. 
+> **Updated March 13 2020:** language journals will be accepted without penalty through the end of the semester (April 29th). ~~Yes, but there is a 2% point per day late penalty. ~~
 
 **I participated in an experiment (or attended a talk). When will I get my bonus points?**
 > To receive bonus points, you must (1) make a [bonus points declaration](https://canvas.upenn.edu/courses/1489351/quizzes/2285014?module_item_id=17260181) on Canvas and (2) write about your research experience in your [language journal](resources/language-journal-assignment). Your bonus points will be awarded as soon as you make your declaration, but we will check your journal (and SONA records, if you participated in an experiment) to confirm these points at the end of the semester.
