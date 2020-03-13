@@ -117,11 +117,13 @@ C+ 77% | C 74% | C- 70% | D+ 67% | D 64% | D- 61%
 
 
 ## FAQs
+*Updated March 13, 2020 to reflect the new online version of the course* 
+
 **Can I skip the fourth exam if I am happy with my grade on the first three?**
 > Yes! You can skip the fourth exam and it will be dropped. Your grade will be based on the first three exams.
 
 **If I miss recitation can I come to another recitation section that week?**
-> Yes, but the rooms are small so it's best to email the section TA to let them know.
+> Yes, you can join any live recitation discussion on Piazza that works for your schedule.~~but the rooms are small so it's best to email the section TA to let them know.~~
 
 **I noticed a mistake in the grading of my exam. How do I get this fixed?**
 > We will look at your exam again if you make a formal [re-grade request](https://canvas.upenn.edu/courses/1489351/modules/items/17298855) via Canvas within one week of getting your exam back.
@@ -130,7 +132,7 @@ C+ 77% | C 74% | C- 70% | D+ 67% | D 64% | D- 61%
 > Nothing. We don't allow make-up exams or retakes. However, we drop your lowest exam score, so you can still do well in the class. Just make sure it doesn't happen more than once! 
 
 **Can I turn in my language journal late?** 
-> **Updated March 13 2020:** language journals will be accepted without penalty through the end of the semester (April 29th). ~~Yes, but there is a 2% point per day late penalty. ~~
+> Language journals will be accepted without penalty through the end of the semester (April 29th). ~~Yes, but there is a 2% point per day late penalty. ~~
 
 **I participated in an experiment (or attended a talk). When will I get my bonus points?**
 > To receive bonus points, you must (1) make a [bonus points declaration](https://canvas.upenn.edu/courses/1489351/quizzes/2285014?module_item_id=17260181) on Canvas and (2) write about your research experience in your [language journal](resources/language-journal-assignment). Your bonus points will be awarded as soon as you make your declaration, but we will check your journal (and SONA records, if you participated in an experiment) to confirm these points at the end of the semester.
