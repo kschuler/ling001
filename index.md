@@ -86,12 +86,12 @@ Wk  | Lecture | Readings | Resources
 7 | Feb 24: [Phonology](resources/Ling001-20A-10-PhonologyI.pdf)<br>Feb 26: [Exam 2 Review!](resources/Ling001-20A-11-Exam2Review.pdf) | [Ch 3](https://app.perusall.com/courses/intro-to-linguistics-1/chapter-3-3-1-to-3-5?assignmentId=HKF3XuDMARwyE6Wt8&part=1)| [Study Guide 7](resources/studyguide-week7.pdf)<br>[Practice Problems 7](resources/practiceproblems-week7.pdf)<br>[Solutions 7](resources/solutions-week7.pdf)
 8 | Mar 2: **Exam 2** <br>Mar 4: ASL with [Dr. Fisher](https://web.sas.upenn.edu/asl-deafstudies/) & [Dr. Santorini](https://www.ling.upenn.edu/~beatrice/)|  |
 9 | **No Class Spring Break** |  |
-10 | Mar 16: Morphology I<br>Mar 18: Morphology II | [Ch 4](https://app.perusall.com/courses/intro-to-linguistics-1/chapter-4-4-1-4-5?assignmentId=pxa2xEZE3KQXDioBC&part=1) |
-11 | Mar 23: Syntax I: Word Order and Co-occurance<br>Mar 25: Syntax II: Constituency |  [5.1 - 5.3](https://app.perusall.com/courses/intro-to-linguistics-1/chapter-5-5-1-to-5-3?assignmentId=sraLaXSow6MP6aYEA&part=1) |
-12 | Mar 30: Syntax III: Categories<br>Apr 1: Syntax IV: | [5.4 - 5.5](https://app.perusall.com/courses/intro-to-linguistics-1/chapter-5-5-4-to-5-5?assignmentId=bEAzTcWvBp8PyXuna&part=1) |
+10 | **No Class Extended Spring Break** | |
+11 | Mar 23: Morphology | [Ch 4](https://app.perusall.com/courses/intro-to-linguistics-1/chapter-4-4-1-4-5?assignmentId=pxa2xEZE3KQXDioBC&part=1) |
+12 | Mar 30: Syntax |  |
 13 | Apr 6: **Exam 3**<br> Apr 8: Writing Systems with [Dr. Buckley](https://www.ling.upenn.edu/~gene/home.html)| TBD| 
-14 | Apr 13: Semantics<br>April 15: Pragmatics with Yiran & Milena | TBD | [Language journal](resources/language-journal-assignment) (due April 13)
-15 | Apr 20:  Variation I<br> Apr 22: Variation II| TBD |
+14 | Apr 13: Semantics & Pragmatics with Yiran & Milena | TBD | [Language journal](resources/language-journal-assignment) (due April 13)
+15 | Apr 20:  Variation| TBD |
 16 | Apr 27: Historical<br>Apr 29: **Exam 4** | TBD  |
 
 ## How to do well in LING 1
