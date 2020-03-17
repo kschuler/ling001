@@ -22,6 +22,6 @@ Language is such a central part of our everyday experience that we often take it
 
 Each student is required to submit their language journal as a .pdf via Canvas. Journals should have with a minimum of four observations (see above) and at least 800 words, worth 50 points. You will receive 5 points for each relevant observation (20 max) and up to 30 points for being insightful, creative, and linking your observations with lecture and/or readings (see below).
 
-Advanced<br>30 | Thorough<br>35 | Proficient<br>20 | Basic<br>15| No Evidence <br>10
+Advanced<br>30 | Thorough<br>25 | Proficient<br>20 | Basic<br>15| No Evidence <br>10
 --- | --- | --- | --- | ---
 **Wow!**<br> You can insightfully analyze and explain in depth how your observations relate to what we learned in class and readings | **Great!**<br> You showed an understanding of how your observations relate to what we learned in class and readings | **Pretty Good!**<br> You attempted to analyze and explain how your observations relate to what you learned, but you don’t provide enough connection to class material | **Not Bad**<br> You attempted to analyze and explain how your observations relate to what you learned, but you are incorrect, or you have very little to no connection to class material | You did not attempt to analyze and explain how your observations relate to what you learned in class.
