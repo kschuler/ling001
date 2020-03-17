@@ -29,7 +29,7 @@ Office Hours: Wednesdays 1-3pm
 [Milena Šereikaitė](mailto:milenas@sas.upenn.edu) - Office Hours Mondays 3-5pm
 
 
-## How to get help
+## When we can help
 
 - **Piazza:** The best way to get help anytime is to ask a question on the [new Piazza discussion board](https://piazza.com/class/k7or64b9ygz2mn). TAs will respond to questions within 24 hours. 
 
