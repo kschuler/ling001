@@ -87,12 +87,12 @@ Wk  | Lecture | Readings | Resources
 8 | Mar 2: **Exam 2** <br>Mar 4: ASL with [Dr. Fisher](https://web.sas.upenn.edu/asl-deafstudies/) & [Dr. Santorini](https://www.ling.upenn.edu/~beatrice/)|  |
 9 | **No Class Spring Break** |  |
 10 | **No Class Extended Spring Break** | |
-11 | Mar 23: Morphology | [Ch 4](https://app.perusall.com/courses/intro-to-linguistics-1/chapter-4-4-1-4-5?assignmentId=pxa2xEZE3KQXDioBC&part=1) |
-12 | Mar 30: Syntax |  |
-13 | Apr 6: More Syntax<br> **Exam 3 due**| TBD| 
-14 | Apr 13: Semantics & Pragmatics with Yiran & Milena | TBD | [Language journal](resources/language-journal-assignment) (due April 13)
-15 | Apr 20: Variation| TBD |
-16 | Apr 27: Historical<br>**Exam 4 due** | TBD  |
+11 | Mar 23: Morphology I<br>Mar 25: Morphology II | [Ch 4](https://app.perusall.com/courses/intro-to-linguistics-1/chapter-4-4-1-4-5?assignmentId=pxa2xEZE3KQXDioBC&part=1) |
+12 | Mar 30: Syntax I <br> Apr 1: Syntax II <br> Apr 3: **Exam 3 released**|  |
+13 | **Work on Exam 3**| TBD| 
+14 | Apr 13: **Exam 3 due**<br> Apr 13: Semantics <br> Apr 15: Pragmatics with Yiran & Milena | TBD | [Language journal](resources/language-journal-assignment) (due April 13)
+15 | Apr 20: Variation <br> Apr 22: Historical | TBD |
+16 | **Work on Exam 4**<br>Apr 29: **Exam 4 due** | TBD  |
 
 ## How to do well in LING 1
 - ~~Come to class~~ Watch the videos and do the assigned readings
