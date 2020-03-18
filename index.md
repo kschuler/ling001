@@ -69,7 +69,7 @@ Section | Time | Location | TA
 - **Language journal (10%)** - Each student is required to keep a [language journal](resources/language-journal-assignment) with a minimum of four entries and at least 800 words.
 
 ### Extra Credit
--  **Research bonus:** Add up to 3% points to your final grade. Earn 1% bonus for each hour of research participation via SONA and/or a 1% bonus for ~~attending~~ a language-related talk ~~or event on campus~~ online ([here is a list of extra-credit elligible talks on youtube](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vT2HlyiQvL7kyYcxfT6mFVLjOzqnlsst_rmb2eGQFphNa7DCYQ-5Fl9F1pw4GhmKLh1yaWjrGBf7LK2/pubhtml?gid=0&single=true)).
+-  **Research bonus:** Add up to 3% points to your final grade. Earn 1% bonus for each hour of research participation via SONA and/or a 1% bonus for ~~attending~~ watching a language-related talk ~~or event on campus~~ online ([here is a list of extra-credit elligible talks on youtube](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vT2HlyiQvL7kyYcxfT6mFVLjOzqnlsst_rmb2eGQFphNa7DCYQ-5Fl9F1pw4GhmKLh1yaWjrGBf7LK2/pubhtml?gid=0&single=true)).
 - **Reading bonus:** Add 1% point to your final grade by being a member of the recitation section with the [most engagement on perusall](resources/how-perusall-works.pdf). You must engage with most readings to be elligible.
 
 ## Schedule
