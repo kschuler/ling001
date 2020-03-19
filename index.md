@@ -17,7 +17,7 @@ After the extended Spring Break, Ling001 will be moving fully online.
 
 **What new tools will I need?**
 > (1) Lectures will be posted on [Panopto](https://upenn.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=99e28b4b-8d65-4ac1-9fe4-ab3c00e43bf5) as usual, but I'll also send a link just before class to the live stream so you can watch (and comment) live if you want to.
-> (2) Discussion, office hours, and recitation will take place on [Piazza](piazza.com/upenn/spring2020/ling001/home), so please join us there!
+> (2) Discussion, office hours, and recitation will take place on [Piazza](https://piazza.com/upenn/spring2020/ling001/home), so please join us there!
 
 **Stay safe, everyone!**
 <hr>
@@ -35,7 +35,7 @@ Office Hours: Wednesdays 1-3pm
 
 ## When we can help
 
-- **Piazza:** The best way to get help anytime is to ask a question on the [new Piazza discussion board](piazza.com/upenn/spring2020/ling001). TAs will respond to questions within 24 hours. 
+- **Piazza:** The best way to get help anytime is to ask a question on the [new Piazza discussion board](https://piazza.com/upenn/spring2020/ling001). TAs will respond to questions within 24 hours. 
 
 - **Video Office Hours:** The best way to get help face-to-face is to sign up for Video Office Hours! Choose an appointment slot on the [Virtual Office Hours Calendar](https://calendar.google.com/calendar/selfsched?sstoken=UU5rWUNsQUxDU21FfGRlZmF1bHR8YTQyOGQ5ZWRlNTAzNjAyNTMwMDljYjM5MDgyNWRmNzU) to make an appointment to video chat.
 
@@ -66,7 +66,7 @@ Section | Time | Location | TA
 - **[Course website](index.html)** (you are here) for schedule, policies, and links to all assigned materials
 - **[Canvas site](https://canvas.upenn.edu/courses/1489351)** for announcements and grade related things
 - **[Perusall](https://app.perusall.com/courses/intro-to-linguistics-1)** for reading assignments (access code released at first class meeting), most of which come from [Language Files 12th edition](https://ohiostatepress.org/books/titles/9780814252703.html) (in case you prefer a paper copy).
-- **[Piazza](piazza.com/upenn/spring2020/ling001)** for online discussion and virtual recitations
+- **[Piazza](https://piazza.com/upenn/spring2020/ling001)** for online discussion and virtual recitations
 
 ### Evaluation 
 - **Exams (90%)** - There are four exams, but the lowest exam score is dropped. 
