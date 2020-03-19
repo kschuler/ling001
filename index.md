@@ -13,12 +13,11 @@ After the extended Spring Break, Ling001 will be moving fully online.
 > You'll access course materials in exactly the same way you did before. Lectures will be live-streamed and [posted here](https://upenn.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=99e28b4b-8d65-4ac1-9fe4-ab3c00e43bf5) at our usual class time for you to watch and links to all class materials (readings, study guides, and practice problems/solutions) will be right here on the website, as before.
 
 **What will change?**
-> The remaining two exams will now be take-home (see [schedule](#schedule)). Recitations and office hours will become a live discussion board (so those in other time zones can catch up with what they missed later). Finally, your instructors will be available via video chat for individual appointments. Specific details on the syllabus below. 
+> The remaining two exams will now be take-home (see [schedule](#schedule)). Recitations and office hours will become a live discussion board (so those in other time zones can catch up with what they missed later). Finally, your instructors will be available via video chat for individual appointments. Specific changes are indicated on the syllabus below. 
 
 **What new tools will I need?**
-> (1) Lectures will be posted on [Panopto](https://upenn.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=99e28b4b-8d65-4ac1-9fe4-ab3c00e43bf5) as usual, but I'll also send a link just before class (via Piazza) to the live stream so you can watch (and comment) live if you want to (requires PennKey login).
+> (1) Lectures will be posted on [Panopto](https://upenn.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=99e28b4b-8d65-4ac1-9fe4-ab3c00e43bf5) as usual, but I'll also send a link just before class to the live stream so you can watch (and comment) live if you want to.
 > (2) Discussion, office hours, and recitation will take place on the [Piazza discussion board](piazza.com/upenn/spring2020/ling001/home), so please join us there!
-> (3) You might find this [time zone converter](https://www.worldtimebuddy.com/) helpful.
 
 **Stay safe, everyone!**
 <hr>
