@@ -144,6 +144,15 @@ C+ 77% | C 74% | C- 70% | D+ 67% | D 64% | D- 61%
 **What does it mean to be "engaged" on perusall?**
 > Read more about how engagement is computed on perusall [here](resources/how-perusall-works.pdf) and see a sample [here](https://perusall.com/downloads/scoring-examples.pdf).
 
+**How do I watch the lecture live?**
+> I'll send a link just before our usual class time (12pm M & W) via Piazza for those who want to watch the lecture live. You'll click the link to watch and can login with your PennKey if you'd like to make live comments to me. I'll pause periodically to answer questions I see.
+
+**I'm in a different time zone, will I miss anything?**
+> No, definitely not! The lectures will be recorded so you can watch them any time you like. All discussions will take place on Piazza, so you read through the discussions any time, and also add your own comments and questions whenever you can.
+
+**I'm worried about how I will do this. I have like 9 people working from home in my house, plus 3 toddlers, 2 birds, and a dog. Help!**
+> Don't worry, we were thinking of you when we redesigned the course. We ramped things way down, extended the language journal deadline, and are giving you at least a week to complete the (no take-home) exams. Each week, we will give you a specific goal so you know exactly what you need to do to be able to do the exams. We know this is not easy for you and we are here to help. 
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTExMzExNzQ5OSwtODU3MjYzOTU4LC0xND
 Q4NTM3MDEyLC0xMDYyMDQxMjIxLDMzNDMxMjA2NCw5MDYwMTQx
