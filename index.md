@@ -151,7 +151,7 @@ C+ 77% | C 74% | C- 70% | D+ 67% | D 64% | D- 61%
 > No, definitely not! The lectures will be recorded so you can watch them any time you like. All discussions will take place on Piazza, so you read through the discussions any time, and also add your own comments and questions whenever you can.
 
 **I'm worried about how I will do this. I have like 9 people working from home in my house, plus 3 toddlers, 2 birds, and a dog. Help!**
-> Don't worry, we were thinking of you when we redesigned the course. We ramped things way down, extended the language journal deadline, and are giving you at least a week to complete the (no take-home) exams. Each week, we will give you a specific goal so you know exactly what you need to do to be able to do the exams. We know this is not easy for you and we are here to help. 
+> Don't worry, we were thinking of you when we redesigned the course. We ramped things way down, extended the language journal deadline, and are giving you a full week to complete the (now take-home) exams. Each week, we will give you a specific goal so you know exactly what you need to do to be able to do the exams. We know this is not easy for you and we are here to help. 
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTExMzExNzQ5OSwtODU3MjYzOTU4LC0xND
