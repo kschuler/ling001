@@ -17,7 +17,7 @@ After the extended Spring Break, Ling001 will be moving fully online.
 
 **What new tools will I need?**
 > (1) Lectures will be posted on [Panopto](https://upenn.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=99e28b4b-8d65-4ac1-9fe4-ab3c00e43bf5) as usual, but I'll also send a link just before class to the live stream so you can watch (and comment) live if you want to.
-> (2) Discussion, office hours, and recitation will take place on the [Piazza discussion board](piazza.com/upenn/spring2020/ling001/home), so please join us there!
+> (2) Discussion, office hours, and recitation will take place on [Piazza](piazza.com/upenn/spring2020/ling001/home), so please join us there!
 
 **Stay safe, everyone!**
 <hr>
