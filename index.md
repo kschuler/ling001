@@ -121,7 +121,7 @@ C+ 77% | C 74% | C- 70% | D+ 67% | D 64% | D- 61%
 
 
 ## FAQs
-*Updated March 13, 2020 to reflect the new online version of the course* 
+*Updated March 19, 2020 to reflect the new online version of the course* 
 
 **Can I skip the fourth exam if I am happy with my grade on the first three?**
 > Yes! You can skip the fourth exam and it will be dropped. Your grade will be based on the first three exams.
