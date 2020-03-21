@@ -5,6 +5,9 @@ title: LING 1
 
 <h2 align="center">Spring 2020 Updated Online Syllabus</h2>
 <h3 align="center">Mondays & Wednesdays <b>Online</b></h3>
+<br>
+<h3 align="center"><b>**Placeholder for link to livestream lecture on Monday**</b></h3>
+
 
 <hr>
 After the extended Spring Break, Ling001 will be moving fully online.
