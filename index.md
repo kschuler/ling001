@@ -6,7 +6,7 @@ title: LING 1
 <h2 align="center">Spring 2020 Updated Online Syllabus</h2>
 <h3 align="center">Mondays & Wednesdays <b>Online</b></h3>
 <br>
-<h4 align="center"><a href="https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1510920a-ee03-420e-a052-ab8500f20464"><b>**Link to live-stream lecture (live on Mon Mar 23, 2020)**</b></a></h4>
+<h4 align="center"><a href="https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1510920a-ee03-420e-a052-ab8500f20464"><b>**Link to live-stream lecture (live Mar 23 @ 12 EDT)**</b></a></h4>
 
 
 <hr>
