@@ -16,11 +16,11 @@ After the extended Spring Break, Ling001 will be moving fully online.
 > You'll access course materials in exactly the same way you did before. Lectures will be live-streamed and [posted here](https://upenn.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=99e28b4b-8d65-4ac1-9fe4-ab3c00e43bf5) at our usual class time for you to watch and links to all class materials (readings, study guides, and practice problems/solutions) will be right here on the website, as before.
 
 **What will change?**
-> The remaining two exams will now be take-home (see [schedule](#schedule)). Recitations and office hours will become a live discussion board (so those in other time zones can catch up with what they missed later). Finally, your instructors will be available via video chat for individual appointments. Specific changes are indicated on the syllabus below. 
+> The remaining two exams will now be take-home (see [schedule](#schedule)). Recitations and office hours will become a live video chat via Zoom (so those in other time zones can catch up with what they missed later). Finally, your instructors will be available via video chat for individual appointments. Specific changes are indicated on the syllabus below. 
 
 **What new tools will I need?**
 > (1) Lectures will be posted on [Panopto](https://upenn.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=99e28b4b-8d65-4ac1-9fe4-ab3c00e43bf5) as usual, but I'll also send a link just before class to the live stream so you can watch (and comment) live if you want to.
-> (2) Discussion, office hours, and recitation will take place on [Piazza](https://piazza.com/upenn/spring2020/ling001/home), so please join us there!
+> (2) Discussion will take place on [Piazza](https://piazza.com/upenn/spring2020/ling001/home) and office hours and recitation on Zoom!
 
 **Stay safe, everyone!**
 <hr>
@@ -54,14 +54,14 @@ TAs will be on Piazza for live discussion during your regularly scheduled recita
 
 Section | Time | Location | TA
 --- | --- | ---
-201| Thursdays 9:30-10:30am| on Piazza | Ollie
-202 | Thursdays 10:30-11:30am | on Piazza | Ollie
-203 | Thursdays 9:30-10:30am | on Piazza | Yiran
-204 | Thursdays 10:30-11:30am | on Piazza | Yiran
-205 | Thursdays 9:30-10:30am | on Piazza | Milena
-206 | Thursdays 10:30-11:30am | on Piazza | Milena
-207 | Fridays 11-12pm | on Piazza | Nari
-208 | Fridays 12-1pm | on Piazza | Nari
+201| Thursdays 9:30-10:30am| on Zoom | Ollie
+202 | Thursdays 10:30-11:30am | on Zoom | Ollie
+203 | Thursdays 9:30-10:30am | on Zoom | Yiran
+204 | Thursdays 10:30-11:30am | on Zoom | Yiran
+205 | Thursdays 9:30-10:30am | on Zoom | Milena
+206 | Thursdays 10:30-11:30am | on Zoom | Milena
+207 | Fridays 11-12pm | on Zoom | Nari
+208 | Fridays 12-1pm | on Zoom | Nari
 
   
 ### Materials
