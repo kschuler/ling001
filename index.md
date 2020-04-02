@@ -95,7 +95,7 @@ Wk  | Lecture | Readings | Resources
 9 | **No Class Spring Break** |  |
 10 | **No Class Extended Spring Break** | |
 11 | Mar 23: [Morphology I](resources/Ling001-20A-13-Morphology1-pdf.pdf)<br>Mar 25: [Morphology II](resources/Ling001-20A-14-Morphology2.pdf) | [Ch 4](https://app.perusall.com/courses/intro-to-linguistics-1/chapter-4-4-1-4-5?assignmentId=pxa2xEZE3KQXDioBC&part=1) | [Study Guide 11](resources/studyguide-week11.pdf)<br>[Practice Problems 11](resources/practiceproblems-week11.pdf)<br>[Solutions 11](resources/solutions-week11.pdf)
-12 | Mar 30: [Syntax I](resources/Ling001-20A-15-Syntax1.pdf) <br> Apr 1: [Syntax II](resources/Ling001-20A-16-Syntax2.pdf) <br> Apr 3: **Exam 3 released**| [Ch 5](https://app.perusall.com/courses/intro-to-linguistics-1/chapter-5-19?assignmentId=i7tR6HdzMEfCB99ck&part=1) | [Practice Problems 12](resources/practiceproblems-week12.pdf)<br>[Solutions 12](resources/solutions-week12.pdf)
+12 | Mar 30: [Syntax I](resources/Ling001-20A-15-Syntax1.pdf) <br> Apr 1: [Syntax II](resources/Ling001-20A-16-Syntax2.pdf) <br> Apr 3: **Exam 3 released**| [Ch 5](https://app.perusall.com/courses/intro-to-linguistics-1/chapter-5-19?assignmentId=i7tR6HdzMEfCB99ck&part=1) | [Study Guide 12](resources/studyguide-week12.pdf)<br>[Practice Problems 12](resources/practiceproblems-week12.pdf)<br>[Solutions 12](resources/solutions-week12.pdf)
 13 | **Work on Exam 3**| | 
 14 | Apr 13: **Exam 3 due**<br> Apr 13: Variation <br> Apr 15: Historical | TBD | [Language journal](resources/language-journal-assignment) (due April 13)
 15 | Apr 20: Semantics <br> Apr 22: Pragmatics with Yiran & Milena<br>Apr 22: **Exam 4 released** | TBD |
