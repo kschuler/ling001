@@ -7,7 +7,7 @@ title: LING 1
 <h3 align="center">Mondays & Wednesdays <b>Online</b></h3>
 <br>
 <h4 align="center"><a href="https://piazza.com/class/k7or64b9ygz2mn?cid=47"><b>**Ask questions here for today's Q&A!**</b></a></h4>
-
+<h4 align="center"><a href="https://upenn.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%2299e28b4b-8d65-4ac1-9fe4-ab3c00e43bf5%22"><b>**Link to live Q&A session today!**</b></a></h4>
 <hr>
 After the extended Spring Break, Ling001 will be moving fully online.
 
