@@ -6,7 +6,7 @@ title: LING 1
 <h2 align="center">Spring 2020 Updated Online Syllabus</h2>
 <h3 align="center">Mondays & Wednesdays <b>Online</b></h3>
 <br>
-<h4 align="center"><a href="https://piazza.com/class/k7or64b9ygz2mn?cid=47"><b>**Ask Questions here for today's Q&A!**</b></a></h4>
+<h4 align="center"><a href="https://piazza.com/class/k7or64b9ygz2mn?cid=47"><b>**Ask questions here for today's Q&A!**</b></a></h4>
 
 <hr>
 After the extended Spring Break, Ling001 will be moving fully online.
