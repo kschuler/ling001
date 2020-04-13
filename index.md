@@ -6,8 +6,8 @@ title: LING 1
 <h2 align="center">Spring 2020 Updated Online Syllabus</h2>
 <h3 align="center">Mondays & Wednesdays <b>Online</b></h3>
 <br>
-<h4 align="center"><a href="https://piazza.com/class/k7or64b9ygz2mn?cid=47"><b>**Ask questions here for today's Q&A!**</b></a></h4>
-<h4 align="center"><a href="https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=11e441a3-f5e7-4cc7-9af4-ab970103e338"><b>**Link to live Q&A session today (April 8)!**</b></a></h4>
+<h4 align="center"><a href="resources/Ling001-20A-Exam3.pdf"><b>**Exam 3 is due today!**</b></a></h4>
+<h4 align="center"><a href="https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=827f86c3-ee74-4a94-be5e-ab9c00e493d4"><b>**Link to live lecture today (April 13)!**</b></a></h4>
 <hr>
 After the extended Spring Break, Ling001 will be moving fully online.
 
