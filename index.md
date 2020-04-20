@@ -96,7 +96,7 @@ Wk  | Lecture | Readings | Resources
 12 | Mar 30: [Syntax I](resources/Ling001-20A-15-Syntax1.pdf) <br> Apr 1: [Syntax II](resources/Ling001-20A-16-Syntax2.pdf) <br> Apr 3: **Exam 3 released**| [Ch 5](https://app.perusall.com/courses/intro-to-linguistics-1/chapter-5-19?assignmentId=i7tR6HdzMEfCB99ck&part=1) | [Study Guide 12](resources/studyguide-week12.pdf)<br>[Practice Problems 12](resources/practiceproblems-week12.pdf)<br>[Solutions 12](resources/solutions-week12.pdf)
 13 | **Work on Exam 3**| | [Exam 3](resources/Ling001-20A-Exam3.pdf)
 14 | Apr 13: **Exam 3 due**<br> Apr 13: [Variation](resources/Ling001-20A-19-Variation.pdf) <br> Apr 15: [Historical](resources/Ling001-20A-20-Historical.pdf) | [Ch 10 & 13](https://app.perusall.com/courses/intro-to-linguistics-1/ch10and13?assignmentId=CCQtsSLtuvvn3uvD8&part=1) | [Language journal](resources/language-journal-assignment) (due April 13)<br>[Practice Problems 13](resources/practiceproblems-week13.pdf)<br>[Solutions 13](resources/solutions-week13.pdf)
-15 | Apr 20: [Semantics and Pragmatics I with Yiran & Milena](resources/Ling001-20A-21-SemPrag1.pdf) <br>Apr 22: Semantics & Pragmatics II <br> **Exam 4 released** | TBD |
+15 | Apr 20: [Semantics and Pragmatics I with Yiran & Milena](resources/Ling001-20A-21-SemPrag1.pdf) <br>Apr 22: Semantics & Pragmatics II <br> **Exam 4 released** | [Ch 6 & 7](https://app.perusall.com/courses/intro-to-linguistics-1/chapter6and7?assignmentId=6tgQJudZJqegfmyKT&part=1) |
 16 | **Work on Exam 4**<br>Apr 29: **Exam 4 due** |  |
 
 ## How to do well in LING 1
