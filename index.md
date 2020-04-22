@@ -6,7 +6,7 @@ title: LING 1
 <h2 align="center">Spring 2020 Updated Online Syllabus</h2>
 <h3 align="center">Mondays & Wednesdays <b>Online</b></h3>
 <br>
-<h4 align="center"><a href="https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5293598e-982b-4d7d-84ac-aba300c19069"><b>**Today's lecture is live at 12pm!**</b></a></h4>
+<h4 align="center"><a href="https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6622663d-4773-4288-af77-aba500cdaa11"><b>**Today's lecture is live at 12pm!**</b></a></h4>
 <hr>
 After the extended Spring Break, Ling001 will be moving fully online.
 
