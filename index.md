@@ -7,7 +7,7 @@ title: LING 1
 <h3 align="center">Mondays & Wednesdays <b>Online</b></h3>
 <br>
 <h4 align="center"><b>**Exam 4 accepted without penalty through May 12**</b></h4>
-<h4 align="center"><b>**Language journal accepted without penalty through ~~Apr 29~~ **</b></h4>
+<h4 align="center"><b>**Language journal accepted without penalty through <s>Apr 29</s> May 12**</b></h4>
 <h4 align="center"><b>**Last day to go pass/fail Apr 29**</b></h4>
 <hr>
 After the extended Spring Break, Ling001 will be moving fully online.
