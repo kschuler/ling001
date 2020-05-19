@@ -79,7 +79,7 @@ Section | Time | Location | TA
 - **Reading bonus:** Add 1% point to your final grade by being a member of the recitation section with the [most engagement on perusall](resources/how-perusall-works.pdf). You must engage with most readings to be elligible.
 
 ## Schedule
-Schedule is subject to change. All lectures will be recorded and [posted here](https://upenn.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=99e28b4b-8d65-4ac1-9fe4-ab3c00e43bf5) ~~a few minutes after each class~~ at the begining of the week.
+Schedule is subject to change. All lectures will be recorded and [posted here](https://upenn.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=99e28b4b-8d65-4ac1-9fe4-ab3c00e43bf5) a few minutes after each class.
 
 Wk  | Lecture | Readings | Resources
   --- | --- | --- | ---
