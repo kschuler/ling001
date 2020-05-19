@@ -6,12 +6,7 @@ title: LING 1
 <h2 align="center">Spring 2020 Updated Online Syllabus</h2>
 <h3 align="center">Mondays & Wednesdays <b>Online</b></h3>
 <br>
-<h4 align="center"><b>**Exam 4 accepted without penalty through May 12**</b></h4>
-<h4 align="center"><b>**Language journal accepted without penalty through <s>Apr 29</s> May 12**</b></h4>
-<h4 align="center"><b>**Last day to go pass/fail Apr 29**</b></h4>
-<hr>
-
-[Exam 4 Q&A live session](https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=311d3f7a-b984-49e3-aef9-abac00ebfd5a)
+<h4 align="center"><b>**Thanks for a great semester everyone!**</b></h4>
 
 <hr>
 After the extended Spring Break, Ling001 will be moving fully online.
