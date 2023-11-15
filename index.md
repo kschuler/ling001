@@ -81,6 +81,7 @@ Section | Time | Location | TA
 ## Schedule
 Schedule is subject to change. All lectures will be recorded and [posted here](https://upenn.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=99e28b4b-8d65-4ac1-9fe4-ab3c00e43bf5) a few minutes after each class.
 
+<!---
 Wk  | Lecture | Readings | Resources
   --- | --- | --- | ---
 1 | Jan 15: [Introduction & Overview](resources/Ling001-20A-01-Intro.pdf) | | [Study Guide 1](resources/studyguide-week1.pdf)<br>No practice problems 
@@ -99,6 +100,7 @@ Wk  | Lecture | Readings | Resources
 14 | Apr 13: **Exam 3 due**<br> Apr 13: [Variation](resources/Ling001-20A-19-Variation.pdf) <br> Apr 15: [Historical](resources/Ling001-20A-20-Historical.pdf) | [Ch 10 & 13](https://app.perusall.com/courses/intro-to-linguistics-1/ch10and13?assignmentId=CCQtsSLtuvvn3uvD8&part=1) | [Language journal](resources/language-journal-assignment) (due April 13)<br>[Practice Problems 13](resources/practiceproblems-week13.pdf)<br>[Solutions 13](resources/solutions-week13.pdf)
 15 | Apr 20: [Semantics and Pragmatics I with Yiran & Milena](resources/Ling001-20A-21-SemPrag1.pdf) <br>Apr 22: [Semantics & Pragmatics II](resources/Ling001-20A-22-SemPrag2.pdf) <br> **Exam 4 released** | [Ch 6 & 7](https://app.perusall.com/courses/intro-to-linguistics-1/chapter6and7?assignmentId=6tgQJudZJqegfmyKT&part=1) | [Practice Problems 15](resources/practiceproblems-week15.pdf)<br>[Solutions 15](resources/solutions-week15 .pdf)
 16 | **Work on Exam 4**<br>Apr 29 to May 12: **Exam 4 due** |  | Exam 4 [[pdf](resources/Ling001-20A-Exam4.pdf)][[google doc](https://docs.google.com/document/d/1H-vNxvrUfOPJvQJX27zugIidPRxICe3llPZnNIGTDLk)] 
+--->
 
 ## How to do well in LING 1
 - ~~Come to class~~ Watch the videos and do the assigned readings
